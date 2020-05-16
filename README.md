@@ -1,6 +1,7 @@
 # nfl_capstone
  
 ![Data Flow Diagram](diagrams/data_flow_diagram.png)
+### Data flow diagram
 
 General thesis: We can create a model to predict NFL player effectiveness through college statistics and workout numbers.
 
