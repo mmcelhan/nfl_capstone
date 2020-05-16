@@ -1,10 +1,11 @@
 # nfl_capstone
- 
-![Data Flow Diagram](diagrams/data_flow_diagram.png)
+
 ### Data flow diagram
+![Data Flow Diagram](diagrams/data_flow_diagram.png)
 
 General thesis: We can create a model to predict NFL player effectiveness through college statistics and workout numbers.
 
+### Model thesis diagram
 ![Model Thesis](diagrams/model_thesis.png)
 
 I think we have everything we need in terms of raw data in the raw_players folder-a few things.
