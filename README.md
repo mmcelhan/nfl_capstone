@@ -2,6 +2,7 @@
  
 ![Data Flow Diagram](diagrams/data_flow_diagram.png)
 
+General thesis: We can create a model to predict NFL player effectiveness through college statistics and workout numbers.
 
 I think we have everything we need in terms of raw data in the raw_players folder-a few things.
 
@@ -13,7 +14,7 @@ Large tasks:
 1. Data acquisiton
    1. Madden Data - These exists in spreadsheets. I have found 2017 to 2020 data.
    2. Faces - can someone build a web crawler?
-   3. Edina's water idea - I love this...what else could we use?
+   3. Edina's water idea - I love this...what could we use as something that's not thought of but useful?
 2. Data transformation
    1. The toughest part is linking the player to a unique ID. Madden has an ID, but I think we'll need to fuzzy match to it. Name, college, posision, or pro teams are means to do this.
    2. Missing values - Some people skip some or all of the combine workouts. Sometimes because they're hurt, sometimes because they know it will only hurt their draft stock. I don't know the right answer for this
