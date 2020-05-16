@@ -9,6 +9,7 @@ I think we have everything we need in terms of raw data in the raw_players folde
 1. The draft order is linked to each player. This is useful later in the output section but I don't want it to leak into the input since it won't be known when the model is running
 2. We'll need to fuzzy match player name to Madden Number
 
+![Model Thesis](diagrams/model_thesis.png)
 
 Large tasks:
 1. Data acquisiton
