@@ -22,7 +22,7 @@ An example function call:
 new_df = fuzzy_merge(first_df, second_df, key1=['last_name', 'first_name', 'school'],
                      key2=['first_name', 'school', 'last_name'])
 
-Where they keys are the matching columns. Order will not matter as it's done by text. You can also change the threshold of matching, it's current set at 80% matching by Levenshtein distance.
+Where they keys are the matching columns. Order will not matter as it's done by text tokenization and a method called 'token_sort_ratio' which ignores order. You can also change the threshold of matching, it's current set at 80% matching by Levenshtein distance.
 
 ### First Input
 ![First Input](diagrams/data_1.png)
