@@ -1,0 +1,198 @@
+Abilene, TX
+Akron, OH
+Albuquerque, NM
+Ames, IA
+Amherst, MA
+Amherst, NY
+Ann Arbor, MI
+Annapolis, MD
+Ashland, OR
+Athens, GA
+Athens, OH
+Atlanta, GA
+Auburn, AL
+Austin, TX
+Azusa, CA
+Baltimore, MD
+Baton Rouge, LA
+Berkeley, CA
+Big Rapids, MI
+Birmingham, AL
+Blacksburg, VA
+Bloomington, IN
+Boca Raton, FL
+Boise St.
+Boise, ID
+Boone, NC
+Boulder, CO
+Bowling Green, KY
+Bowling Green, OH
+Bozeman, MT
+Brookings, SD
+California, PA
+Canyon, TX
+Carbondale, IL
+Carrollton, GA
+Cedar City, UT
+Cedar Falls, IA
+Champaign, IL
+Chapel Hill, NC
+Charlotte, NC
+Charlottesville, VA
+Chattanooga, TN
+Cheney, WA
+Chestnut Hill, MA
+Cincinnati, OH
+Clemson, SC
+College Park, MD
+College Station, TX
+Colorado Springs, CO
+Columbia, MO
+Columbia, SC
+Columbus, OH
+Commerce, TX
+Conway, SC
+Cookeville, TN
+Corvallis, OR
+Cullowhee, NC
+Dallas, TX
+Davis, CA
+DeKalb, IL
+Denton, TX
+Detroit, MI
+Durham, NC
+East Hartford, CT
+East Lansing, MI
+El Paso, TX
+Ellensburg, WA
+Eugene, OR
+Evanston, IL
+Fargo, ND
+Fayetteville, AR
+Flagstaff, AZ
+Florence, AL
+Fort Collins, CO
+Fort Worth, TX
+Fresno, CA
+Gainesville, FL
+Georgia State
+Glenville, WV
+Grambling, LA
+Greeley, CO
+Greensboro, NC
+Greenville, NC
+Greenville, SC
+Hammond, LA
+Hampton, VA
+Harrisonburg, VA
+Hattiesburg, MS
+Hays, KS
+Hillsdale, MI
+Homewood, AL
+Honolulu, HI
+Houston, TX
+Huntington, WV
+Huntsville, TX
+Indiana, PA
+Iowa City, IA
+Jacksonville, AL
+Jonesboro, AR
+Joplin, MO
+Kalamazoo, MI
+Kent, OH
+Knoxville, TN
+Lafayette, LA
+Lake Charles, LA
+Lane, TN
+Laramie, WY
+Las Cruces, NM
+Las Vegas, NV
+Lawrence, KS
+Lexington, KY
+Lincoln, NE
+Logan, UT
+Lorman, MS
+Los Angeles, CA
+Louisiana State
+Louisville, KY
+Lubbock, TX
+Lynchburg, VA
+Madison, WI
+Manhattan, KS
+Mars Hill, NC
+Martin, TN
+Memphis, TN
+Miami, FL
+Miami, OH
+Minneapolis, MN
+Missoula, MT
+Mobile, AL
+Monroe, LA
+Montgomery, AL
+Morgantown, WV
+Morris, MN
+Moscow, ID
+Mount Pleasant, MI
+Muncie, IN
+Murfreesboro, TN
+Nashville, TN
+Natchitoches, LA
+New Haven, CT
+New Orleans, LA
+Newark, DE
+Norfolk, VA
+Normal, IL
+Norman, OK
+Notre Dame, IN
+Ogden, UT
+Orangeburg, SC
+Orlando, FL
+Oxford, MS
+Philadelphia, PA
+Piscataway, NJ
+Pittsburgh, PA
+Pocatello, ID
+Portland, OR
+Provo, UT
+Pullman, WA
+Raleigh, NC
+Reno, NV
+Richmond, KY
+Richmond, VA
+Ruston, LA
+Salt Lake City, UT
+San Antonio, TX
+San Diego, CA
+San Jose, CA
+San Marcos, TX
+Savannah, GA
+Seattle, WA
+Shepherdstown, WV
+St. Joseph, MO
+Stanford, CA
+Starkville, MS
+State College, PA
+Statesboro, GA
+Stillwater, OK
+Syracuse, NY
+Tallahassee, FL
+Tampa, FL
+Tempe, AZ
+Thibodaux, LA
+Toledo, OH
+Towson, MD
+Troy, AL
+Tucson, AZ
+Tulsa, OK
+Tuscaloosa, AL
+Tyler, TX
+University Park, PA
+Villanova, PA
+Waco, TX
+Warrensburg, MS
+West Lafayette, IN
+West Liberty, WV
+West Point, NY
+Winston-Salem, NC
+Youngstown, OH
+Ypsilanti, MI
