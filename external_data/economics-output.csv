@@ -1,245 +1,245 @@
-,College,Geographic Location,city_lat,city_lon
-0,Abilene Christian,"Abilene, TX",,
-1,Air Force,"Colorado Springs, CO",,
-2,Akron,"Akron, OH",,
-3,Alabama,"Tuscaloosa, AL",,
-4,Alabama State,"Montgomery, AL",,
-5,Alabama-Birmingham,"Birmingham, AL",,
-6,Alcorn State,"Lorman, MS",,
-7,Appalachian St.,"Boone, NC",,
-8,Appalachian State,"Boone, NC",,
-9,Arizona,"Tucson, AZ",,
-10,Arizona State,"Tempe, AZ",,
-11,Arkansas,"Fayetteville, AR",,
-12,Arkansas State,"Jonesboro, AR",,
-13,Army,"West Point, NY",,
-14,Auburn,"Auburn, AL",,
-15,Azusa Pacific,"Azusa, CA",,
-16,Ball St.,"Muncie, IN",,
-17,Ball State,"Muncie, IN",,
-18,Baylor,"Waco, TX",,
-19,Boise St.,"Boise, ID",,
-20,Boise State,"Boise, ID",,
-21,Boston College,"Chestnut Hill, MA",,
-22,Bowling Green,"Bowling Green, OH",,
-23,Bowling Green State,"Bowling Green, OH",,
-24,Brigham Young,"Provo, UT",,
-25,Buffalo,"Amherst, NY",,
-26,BYU,"Provo, UT",,
-27,California,"Berkeley, CA",,
-28,California (PA),"California, PA",,
-29,California-Davis,"Davis, CA",,
-30,Central Florida,"Orlando, FL",,
-31,Central Michigan,"Mount Pleasant, MI",,
-32,Central Missouri,"Warrensburg, MS",,
-33,Central Washington,"Ellensburg, WA",,
-34,Charlotte,"Charlotte, NC",,
-35,Chattanooga,"Chattanooga, TN",,
-36,Cheyney,"Philadelphia, PA",,
-37,Cincinnati,"Cincinnati, OH",,
-38,Clark Atlanta,"Atlanta, GA",,
-39,Clemson,"Clemson, SC",,
-40,Coastal Carolina,"Conway, SC",,
-41,Colorado,"Boulder, CO",,
-42,Colorado St.,"Fort Collins, CO",,
-43,Colorado State,"Fort Collins, CO",,
-44,Connecticut,"East Hartford, CT",,
-45,Delaware,"Newark, DE",,
-46,Duke,"Durham, NC",,
-47,East Carolina,"Greenville, NC",,
-48,Eastern Kentucky,"Richmond, KY",,
-49,Eastern Michigan,"Ypsilanti, MI",,
-50,Eastern Washington,"Cheney, WA",,
-51,Ferris St.,"Big Rapids, MI",,
-52,Florida,"Gainesville, FL",,
-53,Florida Atlantic,"Boca Raton, FL",,
-54,Florida International,"Miami, FL",,
-55,Florida St.,"Tallahassee, FL",,
-56,Florida State,"Tallahassee, FL",,
-57,Fort Hays State,"Hays, KS",,
-58,Fresno St.,"Fresno, CA",,
-59,Fresno State,"Fresno, CA",,
-60,Furman,"Greenville, SC",,
-61,Georgia,"Athens, GA",,
-62,Georgia Southern,"Statesboro, GA",,
-63,Georgia State,"Atlanta, GA",,
-64,Georgia Tech,"Atlanta, GA",,
-65,Glenville State,"Glenville, WV",,
-66,Grambling State,"Grambling, LA",,
-67,Hampton,"Hampton, VA",,
-68,Hawaii,"Honolulu, HI",,
-69,Hillsdale,"Hillsdale, MI",,
-70,Houston,"Houston, TX",,
-71,Idaho,"Moscow, ID",,
-72,Idaho State,"Pocatello, ID",,
-73,Illinois,"Champaign, IL",,
-74,Illinois State,"Normal, IL",,
-75,Indiana,"Bloomington, IN",,
-76,Indiana (PA),"Indiana, PA",,
-77,Iowa,"Iowa City, IA",,
-78,Iowa St.,"Ames, IA",,
-79,Iowa State,"Ames, IA",,
-80,Jackson State,"Jacksonville, AL",,
-81,Jacksonville St.,"Jacksonville, AL",,
-82,Jacksonville State,"Jacksonville, AL",,
-83,James Madison,"Harrisonburg, VA",,
-84,Kansas,"Lawrence, KS",,
-85,Kansas St.,"Manhattan, KS",,
-86,Kansas State,"Manhattan, KS",,
-87,Kent State,"Kent, OH",,
-88,Kentucky,"Lexington, KY",,
-89,Lane (TN),"Lane, TN",,
-90,Liberty,"Lynchburg, VA",,
-91,Louisiana,"Lafayette, LA",,
-92,Louisiana St,"Baton Rouge, LA",,
-93,Louisiana State,"Baton Rouge, LA",,
-94,Louisiana Tech,"Ruston, LA",,
-95,Louisiana-Lafayette,"Lafayette, LA",,
-96,Louisiana-Monroe,"Monroe, LA",,
-97,Louisville,"Louisville, KY",,
-98,LSU,"Baton Rouge, LA",,
-99,Mars Hill,"Mars Hill, NC",,
-100,Marshall,"Huntington, WV",,
-101,Maryland,"College Park, MD",,
-102,Massachusetts,"Amherst, MA",,
-103,McNeese State,"Lake Charles, LA",,
-104,Memphis,"Memphis, TN",,
-105,Miami,"Miami, FL",,
-106,Miami (FL),"Miami, FL",,
-107,Miami (OH),"Miami, OH",,
-108,Michigan,"Ann Arbor, MI",,
-109,Michigan St.,"East Lansing, MI",,
-110,Michigan State,"East Lansing, MI",,
-111,Middle Tennessee St.,"Murfreesboro, TN",,
-112,Middle Tennessee State,"Murfreesboro, TN",,
-113,Minnesota,"Minneapolis, MN",,
-114,Minnesota-Morris,"Morris, MN",,
-115,Mississippi,"Oxford, MS",,
-116,Mississippi St.,"Starkville, MS",,
-117,Mississippi State,"Starkville, MS",,
-118,Missouri,"Columbia, MO",,
-119,Missouri Southern,"Joplin, MO",,
-120,Missouri Western,"St. Joseph, MO",,
-121,Montana,"Missoula, MT",,
-122,Montana St,"Bozeman, MT",,
-123,Montana State,"Bozeman, MT",,
-124,Morgan State,"Baltimore, MD",,
-125,Navy,"Annapolis, MD",,
-126,Nebraska,"Lincoln, NE",,
-127,Nevada,"Reno, NV",,
-128,New Mexico,"Albuquerque, NM",,
-129,New Mexico St.,"Las Cruces, NM",,
-130,New Mexico State,"Las Cruces, NM",,
-131,Nicholls State,"Thibodaux, LA",,
-132,Norfolk State,"Norfolk, VA",,
-133,North Alabama,"Florence, AL",,
-134,North Carolina,"Chapel Hill, NC",,
-135,North Carolina A&T,"Greensboro, NC",,
-136,North Carolina Central,"Durham, NC",,
-137,North Carolina St.,"Raleigh, NC",,
-138,North Carolina State,"Raleigh, NC",,
-139,North Dakota St,"Fargo, ND",,
-140,North Dakota State,"Fargo, ND",,
-141,North Texas,"Denton, TX",,
-142,Northern Arizona,"Flagstaff, AZ",,
-143,Northern Colorado,"Greeley, CO",,
-144,Northern Illinois,"DeKalb, IL",,
-145,Northern Iowa,"Cedar Falls, IA",,
-146,Northwestern,"Evanston, IL",,
-147,Northwestern St. (LA),"Natchitoches, LA",,
-148,Northwestern State,"Natchitoches, LA",,
-149,Notre Dame,"Notre Dame, IN",,
-150,Ohio,"Athens, OH",,
-151,Ohio St.,"Columbus, OH",,
-152,Ohio State,"Columbus, OH",,
-153,Oklahoma,"Norman, OK",,
-154,Oklahoma St.,"Stillwater, OK",,
-155,Oklahoma State,"Stillwater, OK",,
-156,Old Dominion,"Norfolk, VA",,
-157,Oregon,"Eugene, OR",,
-158,Oregon St.,"Corvallis, OR",,
-159,Oregon State,"Corvallis, OR",,
-160,Penn St.,"State College, PA",,
-161,Penn State,"University Park, PA",,
-162,Pittsburgh,"Pittsburgh, PA",,
-163,Portland State,"Portland, OR",,
-164,Purdue,"West Lafayette, IN",,
-165,Rice,"Houston, TX",,
-166,Richmond,"Richmond, VA",,
-167,Rutgers,"Piscataway, NJ",,
-168,Sam Houston State,"Huntsville, TX",,
-169,Samford,"Homewood, AL",,
-170,San Diego,"San Diego, CA",,
-171,San Diego St.,"San Diego, CA",,
-172,San Diego State,"San Diego, CA",,
-173,San Jose St,"San Jose, CA",,
-174,San Jose St.,"San Jose, CA",,
-175,San Jose State,"San Jose, CA",,
-176,Savannah State,"Savannah, GA",,
-177,Shepherd,"Shepherdstown, WV",,
-178,SMU,"Dallas, TX",,
-179,South Alabama,"Mobile, AL",,
-180,South Carolina,"Columbia, SC",,
-181,South Carolina State,"Orangeburg, SC",,
-182,South Dakota St.,"Brookings, SD",,
-183,South Florida,"Tampa, FL",,
-184,Southeastern Louisiana,"Hammond, LA",,
-185,Southern,"Baton Rouge, LA",,
-186,Southern California,"Los Angeles, CA",,
-187,Southern Illinois,"Carbondale, IL",,
-188,Southern Methodist,"Dallas, TX",,
-189,Southern Miss,"Hattiesburg, MS",,
-190,Southern Oregon,"Ashland, OR",,
-191,Southern Utah,"Cedar City, UT",,
-192,Stanford,"Stanford, CA",,
-193,Stillman,"Tuscaloosa, AL",,
-194,Syracuse,"Syracuse, NY",,
-195,TCU,"Fort Worth, TX",,
-196,Temple,"Philadelphia, PA",,
-197,Tennessee,"Knoxville, TN",,
-198,Tennessee State,"Nashville, TN",,
-199,Tennessee Tech,"Cookeville, TN",,
-200,Tennessee-Martin,"Martin, TN",,
-201,Texas,"Austin, TX",,
-202,Texas A&M,"College Station, TX",,
-203,Texas A&M-Commerce,"Commerce, TX",,
-204,Texas Christian,"Fort Worth, TX",,
-205,Texas College,"Tyler, TX",,
-206,Texas St.,"San Marcos, TX",,
-207,Texas State,"San Marcos, TX",,
-208,Texas Tech,"Lubbock, TX",,
-209,Texas-El Paso,"El Paso, TX",,
-210,Texas-San Antonio,"San Antonio, TX",,
-211,Toledo,"Toledo, OH",,
-212,Towson,"Towson, MD",,
-213,Troy,"Troy, AL",,
-214,Tulane,"New Orleans, LA",,
-215,Tulsa,"Tulsa, OK",,
-216,UC Davis,"Davis, CA",,
-217,UCLA,"Los Angeles, CA",,
-218,UNLV,"Las Vegas, NV",,
-219,USC,"Los Angeles, CA",,
-220,Utah,"Salt Lake City, UT",,
-221,Utah St.,"Logan, UT",,
-222,Utah State,"Logan, UT",,
-223,Vanderbilt,"Nashville, TN",,
-224,Villanova,"Villanova, PA",,
-225,Virginia,"Charlottesville, VA",,
-226,Virginia Tech,"Blacksburg, VA",,
-227,Wake Forest,"Winston-Salem, NC",,
-228,Washington,"Seattle, WA",,
-229,Washington St.,"Pullman, WA",,
-230,Washington State,"Pullman, WA",,
-231,Wayne State (MI),"Detroit, MI",,
-232,Weber State,"Ogden, UT",,
-233,West Georgia,"Carrollton, GA",,
-234,West Liberty,"West Liberty, WV",,
-235,West Texas A&M,"Canyon, TX",,
-236,West Virginia,"Morgantown, WV",,
-237,Western Carolina,"Cullowhee, NC",,
-238,Western Kentucky,"Bowling Green, KY",,
-239,Western Michigan,"Kalamazoo, MI",,
-240,Wisconsin,"Madison, WI",,
-241,Wyoming,"Laramie, WY",,
-242,Yale,"New Haven, CT",,
-243,Youngstown State,"Youngstown, OH",,
+,College,Geographic Location,county,state
+0,Abilene Christian,"Abilene, TX", Taylor County, TX
+1,Air Force,"Colorado Springs, CO", El Paso County, CO
+2,Akron,"Akron, OH", Summit County, OH
+3,Alabama,"Tuscaloosa, AL", Jefferson County, AL
+4,Alabama State,"Montgomery, AL", Clearfield County, AL
+5,Alabama-Birmingham,"Birmingham, AL", Jefferson County, AL
+6,Alcorn State,"Lorman, MS", Jefferson County, MS
+7,Appalachian St.,"Boone, NC", Watauga County, NC
+8,Appalachian State,"Boone, NC", Watauga County, NC
+9,Arizona,"Tucson, AZ", Pima County, AZ
+10,Arizona State,"Tempe, AZ", Maricopa County, AZ
+11,Arkansas,"Fayetteville, AR", Washington County, AR
+12,Arkansas State,"Jonesboro, AR", Craighead County, AR
+13,Army,"West Point, NY", Suffolk County, NY
+14,Auburn,"Auburn, AL", Jefferson County, AL
+15,Azusa Pacific,"Azusa, CA", Los Angeles County, CA
+16,Ball St.,"Muncie, IN", Delaware County, IN
+17,Ball State,"Muncie, IN", Delaware County, IN
+18,Baylor,"Waco, TX", McLennan County, TX
+19,Boise St.,"Boise, ID", Ada County, ID
+20,Boise State,"Boise, ID", Ada County, ID
+21,Boston College,"Chestnut Hill, MA",, MA
+22,Bowling Green,"Bowling Green, OH", Wood County, OH
+23,Bowling Green State,"Bowling Green, OH", Wood County, OH
+24,Brigham Young,"Provo, UT", Utah County, UT
+25,Buffalo,"Amherst, NY", Erie County, NY
+26,BYU,"Provo, UT", Utah County, UT
+27,California,"Berkeley, CA", Alameda County, CA
+28,California (PA),"California, PA", Washington County, PA
+29,California-Davis,"Davis, CA", Yolo County, CA
+30,Central Florida,"Orlando, FL", Orange County, FL
+31,Central Michigan,"Mount Pleasant, MI", Isabella County, MI
+32,Central Missouri,"Warrensburg, MS", Johnson County, MS
+33,Central Washington,"Ellensburg, WA", Kittitas County, WA
+34,Charlotte,"Charlotte, NC", Mecklenburg County, NC
+35,Chattanooga,"Chattanooga, TN", Hamilton County, TN
+36,Cheyney,"Philadelphia, PA", Philadelphia County, PA
+37,Cincinnati,"Cincinnati, OH", Hamilton County, OH
+38,Clark Atlanta,"Atlanta, GA", Fulton County, GA
+39,Clemson,"Clemson, SC", Pickens County, SC
+40,Coastal Carolina,"Conway, SC", Horry County, SC
+41,Colorado,"Boulder, CO",Boulder County, CO
+42,Colorado St.,"Fort Collins, CO", Larimer County, CO
+43,Colorado State,"Fort Collins, CO", Larimer County, CO
+44,Connecticut,"East Hartford, CT", Hartford County, CT
+45,Delaware,"Newark, DE", New Castle County, DE
+46,Duke,"Durham, NC", Durham County, NC
+47,East Carolina,"Greenville, NC", Pitt County, NC
+48,Eastern Kentucky,"Richmond, KY", Madison County, KY
+49,Eastern Michigan,"Ypsilanti, MI", Washtenaw County, MI
+50,Eastern Washington,"Cheney, WA", Spokane County, WA
+51,Ferris St.,"Big Rapids, MI", Mecosta County, MI
+52,Florida,"Gainesville, FL", Alachua County, FL
+53,Florida Atlantic,"Boca Raton, FL", Palm Beach County, FL
+54,Florida International,"Miami, FL", Miami-Dade County, FL
+55,Florida St.,"Tallahassee, FL", Leon County, FL
+56,Florida State,"Tallahassee, FL", Leon County, FL
+57,Fort Hays State,"Hays, KS", Ellis County, KS
+58,Fresno St.,"Fresno, CA", Fresno County, CA
+59,Fresno State,"Fresno, CA", Fresno County, CA
+60,Furman,"Greenville, SC", Greenville County, SC
+61,Georgia,"Athens, GA", Athens-Clarke County, GA
+62,Georgia Southern,"Statesboro, GA", Bulloch County, GA
+63,Georgia State,"Atlanta, GA", Fulton County, GA
+64,Georgia Tech,"Atlanta, GA", Fulton County, GA
+65,Glenville State,"Glenville, WV", Gilmer County, WV
+66,Grambling State,"Grambling, LA", Lincoln Parish, LA
+67,Hampton,"Hampton, VA",, VA
+68,Hawaii,"Honolulu, HI", Honolulu County, HI
+69,Hillsdale,"Hillsdale, MI",Hillsdale County, MI
+70,Houston,"Houston, TX", Harris County, TX
+71,Idaho,"Moscow, ID", Latah County, ID
+72,Idaho State,"Pocatello, ID", Bannock County, ID
+73,Illinois,"Champaign, IL", Champaign County, IL
+74,Illinois State,"Normal, IL", McLean County, IL
+75,Indiana,"Bloomington, IN", Monroe County, IN
+76,Indiana (PA),"Indiana, PA",Indiana County, PA
+77,Iowa,"Iowa City, IA", Johnson County, IA
+78,Iowa St.,"Ames, IA", Story County, IA
+79,Iowa State,"Ames, IA", Story County, IA
+80,Jackson State,"Jacksonville, AL", Calhoun County, AL
+81,Jacksonville St.,"Jacksonville, AL", Calhoun County, AL
+82,Jacksonville State,"Jacksonville, AL", Calhoun County, AL
+83,James Madison,"Harrisonburg, VA",, VA
+84,Kansas,"Lawrence, KS", Douglas County, KS
+85,Kansas St.,"Manhattan, KS", Riley County, KS
+86,Kansas State,"Manhattan, KS", Riley County, KS
+87,Kent State,"Kent, OH", Portage County, OH
+88,Kentucky,"Lexington, KY", Fayette County, KY
+89,Lane (TN),"Lane, TN", Dyer County, TN
+90,Liberty,"Lynchburg, VA",, VA
+91,Louisiana,"Lafayette, LA", Lafayette Parish, LA
+92,Louisiana St,"Baton Rouge, LA", East Baton Rouge Parish, LA
+93,Louisiana State,"Baton Rouge, LA", East Baton Rouge Parish, LA
+94,Louisiana Tech,"Ruston, LA", Lincoln Parish, LA
+95,Louisiana-Lafayette,"Lafayette, LA", Lafayette Parish, LA
+96,Louisiana-Monroe,"Monroe, LA",Monroe County, LA
+97,Louisville,"Louisville, KY", Jefferson County, KY
+98,LSU,"Baton Rouge, LA", East Baton Rouge Parish, LA
+99,Mars Hill,"Mars Hill, NC", Madison County, NC
+100,Marshall,"Huntington, WV", Cabell County, WV
+101,Maryland,"College Park, MD", Prince George's County, MD
+102,Massachusetts,"Amherst, MA", Hampshire County, MA
+103,McNeese State,"Lake Charles, LA", Calcasieu Parish, LA
+104,Memphis,"Memphis, TN", Shelby County, TN
+105,Miami,"Miami, FL", Miami-Dade County, FL
+106,Miami (FL),"Miami, FL", Miami-Dade County, FL
+107,Miami (OH),"Miami, OH",Miami County, OH
+108,Michigan,"Ann Arbor, MI", Washtenaw County, MI
+109,Michigan St.,"East Lansing, MI", Ingham County, MI
+110,Michigan State,"East Lansing, MI", Ingham County, MI
+111,Middle Tennessee St.,"Murfreesboro, TN", Rutherford County, TN
+112,Middle Tennessee State,"Murfreesboro, TN", Rutherford County, TN
+113,Minnesota,"Minneapolis, MN", Hennepin County, MN
+114,Minnesota-Morris,"Morris, MN", Stevens County, MN
+115,Mississippi,"Oxford, MS", Oakland County, MS
+116,Mississippi St.,"Starkville, MS", Oktibbeha County, MS
+117,Mississippi State,"Starkville, MS", Oktibbeha County, MS
+118,Missouri,"Columbia, MO", Boone County, MO
+119,Missouri Southern,"Joplin, MO", Jasper County, MO
+120,Missouri Western,"St. Joseph, MO", Buchanan County, MO
+121,Montana,"Missoula, MT", Missoula County, MT
+122,Montana St,"Bozeman, MT", Gallatin County, MT
+123,Montana State,"Bozeman, MT", Gallatin County, MT
+124,Morgan State,"Baltimore, MD",, MD
+125,Navy,"Annapolis, MD", Anne Arundel County, MD
+126,Nebraska,"Lincoln, NE", Lancaster County, NE
+127,Nevada,"Reno, NV", Washoe County, NV
+128,New Mexico,"Albuquerque, NM", Bernalillo County, NM
+129,New Mexico St.,"Las Cruces, NM", Doña Ana County, NM
+130,New Mexico State,"Las Cruces, NM", Doña Ana County, NM
+131,Nicholls State,"Thibodaux, LA", Lafourche Parish, LA
+132,Norfolk State,"Norfolk, VA",, VA
+133,North Alabama,"Florence, AL", Bexar County, AL
+134,North Carolina,"Chapel Hill, NC", Orange County, NC
+135,North Carolina A&T,"Greensboro, NC", Guilford County, NC
+136,North Carolina Central,"Durham, NC", Durham County, NC
+137,North Carolina St.,"Raleigh, NC", Wake County, NC
+138,North Carolina State,"Raleigh, NC", Wake County, NC
+139,North Dakota St,"Fargo, ND", Cass County, ND
+140,North Dakota State,"Fargo, ND", Cass County, ND
+141,North Texas,"Denton, TX",Denton County, TX
+142,Northern Arizona,"Flagstaff, AZ", Coconino County, AZ
+143,Northern Colorado,"Greeley, CO",Greeley County, CO
+144,Northern Illinois,"DeKalb, IL",DeKalb County, IL
+145,Northern Iowa,"Cedar Falls, IA",, IA
+146,Northwestern,"Evanston, IL", Cook County, IL
+147,Northwestern St. (LA),"Natchitoches, LA", Natchitoches Parish, LA
+148,Northwestern State,"Natchitoches, LA", Natchitoches Parish, LA
+149,Notre Dame,"Notre Dame, IN", Saint Joseph County, IN
+150,Ohio,"Athens, OH",Athens County, OH
+151,Ohio St.,"Columbus, OH", Franklin County, OH
+152,Ohio State,"Columbus, OH", Franklin County, OH
+153,Oklahoma,"Norman, OK",, OK
+154,Oklahoma St.,"Stillwater, OK",, OK
+155,Oklahoma State,"Stillwater, OK",, OK
+156,Old Dominion,"Norfolk, VA",, VA
+157,Oregon,"Eugene, OR", Lane County, OR
+158,Oregon St.,"Corvallis, OR", Benton County, OR
+159,Oregon State,"Corvallis, OR", Benton County, OR
+160,Penn St.,"State College, PA", Centre County, PA
+161,Penn State,"University Park, PA", Lafayette County, PA
+162,Pittsburgh,"Pittsburgh, PA", Allegheny County, PA
+163,Portland State,"Portland, OR", Multnomah County, OR
+164,Purdue,"West Lafayette, IN", Tippecanoe County, IN
+165,Rice,"Houston, TX", Harris County, TX
+166,Richmond,"Richmond, VA",, VA
+167,Rutgers,"Piscataway, NJ", Middlesex County, NJ
+168,Sam Houston State,"Huntsville, TX", Walker County, TX
+169,Samford,"Homewood, AL", Jefferson County, AL
+170,San Diego,"San Diego, CA", San Diego County, CA
+171,San Diego St.,"San Diego, CA", San Diego County, CA
+172,San Diego State,"San Diego, CA", San Diego County, CA
+173,San Jose St,"San Jose, CA", Santa Clara County, CA
+174,San Jose St.,"San Jose, CA", Santa Clara County, CA
+175,San Jose State,"San Jose, CA", Santa Clara County, CA
+176,Savannah State,"Savannah, GA", Chatham County, GA
+177,Shepherd,"Shepherdstown, WV", Jefferson County, WV
+178,SMU,"Dallas, TX", Dallas County, TX
+179,South Alabama,"Mobile, AL", Dearborn County, AL
+180,South Carolina,"Columbia, SC", Richland County, SC
+181,South Carolina State,"Orangeburg, SC", Orangeburg County, SC
+182,South Dakota St.,"Brookings, SD",Brookings County, SD
+183,South Florida,"Tampa, FL", Hillsborough County, FL
+184,Southeastern Louisiana,"Hammond, LA", Lake County, LA
+185,Southern,"Baton Rouge, LA", East Baton Rouge Parish, LA
+186,Southern California,"Los Angeles, CA", Los Angeles County, CA
+187,Southern Illinois,"Carbondale, IL", Jackson County, IL
+188,Southern Methodist,"Dallas, TX", Dallas County, TX
+189,Southern Miss,"Hattiesburg, MS", Forrest County, MS
+190,Southern Oregon,"Ashland, OR", Jackson County, OR
+191,Southern Utah,"Cedar City, UT", Iron County, UT
+192,Stanford,"Stanford, CA", Santa Clara County, CA
+193,Stillman,"Tuscaloosa, AL", Jefferson County, AL
+194,Syracuse,"Syracuse, NY", Onondaga County, NY
+195,TCU,"Fort Worth, TX", Tarrant County, TX
+196,Temple,"Philadelphia, PA", Philadelphia County, PA
+197,Tennessee,"Knoxville, TN", Knox County, TN
+198,Tennessee State,"Nashville, TN", Davidson County, TN
+199,Tennessee Tech,"Cookeville, TN", Putnam County, TN
+200,Tennessee-Martin,"Martin, TN", Weakley County, TN
+201,Texas,"Austin, TX", Travis County, TX
+202,Texas A&M,"College Station, TX", Brazos County, TX
+203,Texas A&M-Commerce,"Commerce, TX", Hunt County, TX
+204,Texas Christian,"Fort Worth, TX", Tarrant County, TX
+205,Texas College,"Tyler, TX", Smith County, TX
+206,Texas St.,"San Marcos, TX", Hays County, TX
+207,Texas State,"San Marcos, TX", Hays County, TX
+208,Texas Tech,"Lubbock, TX", Lubbock County, TX
+209,Texas-El Paso,"El Paso, TX", El Paso County, TX
+210,Texas-San Antonio,"San Antonio, TX", Bexar County, TX
+211,Toledo,"Toledo, OH", Lucas County, OH
+212,Towson,"Towson, MD", Baltimore County, MD
+213,Troy,"Troy, AL", San Francisco City and County, AL
+214,Tulane,"New Orleans, LA", Orleans Parish, LA
+215,Tulsa,"Tulsa, OK", Tulsa County, OK
+216,UC Davis,"Davis, CA", Yolo County, CA
+217,UCLA,"Los Angeles, CA", Los Angeles County, CA
+218,UNLV,"Las Vegas, NV", Clark County, NV
+219,USC,"Los Angeles, CA", Los Angeles County, CA
+220,Utah,"Salt Lake City, UT", Salt Lake County, UT
+221,Utah St.,"Logan, UT", Cache County, UT
+222,Utah State,"Logan, UT", Cache County, UT
+223,Vanderbilt,"Nashville, TN", Davidson County, TN
+224,Villanova,"Villanova, PA", Delaware County, PA
+225,Virginia,"Charlottesville, VA",, VA
+226,Virginia Tech,"Blacksburg, VA", Montgomery County, VA
+227,Wake Forest,"Winston-Salem, NC", Forsyth County, NC
+228,Washington,"Seattle, WA", King County, WA
+229,Washington St.,"Pullman, WA", Whitman County, WA
+230,Washington State,"Pullman, WA", Whitman County, WA
+231,Wayne State (MI),"Detroit, MI", Wayne County, MI
+232,Weber State,"Ogden, UT", Weber County, UT
+233,West Georgia,"Carrollton, GA", Carroll County, GA
+234,West Liberty,"West Liberty, WV", Ohio County, WV
+235,West Texas A&M,"Canyon, TX", Randall County, TX
+236,West Virginia,"Morgantown, WV", Monongalia County, WV
+237,Western Carolina,"Cullowhee, NC", Jackson County, NC
+238,Western Kentucky,"Bowling Green, KY", Warren County, KY
+239,Western Michigan,"Kalamazoo, MI", Kalamazoo County, MI
+240,Wisconsin,"Madison, WI", Dane County, WI
+241,Wyoming,"Laramie, WY", Livingston County, WY
+242,Yale,"New Haven, CT", Prince George's County, CT
+243,Youngstown State,"Youngstown, OH", Mahoning County, OH
