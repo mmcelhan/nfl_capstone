@@ -1,0 +1,35 @@
+{
+  "source": "data_staging",
+  "target": "data_warehouse",
+  "output_folder": "statistics_wh",
+  "output_file": "madden_ratings.csv",
+  "file_list": [{"folder":"statistics_stage", "file": "madden_2016.csv"},
+    {"folder":"statistics_stage", "file": "madden_2017.csv"},
+    {"folder":"statistics_stage", "file": "madden_2018.csv"},
+    {"folder":"statistics_stage", "file": "madden_2019.csv"},
+    {"folder":"statistics_stage", "file": "madden_2020.csv"}
+            ],
+  "columns":
+          ["first_name","last_name","position","player_match_position","madden_rating","year"],
+  "column_rename":
+  {
+    "Team": "team",
+    "First Name": "first_name",
+    "First": "first_name",
+    "Last": "last_name",
+    "Last Name": "last_name",
+    "Position": "position",
+    "OVR": "madden_rating",
+    "Overall": "madden_rating",
+    "ovr rating": "madden_rating"
+  },
+  "year":
+  {
+    "madden_2016.csv": 2016,
+    "madden_2017.csv": 2017,
+    "madden_2018.csv": 2018,
+    "madden_2019.csv": 2019,
+    "madden_2020.csv": 2020
+  }
+
+}
