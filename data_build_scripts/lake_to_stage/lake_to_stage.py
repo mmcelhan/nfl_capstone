@@ -1,23 +1,26 @@
 import json
 import os
-import glob
+import shutil
+
+
+def make_folder_if_not_exists(path):
+    """ creates a folder if it doesn't exist already """
+    if not os.path.exists(path):
+        os.makedirs(path)
 
 
 f = open("lake_to_stage.json")
 two_up = os.path.abspath(os.path.join(os.getcwd(),"../.."))
 
 data = json.load(f)
-source = data['source']
-target = data['target']
+source_dir = os.path.join(two_up, data['source'])  # should work in both mac and windows
+target_dir = os.path.join(two_up, data['target'])
 
-source_dir = os.path.join(two_up, source)  # should work in both mac and windows
-target_dir = os.path.join(two_up, target)
-print(source_dir)
-print(target_dir)
-print(two_up)
-
-for file in data['keep_files']
-
-print(glob.glob(target_dir + "//*"))
+for file in data['keep_files']:
+    source = os.path.join(source_dir, file['folder'], file['file'])
+    target_folder = os.path.join(target_dir, file['folder'] + data["target_suffix"])
+    target = os.path.join(target_folder, file['file'])
+    make_folder_if_not_exists(target_folder)
+    shutil.copyfile(source, target)
 
 

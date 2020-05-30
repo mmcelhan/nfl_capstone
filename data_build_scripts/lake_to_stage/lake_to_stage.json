@@ -1,6 +1,7 @@
 {
   "source": "data_lake",
   "target": "data_staging",
+  "target_suffix": "_stage",
 "keep_files": [{"folder":"statistics", "file": "madden_2016.csv"},
     {"folder":"statistics", "file": "madden_2017.csv"},
     {"folder":"statistics", "file": "madden_2018.csv"},
