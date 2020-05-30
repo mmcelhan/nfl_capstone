@@ -1,0 +1,10 @@
+{
+  "source": "data_lake",
+  "target": "data_staging",
+"keep_files": [{"folder":"statistics", "file": "madden_2016.csv"},
+    {"folder":"statistics", "file": "madden_2017.csv"},
+    {"folder":"statistics", "file": "madden_2018.csv"},
+    {"folder":"statistics", "file": "madden_2019.csv"},
+    {"folder":"statistics", "file": "madden_2020.csv"},
+    {"folder":"players", "file": "raw_players_college.csv"}]
+}
