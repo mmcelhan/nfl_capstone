@@ -1,6 +1,7 @@
 import requests
 import json
-from operator import itemgetter
+import pandas as pd
+import os
 
 def load_schools(length):
     school_list = []
@@ -20,14 +21,21 @@ def load_positions():
 
 
 def get_schools():
-    url = "https://api.collegefootballdata.com/teams"
-    params = {"searchTerm":""}
+    url = "https://api.collegefootballdata.com/conferences"
+    params = {"searchTerm": ""}
     response = requests.get(url, params=params)
-    dictionary = json.loads(response.content)
-    result = list(map(lambda x: x['school'], dictionary))
-    with open('schools.txt', 'w') as f:
-        for item in result:
-            f.write('%s\n' % item)
+    c = json.loads(response.content)
+    for conference in c:
+        print(conference)
+        params = {"conference": conference['name']}
+        response = requests.get(url, params=params)
+        teams = json.loads(response)
+        for t in teams:
+            print(t)
+    #result = list(map(lambda x: x['school'], dictionary))
+    #with open('schools.txt', 'w') as f:
+    #    for item in result:
+    #        f.write('%s\n' % item)
 
 
 def write_list_to_file(l, file_name):
@@ -59,47 +67,46 @@ def get_positions():
         for item in positions:
             f.write('%s\n' % item)
 
-def get_players(schools, positions, letters):
-    player_list = []
-    temp_dict = {}
-    url = "https://api.collegefootballdata.com/player/search"
-    counter = 0
+
+def get_players(schools, years):
+
+    if os.path.exists("raw_players.csv"):
+        player_df = pd.read_csv("raw_players.csv")
+    else:
+        column_names = ["id", "first_name", "last_name", "weight", "height", "jersey", "year",
+                        "position", "home_city", "home_state", "home_country", "school"]
+        player_df = pd.DataFrame(columns=column_names)
+
+    url = "https://api.collegefootballdata.com/roster"
     for school in schools:
-        for letter in letters:
-            for position in positions:
-                params = {"team": school, "position": position, "searchTerm": letter}
-                response = requests.get(url, params=params)
-                temp_dict = json.loads(response.content)
-                for value in temp_dict:
-                    player_list.append(value)
+        for year in years:
+            params = {"team": school, "year": year}
+            response = requests.get(url, params=params)
+            temp_dict = json.loads(response.content)
+            for value in temp_dict:
+                value['school'] = school
+                value['year'] = year
+                df = pd.DataFrame([value], columns=value.keys())
+                player_df = player_df.append(df, ignore_index=True)
 
-                counter += 1
-                print(len(player_list))
-    print(player_list)
-    player_list = [dict(t) for t in {tuple(d.items()) for d in player_list}]
-    print(player_list)
-    print(len(player_list))
+    columns_order = ["id", "first_name", "last_name", "school", "year", "weight", "height", "jersey",
+                     "position", "home_city", "home_state", "home_country"]
 
-    write_list_to_file(player_list, "players.txt")
+    player_df = player_df[columns_order]
+    player_df = player_df[player_df["id"].notna()]
+    player_df['id'] = player_df['id'].astype(int)
+    player_df = player_df.where(player_df['id'] > 0)  # remove negative values (teams)
+    player_df = player_df.sort_values('id', ascending=False)
+    player_df.drop_duplicates(subset="id", keep="last", inplace=True)
+    player_df = player_df[player_df["id"].notna()]
+    player_df = player_df[player_df["last_name"].notna()]
+    player_df['id'] = player_df['id'].astype(int)
+    player_df['year'] = player_df['year'].astype(int)
+    player_df.to_csv("raw_players.csv", index=False)
 
     return None  # end function
 
 
-letters = [chr(i) for i in range(ord('a'),ord('z')+1)]
-letters.remove("q")
-letters.remove("z")
-letters.remove("x")
-letters.remove("v")
-
-#get_players(load_schools(738), load_positions(), letters)
-get_players(['Pittsburgh'], load_positions(), letters)
-
-
-"""
-params = {"team": team, "searchTerm": letter}
-response = requests.get(url, params=params)
-print(response.content)
-dictionary = json.loads(response.content)
-position_list = set(list(map(lambda x: x['position'], dictionary)))
-positions = positions.union(position_list)
-"""
+years = list(range(2010, 2012, 1))
+print(years)
+get_players(load_schools(738), years)
