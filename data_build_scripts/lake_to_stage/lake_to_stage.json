@@ -7,5 +7,8 @@
     {"folder":"statistics", "file": "madden_2018.csv"},
     {"folder":"statistics", "file": "madden_2019.csv"},
     {"folder":"statistics", "file": "madden_2020.csv"},
-    {"folder":"players", "file": "raw_players_college.csv"}]
+    {"folder":"statistics", "file":"college_stats_annual.csv"},
+    {"folder":"statistics", "file":"combine_stats.csv"},
+    {"folder":"players", "file": "raw_players_college.csv"},
+    {"folder":"players", "file":"players.csv"}]
 }

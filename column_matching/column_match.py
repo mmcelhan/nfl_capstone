@@ -59,8 +59,6 @@ def fuzzy_merge(df_1, df_2, key1, key2, threshold=80, limit=1):
 local_path = os.path.dirname(os.path.abspath(__file__))
 f = open(os.path.join(local_path, "common_words.json"))
 words = json.load(f)
-#with open('common_words.json') as f:
-    #words = json.load(f)
 common_words = words['words']
 
 # Example code
