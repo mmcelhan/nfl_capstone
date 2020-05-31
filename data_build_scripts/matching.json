@@ -1,0 +1,28 @@
+{
+
+  "position_groups":
+  {
+    "TE": "TE",
+    "HB": "RB",
+    "QB": "QB",
+    "C": "OL",
+    "CB": "DB",
+    "WR": "WR",
+    "LT": "OL",
+    "SS": "DB",
+    "MLB": "LB",
+    "RG": "OL",
+    "DT": "DL",
+    "K": "K",
+    "RT": "OL",
+    "P": "P",
+    "ROLB": "LB",
+    "LE": "DL",
+    "RE": "DL",
+    "LOLB": "LB",
+    "LG": "LG",
+    "FS": "S",
+    "FB": "RB"
+  }
+
+}

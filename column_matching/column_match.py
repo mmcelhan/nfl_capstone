@@ -2,6 +2,7 @@ import pandas as pd
 import fuzzywuzzy
 from fuzzywuzzy import process
 import json
+import os
 
 def format_match_string(string):
     """ function that converts to lower case and removes common words """
@@ -55,12 +56,19 @@ def fuzzy_merge(df_1, df_2, key1, key2, threshold=80, limit=1):
     return df_1
 
 
+local_path = os.path.dirname(os.path.abspath(__file__))
+f = open(os.path.join(local_path, "common_words.json"))
+words = json.load(f)
+#with open('common_words.json') as f:
+    #words = json.load(f)
+common_words = words['words']
+
+# Example code
+"""
 first_df = pd.read_csv("data_1.csv")
 second_df = pd.read_csv("data_2.csv")
 
-with open('common_words.json') as f:
-    words = json.load(f)
-common_words = words['words']
+
 
 new_df = fuzzy_merge(first_df, second_df, key1=['last_name', 'first_name', 'school'],
                      key2=['first_name', 'school', 'last_name'])
@@ -68,3 +76,4 @@ new_df = fuzzy_merge(first_df, second_df, key1=['last_name', 'first_name', 'scho
 # check the results
 print(new_df)
 new_df.to_csv('output.csv', index=False)
+"""
