@@ -10,7 +10,7 @@
     {"folder":"statistics_stage", "file": "madden_2020.csv"}
             ],
   "columns":
-          ["first_name","last_name","position","player_match_position","madden_rating","year"],
+          ["first_name","last_name","position","position_group","madden_rating","year"],
   "column_rename":
   {
     "Team": "team",

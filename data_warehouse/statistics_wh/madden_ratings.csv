@@ -1,4 +1,4 @@
-first_name,last_name,position,player_match_position,madden_rating,year,2016_madden_rating,2017_madden_rating,2018_madden_rating,2019_madden_rating,2020_madden_rating
+first_name,last_name,position,position_group,madden_rating,year,2016_madden_rating,2017_madden_rating,2018_madden_rating,2019_madden_rating,2020_madden_rating
 Blake,Bell,TE,TE,65,2016,65.0,65,65,62,64
 Derek,Carrier,TE,TE,69,2016,69.0,73,72,70,69
 Garrett,Celek,TE,TE,72,2016,72.0,75,70,75,73

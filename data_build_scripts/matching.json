@@ -4,6 +4,12 @@
   {
     "TE": "TE",
     "HB": "RB",
+    "RB": "RB",
+    "WR": "WR",
+    "OT": "OL",
+    "OLB": "LB",
+    "DE": "DL",
+    "S":"DB",
     "QB": "QB",
     "C": "OL",
     "CB": "DB",
@@ -22,7 +28,12 @@
     "LOLB": "LB",
     "LG": "LG",
     "FS": "S",
-    "FB": "RB"
+    "FB": "RB",
+    "LS": "LS",
+    "DL": "DL",
+    "OG": "OL",
+    "ILB": "LB"
+
   }
 
 }
