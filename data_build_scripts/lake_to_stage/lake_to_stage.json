@@ -9,6 +9,7 @@
     {"folder":"statistics", "file": "madden_2020.csv"},
     {"folder":"statistics", "file":"college_stats_annual.csv"},
     {"folder":"statistics", "file":"combine_stats.csv"},
+    {"folder":"statistics", "file":"draft.csv"},
     {"folder":"players", "file": "raw_players_college.csv"},
     {"folder":"players", "file":"players.csv"}]
 }

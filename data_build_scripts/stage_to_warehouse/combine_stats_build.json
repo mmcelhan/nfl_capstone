@@ -5,8 +5,6 @@
   "output_file": "combine_stats.csv",
   "folder":"statistics_stage",
   "file": "combine_stats.csv",
-  "columns":
-          ["first_name","last_name","position","player_match_position","madden_rating","year"],
   "column_rename":
   {
     "year": "draft_year",
@@ -14,7 +12,6 @@
     "pos": "position"
   },
   "column_order":
-          ["full_name", "first_name", "last_name", "college", "draft_year",
-            "position", "position_group", "forty", "vertical", "bench", "broad", "threecone", "shuttle"]
-
+        ["full_name", "first_name", "last_name", "college", "draft_year",
+          "position", "position_group", "section", "forty", "vertical", "bench", "broad", "threecone", "shuttle"]
 }

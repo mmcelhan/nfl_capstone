@@ -1,0 +1,29 @@
+{
+  "source": "data_staging",
+  "target": "data_warehouse",
+  "output_folder": "statistics_wh",
+  "output_file": "college_stats.csv",
+  "folder":"statistics_stage",
+  "file": "college_stats_annual.csv",
+  "column_rename":
+  {
+    "year": "draft_year",
+    "player": "full_name",
+    "pos": "position"
+  },
+  "column_order":
+
+            ["full_name", "first_name", "last_name", "position", "position_group", "section", "college", "draft_year",
+            "defense_ast_tackles", "defense_fum_forced", "defense_fum_rec", "defense_fum_tds", "defense_fum_yds",
+            "defense_games", "defense_int", "defense_int_td", "defense_int_yards", "defense_loss_tackles",
+            "defense_pd", "defense_sacks", "defense_seasons", "defense_solo_tackes", "defense_tackles",
+            "passing_attempts", "passing_comp_pct", "passing_completions", "passing_games", "passing_pass_ints",
+            "passing_pass_tds", "passing_pass_yards", "passing_seasons", "rushing_games", "rushing_rec_td",
+            "rushing_rec_yards", "rushing_receptions", "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds",
+            "rushing_scrim_plays", "rushing_scrim_tds", "rushing_scrim_yds", "rushing_seasons", "receiving_games",
+            "receiving_rec_td", "receiving_rec_yards", "receiving_receptions", "receiving_rush_att",
+            "receiving_rush_td", "receiving_rush_yds", "receiving_scrim_plays", "receiving_scrim_tds",
+            "receiving_scrim_yds", "receiving_seasons"
+]
+
+}

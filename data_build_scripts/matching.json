@@ -26,14 +26,28 @@
     "LE": "DL",
     "RE": "DL",
     "LOLB": "LB",
-    "LG": "LG",
-    "FS": "S",
+    "LG": "OL",
+    "FS": "DB",
     "FB": "RB",
     "LS": "LS",
     "DL": "DL",
     "OG": "OL",
     "ILB": "LB"
 
+  },
+
+  "section": {
+    "TE": "O",
+    "RB": "O",
+    "WR": "O",
+    "OL": "O",
+    "QB": "O",
+    "LB": "D",
+    "DL": "D",
+    "DB": "D",
+    "K": "ST",
+    "P": "ST",
+    "LS": "ST"
   }
 
 }

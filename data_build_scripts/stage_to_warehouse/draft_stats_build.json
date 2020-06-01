@@ -1,0 +1,20 @@
+{
+  "source": "data_staging",
+  "target": "data_warehouse",
+  "output_folder": "statistics_wh",
+  "output_file": "draft.csv",
+  "folder":"statistics_stage",
+  "file": "draft.csv",
+  "column_rename":
+  {
+    "year": "draft_year",
+    "player": "full_name",
+    "pos": "position",
+    "team": "drafting_team",
+    "pick": "selection_number"
+  },
+  "column_order":
+        ["full_name", "first_name", "last_name", "position", "position_group", "section", "college",
+          "draft_year", "selection_number", "position_rank", "position_group_rank", "section_rank", "drafting_team"]
+
+}

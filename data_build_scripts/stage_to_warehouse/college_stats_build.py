@@ -11,7 +11,7 @@ import data_build_scripts.helpers as hlp
 def main():
 
     local_path = os.path.dirname(os.path.abspath(__file__))
-    f = open(os.path.join(local_path, "combine_stats_build.json"))
+    f = open(os.path.join(local_path, "college_stats_build.json"))
     data = json.load(f)
 
     matching = hlp.return_matching_dict()
