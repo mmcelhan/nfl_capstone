@@ -37,9 +37,16 @@ def main():
         if counter == 0:
             df = df.append(temp_df)
         else:
-            df = cm.fuzzy_merge(df, temp_df, ['first_name', 'last_name', 'position'],
-                        ['first_name', 'last_name', 'position'], threshold=95, limit=1)
+            df_1 = cm.fuzzy_merge(df, temp_df, ['first_name', 'last_name', 'position_group'],
+                        ['first_name', 'last_name', 'position_group'], threshold=95, limit=1)  # inner join
+            df_2 = pd.concat([temp_df, df_1])
+            df = pd.concat([df, df_2])
+            df = df.drop_duplicates(subset=['first_name', 'last_name', 'position_group'], keep='last')
+
         counter += 1
+
+    df['section'] = df['position_group'].map(matching['section'])
+    df = df[data['column_order']]
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)

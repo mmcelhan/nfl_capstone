@@ -30,6 +30,8 @@
     "madden_2018.csv": 2018,
     "madden_2019.csv": 2019,
     "madden_2020.csv": 2020
-  }
-
+  },
+  "column_order":
+        ["first_name", "last_name", "position", "position_group", "section", "2016_madden_rating", "2017_madden_rating"
+          ,"2018_madden_rating", "2019_madden_rating", "2020_madden_rating"]
 }

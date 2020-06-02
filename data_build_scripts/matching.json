@@ -1,7 +1,15 @@
 {
 
+  "positions_mapping":
+  {
+    "K": "PK"
+
+  },
+
   "position_groups":
   {
+    "OL": "OL",
+    "LB": "LB",
     "TE": "TE",
     "HB": "RB",
     "RB": "RB",
@@ -32,7 +40,9 @@
     "LS": "LS",
     "DL": "DL",
     "OG": "OL",
-    "ILB": "LB"
+    "ILB": "LB",
+    "DB": "DB",
+    "PK": "ST"
 
   },
 
