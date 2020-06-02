@@ -27,7 +27,7 @@
     "MLB": "LB",
     "RG": "OL",
     "DT": "DL",
-    "K": "K",
+    "K": "PK",
     "RT": "OL",
     "P": "P",
     "ROLB": "LB",
@@ -42,7 +42,7 @@
     "OG": "OL",
     "ILB": "LB",
     "DB": "DB",
-    "PK": "ST"
+    "PK": "PK"
 
   },
 
@@ -57,7 +57,10 @@
     "DB": "D",
     "K": "ST",
     "P": "ST",
-    "LS": "ST"
+    "LS": "ST",
+    "ST": "ST",
+    "PK": "ST",
+    "K": "ST"
   }
 
 }

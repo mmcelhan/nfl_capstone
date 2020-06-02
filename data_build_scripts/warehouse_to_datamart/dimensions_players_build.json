@@ -1,0 +1,25 @@
+{
+  "source": "data_warehouse",
+  "target": "data_mart",
+  "output_folder": "",
+  "output_file": "dimensions_players.csv",
+  "college_stats": {"folder": "statistics_wh", "file": "college_stats.csv"},
+  "combine_stats": {"folder": "statistics_wh", "file": "combine_stats.csv"},
+  "draft": {"folder": "statistics_wh", "file": "draft.csv"},
+  "madden_ratings": {"folder": "statistics_wh", "file": "madden_ratings.csv"},
+  "college_players": {"folder": "players_wh", "file": "college_players.csv"},
+
+  "column_rename":
+  {
+    "id": "espn_id",
+    "weight": "college_weight_pounds",
+    "height_inches": "college_height_inches"
+  },
+  "column_order":
+        [
+          "id", "espn_id", "full_name", "first_name", "last_name", "college", "position", "position_group", "section",
+          "draft_year", "selection", "drafting_team", "position_rank", "position_group_rank", "section_rank",
+          "home_city", "home_state", "home_state", "college_weight_pounds", "college_height_inches"
+]
+
+}
