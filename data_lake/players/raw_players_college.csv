@@ -59,7 +59,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4576775,Lincoln,Warren,Texas State,2016,180,69,28,WR,Mesquite,TX        ,USA
 4576769,Chase,Wester,BYU,2018,195,71,29,RB,Hoschton,GA        ,USA
 4576767,Zac,McIntosh,Clemson,2018,295,71,63,OL,Belton,SC        ,USA
-4575885,Brody,Padilla,Hawai'i,2018,170,71,,DB,Ewa Beach,HI        ,USA
+4575885,Brody,Padilla,Hawaii,2018,170,71,,DB,Ewa Beach,HI        ,USA
 4575770,Jaylan,Beene,Louisiana Monroe,2018,201,67,83,WR,Shreveport,LA        ,USA
 4575769,Darin,Turner,Louisiana Monroe,2018,197,71,82,WR,Shreveport,LA        ,USA
 4575768,Chase,Green,Louisiana Monroe,2018,184,67,81,WR,Brusly,LA        ,USA
@@ -136,8 +136,8 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4573156,Pelumi,Okeowo,Kansas,2018,210,72,31,RB,Wichita,KS        ,USA
 4573155,Malcolm,Lee,Kansas,2018,285,77,99,DL,Omaha,NE        ,USA
 4573153,Hayden,Hatcher,Kansas,2018,218,74,37,LB,Council Bluffs,IA        ,USA
-4573139,Kamali'i,Akina,Hawai'i,2017,180,71,19,QB,Stanford,CA        ,USA
-4573137,Leonard,Lee,Hawai'i,2018,190,73,0,DB,Wahiawa,HI        ,USA
+4573139,Kamali'i,Akina,Hawaii,2017,180,71,19,QB,Stanford,CA        ,USA
+4573137,Leonard,Lee,Hawaii,2018,190,73,0,DB,Wahiawa,HI        ,USA
 4572483,Garrison,Tullos,New Mexico State,2017,295,75,55,OL,Bryan,TX        ,USA
 4572480,John,Ramirez,New Mexico State,2016,245,72,56,LB,Las Cruces,NM        ,USA
 4572478,Anthony,Pioche-Lee,New Mexico State,2017,365,75,68,OL,Fruitland,NM        ,USA
@@ -297,11 +297,11 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4570232,Will,Butler,San Jose State,2017,222,73,50,LS,San Jose,CA        ,USA
 4570230,Scott,Breslin,San Jose State,2018,280,76,77,OL,Burbank,CA        ,USA
 4570228,Waylen,Cozad,Liberty,2018,215,74,33,LB,Auburn,CA        ,USA
-4570227,Grey,Ihu,Hawai'i,2018,180,72,81,WR,Kaneohe,HI        ,USA
-4570222,Noa,Kamana,Hawai'i,2018,185,72,47,DB,Honolulu,HI        ,USA
-4570220,Chance,Kalaugher,Hawai'i,2018,240,78,40,DL,Honolulu,HI        ,USA
-4570219,Jared,Smart,Hawai'i,2018,190,72,23,WR,Dublin,CA        ,USA
-4570217,James,Phillips,Hawai'i,2018,155,69,14,WR,Menifee,CA        ,USA
+4570227,Grey,Ihu,Hawaii,2018,180,72,81,WR,Kaneohe,HI        ,USA
+4570222,Noa,Kamana,Hawaii,2018,185,72,47,DB,Honolulu,HI        ,USA
+4570220,Chance,Kalaugher,Hawaii,2018,240,78,40,DL,Honolulu,HI        ,USA
+4570219,Jared,Smart,Hawaii,2018,190,72,23,WR,Dublin,CA        ,USA
+4570217,James,Phillips,Hawaii,2018,155,69,14,WR,Menifee,CA        ,USA
 4570213,Devonte,Lloyd,Liberty,2018,300,74,86,DT,Meridian,MS        ,USA
 4570210,Elijah,James,Liberty,2018,295,77,55,DT,Chicago,IL        ,USA
 4570209,William,Green,Liberty,2018,315,78,93,DT,Albany,GA        ,USA
@@ -668,7 +668,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4439956,Aundre,Carter,Nevada,2018,170,68,39,RB,Los Angeles,CA        ,USA
 4435733,Kane,Taylor,Florida International,2017,280,75,70,DL,Clearwater,FL        ,USA
 4429873,Antonio,Hunt,New Mexico,2018,164,70,12,CB,Lancaster,CA        ,USA
-4429830,Tauivi,Ho Ching,Hawai'i,2018,230,73,46,LB,Nu'uuli,,American Samoa
+4429830,Tauivi,Ho Ching,Hawaii,2018,230,73,46,LB,Nu'uuli,,American Samoa
 4429728,John,Haggerty,Western Kentucky,2017,230,77,47,PK,Sydney,NSW       ,Australia
 4429602,Walter,Fletcher,Ball State,2016,191,69,20,RB,Columbia,MD        ,USA
 4429338,Ardell,Brown,Connecticut,2016,180,70,83,WR,Rochester,NY        ,USA
@@ -676,7 +676,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4428809,Demetrick,Watts,Akron,2017,215,75,9,LB,Riverside,CA        ,USA
 4428345,Tyrice,Richie,Northern Illinois,2018,190,72,3,WR,Chicago,IL        ,USA
 4428203,Raymond,Pauwels Jr.,Fresno State,2018,245,76,87,TE,Litchfield Park,AZ        ,USA
-4427923,DJuan,Matthews,Hawai'i,2017,280,71,92,DL,Houston,TX        ,USA
+4427923,DJuan,Matthews,Hawaii,2017,280,71,92,DL,Houston,TX        ,USA
 4427430,Jacobi,Hearn,New Mexico,2017,230,72,20,LB,Jackson,MS        ,USA
 4427340,Joshua,Griffin,Colorado State,2018,208,70,35,S,Houston,TX        ,USA
 4427267,Kaylon,Geiger,Troy,2018,170,70,1,WR,Fort Worth,TX        ,USA
@@ -797,8 +797,8 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4391374,KJ,Sherald,Kent State,2018,,,,,,,
 4391366,Darius,Jackson,Georgia,2018,200,70,29,RB,Sandersville,GA        ,USA
 4391161,-,1w,Utah State,2018,,,,,,,
-4391134,Wyatt,Tucker,Hawai'i,2018,205,70,44,LS,Chino Hills,CA        ,USA
-4391128,Payton,Awaya,Hawai'i,2018,210,72,45,LB,Honolulu,HI        ,USA
+4391134,Wyatt,Tucker,Hawaii,2018,205,70,44,LS,Chino Hills,CA        ,USA
+4391128,Payton,Awaya,Hawaii,2018,210,72,45,LB,Honolulu,HI        ,USA
 4390972,Josh,Jones,Temple,2018,170,73,37,CB,Atlanta,GA        ,USA
 4390717,Josh,Johnson,Louisiana Monroe,2018,215,69,8,RB,Opelika,AL        ,USA
 4390394,-,1b,San Jose State,2018,,,,,,,
@@ -1306,21 +1306,21 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4374004,Auston,Deason,Texas State,2017,195,72,10,S,Pearland,TX        ,USA
 4373989,Michael,Cone,Auburn,2018,325,76,70,OL,Dallas,GA        ,USA
 4373986,Woo,Scott,Eastern Michigan,2018,308,74,98,DL,Little Rock,AR        ,USA
-4373963,Kendall,Hune,Hawai'i,2016,285,75,95,DL,Carmel,IN        ,USA
-4373962,Mason,Mataafa,Hawai'i,2017,250,76,93,DL,Santa Ana,CA        ,USA
-4373961,John,Johnson,Hawai'i,2018,190,71,88,WR,Warner Robins,GA        ,USA
-4373954,Ernest,Moore,Hawai'i,2017,305,80,78,OL,San Francisco,CA        ,USA
-4373953,Ilm,Manning,Hawai'i,2017,280,76,75,OL,Glendale,AZ        ,USA
-4373952,Gene,Pryor,Hawai'i,2018,305,75,74,OL,Visalia,CA        ,USA
-4373951,Kohl,Levao,Hawai'i,2015,340,78,72,OL,Aberdeen,WA        ,USA
-4373949,Solo,Vaipulu,Hawai'i,2018,310,74,52,OL,Riverside,CA        ,USA
-4373947,Justus,Tavai,Hawai'i,2018,295,75,50,DL,Inglewood,CA        ,USA
-4373944,Kalamaku,Kuewa,Hawai'i,2018,200,72,39,DB,Kailua,HI        ,USA
-4373941,Adam,Netane,Hawai'i,2018,,,,,,,
-4373939,Manase,Time,Hawai'i,2018,,,,,,,
-4373937,JoJo,Ward,Hawai'i,2016,175,69,9,WR,Waco,TX        ,USA
-4373935,Khoury,Bethley,Hawai'i,2018,200,70,5,DB,Chino,CA        ,USA
-4373934,Chevan,Cordeiro,Hawai'i,2018,190,73,12,QB,Honolulu,HI        ,USA
+4373963,Kendall,Hune,Hawaii,2016,285,75,95,DL,Carmel,IN        ,USA
+4373962,Mason,Mataafa,Hawaii,2017,250,76,93,DL,Santa Ana,CA        ,USA
+4373961,John,Johnson,Hawaii,2018,190,71,88,WR,Warner Robins,GA        ,USA
+4373954,Ernest,Moore,Hawaii,2017,305,80,78,OL,San Francisco,CA        ,USA
+4373953,Ilm,Manning,Hawaii,2017,280,76,75,OL,Glendale,AZ        ,USA
+4373952,Gene,Pryor,Hawaii,2018,305,75,74,OL,Visalia,CA        ,USA
+4373951,Kohl,Levao,Hawaii,2015,340,78,72,OL,Aberdeen,WA        ,USA
+4373949,Solo,Vaipulu,Hawaii,2018,310,74,52,OL,Riverside,CA        ,USA
+4373947,Justus,Tavai,Hawaii,2018,295,75,50,DL,Inglewood,CA        ,USA
+4373944,Kalamaku,Kuewa,Hawaii,2018,200,72,39,DB,Kailua,HI        ,USA
+4373941,Adam,Netane,Hawaii,2018,,,,,,,
+4373939,Manase,Time,Hawaii,2018,,,,,,,
+4373937,JoJo,Ward,Hawaii,2016,175,69,9,WR,Waco,TX        ,USA
+4373935,Khoury,Bethley,Hawaii,2018,200,70,5,DB,Chino,CA        ,USA
+4373934,Chevan,Cordeiro,Hawaii,2018,190,73,12,QB,Honolulu,HI        ,USA
 4373930,Will,Connery,UMass,2017,175,70,86,WR,Reading,MA        ,USA
 4373928,Gilberto,Torres,UMass,2018,225,72,48,LB,Willimantic,CT        ,USA
 4373925,Donte,Lindsey,UMass,2018,175,69,5,CB,Fayetteville,NC        ,USA
@@ -1979,7 +1979,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4368765,Leodis,Moore III,Eastern Kentucky,2018,,,,,,,
 4368722,James,Ubaike,Eastern Illinois,2018,,,,,,,
 4368718,Bryce,Walker,Eastern Illinois,2018,,,,,,,
-4368714,Eliki,Tanuvasa,Hawai'i,2018,320,74,61,OL,Honolulu,HI        ,USA
+4368714,Eliki,Tanuvasa,Hawaii,2018,320,74,61,OL,Honolulu,HI        ,USA
 4368710,Ryan,Coleman,Eastern Illinois,2018,,,,,,,
 4368707,Harry,Woodbery,Eastern Illinois,2018,,,,,,,
 4368705,Matt,Reyna,Eastern Illinois,2018,,,,,,,
@@ -2235,17 +2235,17 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4363925,Dequez,Irving,New Mexico,2016,227,70,35,LB,Wichita,KS        ,USA
 4363923,Ahmari,Davis,New Mexico,2016,210,70,28,RB,Oakland,CA        ,USA
 4363921,De'John,Rogers,New Mexico,2016,177,70,6,CB,Paramus,NJ        ,USA
-4363653,Jason-Matthew,Sharsh,Hawai'i,2016,190,72,3,WR,Honolulu,HI        ,USA
-4363652,Eric,Rooks,Hawai'i,2018,215,75,86,WR,Chicago,IL        ,USA
-4363651,Azia,Se'ei,Hawai'i,2016,275,71,69,DL,Honolulu,HI        ,USA
-4363649,Ra,Elkington,Hawai'i,2018,350,77,68,OL,Laie,HI        ,USA
-4363648,Kamuela,Borden,Hawai'i,2018,250,76,30,DL,Pearl City,HI        ,USA
-4363647,Blessman,Ta'ala,Hawai'i,2018,300,73,55,DL,Aua,,American Samoa
-4363646,Derek,Thomas,Hawai'i,2018,225,75,48,DL,Huntington Beach,CA        ,USA
-4363644,Alaka'i,Mashima,Hawai'i,2018,185,71,37,DB,Kapolei,HI        ,USA
-4363641,Jeffery,Keene,Hawai'i,2016,230,76,35,DL,Temple Hills,MD        ,USA
-4363640,Jeremy,Moussa,Hawai'i,2018,210,75,18,QB,Chino Hills,CA        ,USA
-4363639,Cedric,Byrd II,Hawai'i,2016,175,69,6,WR,Los Angeles,CA        ,USA
+4363653,Jason-Matthew,Sharsh,Hawaii,2016,190,72,3,WR,Honolulu,HI        ,USA
+4363652,Eric,Rooks,Hawaii,2018,215,75,86,WR,Chicago,IL        ,USA
+4363651,Azia,Se'ei,Hawaii,2016,275,71,69,DL,Honolulu,HI        ,USA
+4363649,Ra,Elkington,Hawaii,2018,350,77,68,OL,Laie,HI        ,USA
+4363648,Kamuela,Borden,Hawaii,2018,250,76,30,DL,Pearl City,HI        ,USA
+4363647,Blessman,Ta'ala,Hawaii,2018,300,73,55,DL,Aua,,American Samoa
+4363646,Derek,Thomas,Hawaii,2018,225,75,48,DL,Huntington Beach,CA        ,USA
+4363644,Alaka'i,Mashima,Hawaii,2018,185,71,37,DB,Kapolei,HI        ,USA
+4363641,Jeffery,Keene,Hawaii,2016,230,76,35,DL,Temple Hills,MD        ,USA
+4363640,Jeremy,Moussa,Hawaii,2018,210,75,18,QB,Chino Hills,CA        ,USA
+4363639,Cedric,Byrd II,Hawaii,2016,175,69,6,WR,Los Angeles,CA        ,USA
 4363608,Wesley,Wells,Georgia Tech,2018,205,72,38,PK,Dahlonega,GA        ,USA
 4363559,Turan,Rush,Eastern Michigan,2017,246,74,99,DL,Charleston,WV        ,USA
 4363558,Shawn,Simeon,Eastern Michigan,2017,235,77,95,DL,Miami,FL        ,USA
@@ -4874,7 +4874,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4256907,Jabari,Taylor,Cincinnati,2018,290,73,90,DT,Akron,OH        ,USA
 4256901,Joey,Bryant,Arizona State,2015,180,73,11,DB,Liliha,HI        ,USA
 4256758,Yahia,Aly,Florida A&M,2018,170,71,96,PK,Lancaster,TX        ,USA
-4256749,Fanupo,Peapealalo,Hawai'i,2016,265,75,90,DL,Oceanside,CA        ,USA
+4256749,Fanupo,Peapealalo,Hawaii,2016,265,75,90,DL,Oceanside,CA        ,USA
 4256743,Traco,Williams,Jacksonville State,2017,225,71,0,S,Krum,TX        ,USA
 4256240,Jake,Byczko,UMass,2017,260,75,97,DL,Auburn,MA        ,USA
 4256239,Caeleb,Washington,UMass,2018,275,73,92,DL,Melbourne,FL        ,USA
@@ -4896,21 +4896,21 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4256219,Victor,Santiago,UMass,2018,165,69,43,RB,Bethlehem,PA        ,USA
 4256218,Zak,Simon,UMass,2018,180,70,11,WR,Temecula,CA        ,USA
 4256217,Jessie,Britt,UMass,2017,205,70,1,WR,Lake Alfred,FL        ,USA
-4256098,Kade,Greeley,Hawai'i,2017,225,78,83,TE,Lewisville,TX        ,USA
-4256096,Stephan,Bernal-Wendt,Hawai'i,2018,310,73,71,DL,Honolulu,HI        ,USA
+4256098,Kade,Greeley,Hawaii,2017,225,78,83,TE,Lewisville,TX        ,USA
+4256096,Stephan,Bernal-Wendt,Hawaii,2018,310,73,71,DL,Honolulu,HI        ,USA
 4256095,Brandon,Kipper,Oregon State,2018,305,78,68,OL,Caldwell,ID        ,USA
-4256094,Doug,Russell,Hawai'i,2018,290,77,62,DL,Seattle,WA        ,USA
-4256093,Emil,Graves,Hawai'i,2017,275,75,59,OL,Lynwood,CA        ,USA
-4256092,Micah,Vanterpool,Hawai'i,2018,315,78,55,OL,Phoenix,AZ        ,USA
-4256091,Kana'i,Picanco,Hawai'i,2016,225,73,12,LB,Kaneohe,HI        ,USA
-4256089,Penei,Pavihi,Hawai'i,2016,245,75,1,LB,Pago Pago,,American Samoa
-4256088,Ryan,Meskell,Hawai'i,2016,185,72,17,PK,Gold Coast,QLD       ,Australia
-4256087,Hekili,Keliiliki,Hawai'i,2018,225,74,44,RB,Bentonville,AR        ,USA
-4256086,Donovan,Dalton,Hawai'i,2018,200,76,29,DB,Apple Valley,MN        ,USA
-4256085,Miles,Reed,Hawai'i,2018,185,68,26,RB,Corona,CA        ,USA
-4256084,Akil,Francisco,Hawai'i,2018,160,72,23,DB,Alameda,CA        ,USA
-4256082,Paul,Scott,Hawai'i,2018,210,73,15,LB,Oakland,CA        ,USA
-4256080,Justin,Uahinui,Hawai'i,2018,195,75,11,QB,Honolulu,HI        ,USA
+4256094,Doug,Russell,Hawaii,2018,290,77,62,DL,Seattle,WA        ,USA
+4256093,Emil,Graves,Hawaii,2017,275,75,59,OL,Lynwood,CA        ,USA
+4256092,Micah,Vanterpool,Hawaii,2018,315,78,55,OL,Phoenix,AZ        ,USA
+4256091,Kana'i,Picanco,Hawaii,2016,225,73,12,LB,Kaneohe,HI        ,USA
+4256089,Penei,Pavihi,Hawaii,2016,245,75,1,LB,Pago Pago,,American Samoa
+4256088,Ryan,Meskell,Hawaii,2016,185,72,17,PK,Gold Coast,QLD       ,Australia
+4256087,Hekili,Keliiliki,Hawaii,2018,225,74,44,RB,Bentonville,AR        ,USA
+4256086,Donovan,Dalton,Hawaii,2018,200,76,29,DB,Apple Valley,MN        ,USA
+4256085,Miles,Reed,Hawaii,2018,185,68,26,RB,Corona,CA        ,USA
+4256084,Akil,Francisco,Hawaii,2018,160,72,23,DB,Alameda,CA        ,USA
+4256082,Paul,Scott,Hawaii,2018,210,73,15,LB,Oakland,CA        ,USA
+4256080,Justin,Uahinui,Hawaii,2018,195,75,11,QB,Honolulu,HI        ,USA
 4256076,Langi,Tuifua,BYU,2016,227,75,49,DL,South Jordan,UT        ,USA
 4256074,Khyiris,Tonga,BYU,2018,321,76,95,DL,West Valley,UT        ,USA
 4256073,Alden,Tofa,BYU,2018,260,76,57,DL,West Jordan,UT        ,USA
@@ -6652,7 +6652,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4243162,Tyler,Lytle,Colorado,2018,220,77,7,QB,Redondo Beach,CA        ,USA
 4243161,Evan,Worthington,Colorado,2016,205,74,6,DB,Aurora,CO        ,USA
 4243160,Laviska,Shenault Jr.,Colorado,2018,220,74,2,WR,Desoto,TX        ,USA
-4243025,Justice,Augafa,Hawai'i,2016,210,71,11,DB,Anchorage,AK        ,USA
+4243025,Justice,Augafa,Hawaii,2016,210,71,11,DB,Anchorage,AK        ,USA
 4243016,Namani,Parker,Fresno State,2014,196,76,87,WR,Roseville,CA        ,USA
 4243013,Dontae,Bull,Fresno State,2018,324,78,72,OL,Victoria,BC        ,Canada
 4243010,Syrus,Tuitele,Fresno State,2016,300,78,65,OL,Chico,CA        ,USA
@@ -6787,14 +6787,14 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4242488,Deommodore,Lenoir,Oregon,2017,202,71,6,CB,Los Angeles,CA        ,USA
 4242486,Sampson,Niu,Oregon,2017,206,73,55,LB,San Diego,CA        ,USA
 4242485,Thomas,Graham Jr.,Oregon,2017,197,71,4,CB,Rancho Cucamonga,CA        ,USA
-4242484,Marcus,Armstrong-Brown,Hawai'i,2015,210,75,85,WR,Napa,CA        ,USA
-4242483,Ramsey,Aviu,Hawai'i,2018,300,74,53,OL,Aiea,HI        ,USA
-4242480,KK,Padello,Hawai'i,2016,215,71,34,RB,Mililani,HI        ,USA
-4242478,Tristin,Kamaka,Hawai'i,2016,175,68,17,WR,Ewa Beach,HI        ,USA
-4242477,Makai,Manuwai,Hawai'i,2017,280,73,51,DL,Medford,OR        ,USA
-4242475,Elijah,Dale,Hawai'i,2016,200,70,25,RB,San Francisco,CA        ,USA
-4242474,Eugene,Ford,Hawai'i,2018,200,74,8,DB,Venice,CA        ,USA
-4242473,Jay,Dominique,Hawai'i,2017,190,74,11,DB,Montreal,PQ        ,Canada
+4242484,Marcus,Armstrong-Brown,Hawaii,2015,210,75,85,WR,Napa,CA        ,USA
+4242483,Ramsey,Aviu,Hawaii,2018,300,74,53,OL,Aiea,HI        ,USA
+4242480,KK,Padello,Hawaii,2016,215,71,34,RB,Mililani,HI        ,USA
+4242478,Tristin,Kamaka,Hawaii,2016,175,68,17,WR,Ewa Beach,HI        ,USA
+4242477,Makai,Manuwai,Hawaii,2017,280,73,51,DL,Medford,OR        ,USA
+4242475,Elijah,Dale,Hawaii,2016,200,70,25,RB,San Francisco,CA        ,USA
+4242474,Eugene,Ford,Hawaii,2018,200,74,8,DB,Venice,CA        ,USA
+4242473,Jay,Dominique,Hawaii,2017,190,74,11,DB,Montreal,PQ        ,Canada
 4242472,Ty'Jason,Roberts,UNLV,2018,195,72,38,DB,West Los Angeles,CA        ,USA
 4242470,Darren,Palmer,UNLV,2015,200,72,86,DB,Lithia Springs,GA        ,USA
 4242469,Sid,Acosta,UNLV,2016,300,73,70,OL,Corona,CA        ,USA
@@ -8377,7 +8377,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4064980,Damonte,Coxie,Memphis,2018,197,75,10,WR,Reserve,LA        ,USA
 4064867,Lanard,Bonner,Arkansas State,2016,310,77,70,OL,Birmingham,AL        ,USA
 4064866,Dexter,Carter Jr.,Georgia Southern,2017,195,72,28,WR,Jacksonville,FL        ,USA
-4064454,Ben,Scruton,Hawai'i,2017,200,73,36,P,Melbourne,VIC       ,Australia
+4064454,Ben,Scruton,Hawaii,2017,200,73,36,P,Melbourne,VIC       ,Australia
 4064367,Matt,Thomas,Arizona,2015,274,73,90,DL,Tucson,AZ        ,USA
 4064365,Thomas,Reid III,Arizona,2018,205,74,16,WR,Chesapeake,VA        ,USA
 4064324,Joe,Friedrich,Northern Iowa,2017,215,73,57,LS,Loganville,GA        ,USA
@@ -8432,7 +8432,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4058549,Cody,Waddell,Texas Tech,2018,205,73,48,P,Elkton,MD        ,USA
 4058300,Jake,Harrelson,New Mexico State,2017,225,75,53,LB,Ruidoso,NM        ,USA
 4057659,Mark,Thompson,Florida,2016,239,74,24,RB,Ewa Beach,HI        ,USA
-4057324,Jeremiah,Prtichard,Hawai'i,2016,,,,,,,
+4057324,Jeremiah,Prtichard,Hawaii,2016,,,,,,,
 4057317,Treylan,Dunn,Grambling,2016,245,73,56,LB,Chicago,IL        ,USA
 4057316,Ja'Terious,Pouncey,Grambling,2016,,,,,,,
 4057315,Lorin,Winston,Grambling,2016,,,,,,,
@@ -8542,8 +8542,8 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4053641,Daryl,Mccleskey Jr.,Eastern Kentucky,2016,,,,,,,
 4053637,Dakota,Labofsky,Howard,2016,,,,,,,
 4053633,Joseff,Banks,Howard,2016,,,,,,,
-4053631,Stan,Gaudion,Hawai'i,2018,210,75,9,P,Melbourne,VIC       ,Australia
-4053629,Wesley,Faagau,Hawai'i,2018,220,72,61,LB,Waianae,HI        ,USA
+4053631,Stan,Gaudion,Hawaii,2018,210,75,9,P,Melbourne,VIC       ,Australia
+4053629,Wesley,Faagau,Hawaii,2018,220,72,61,LB,Waianae,HI        ,USA
 4053625,Reggie,Turner,Oklahoma,2015,155,68,28,WR,Pasadena,TX        ,USA
 4053624,Myles,Tease,Oklahoma,2017,171,69,87,WR,Tulsa,OK        ,USA
 4053435,Chad,Hickson,North Texas,2018,277,76,65,OL,Denton,TX        ,USA
@@ -8917,7 +8917,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4051015,Zach,Roderick,Campbell,2018,180,73,3,WR,Fredericksburg,VA        ,USA
 4051006,Joshua,Phillips,Chattanooga,2017,245,80,88,LB,Chicago,IL        ,USA
 4050998,Victor,Ulmo,Chattanooga,2017,180,68,60,PK,Lancaster,TX        ,USA
-4050989,Cortez,Davis,Hawai'i,2018,180,71,18,DB,Decatur,GA        ,USA
+4050989,Cortez,Davis,Hawaii,2018,180,71,18,DB,Decatur,GA        ,USA
 4050988,Jerrell,Lawson,Chattanooga,2017,190,74,27,DB,Leander,TX        ,USA
 4050983,Rashun,Freeman,Chattanooga,2017,190,71,25,DB,Leander,TX        ,USA
 4050972,Tristan,Crowder,Missouri State,2016,235,75,94,DL,Andrews,TX        ,USA
@@ -9100,7 +9100,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4048677,David,Woodward,Utah State,2017,235,74,9,LB,Olympia,WA        ,USA
 4048676,Rayshad,Lewis,Utah State,2016,177,70,13,WR,Orlando,FL        ,USA
 4048659,Elijah,Lilly,New Mexico,2016,159,72,3,WR,San Bernardino,CA        ,USA
-4048380,J,Prtichard,Hawai'i,2016,,,,,,,
+4048380,J,Prtichard,Hawaii,2016,,,,,,,
 4048260,Desmond,Williams,Boise State,2017,205,71,9,LB,Corona,CA        ,USA
 4048259,Avery,Williams,Boise State,2018,198,69,26,CB,Pasadena,CA        ,USA
 4048258,Blake,Whitlock,Boise State,2018,222,73,36,LB,Reno,NV        ,USA
@@ -9173,7 +9173,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4047846,Chase,Lucas,Arizona State,2017,176,72,24,DB,Chandler,AZ        ,USA
 4047845,Alex,Losoya,Arizona State,2016,291,75,56,OL,Santa Ana,CA        ,USA
 4047843,Riley,John,Arizona State,2017,230,70,64,LS,Appleton,WI        ,USA
-4047840,Parker,Higgins,Hawai'i,2018,225,71,57,LB,Honolulu,HI        ,USA
+4047840,Parker,Higgins,Hawaii,2018,225,71,57,LB,Honolulu,HI        ,USA
 4047839,N'Keal,Harry,Arizona State,2016,213,76,1,WR,Chandler,AZ        ,USA
 4047837,Deion,Guignard,Arizona State,2016,214,74,38,DB,Leander,TX        ,USA
 4047836,Frank,Darby,Arizona State,2017,200,73,84,WR,Jersey City,NJ        ,USA
@@ -9190,7 +9190,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4047808,Brennan,Thieneman,Purdue,2018,210,73,38,S,Noblesville,IN        ,USA
 4047807,Danny,Carollo,Purdue,2017,210,73,14,QB,Lake Forest,IL        ,USA
 4047806,Malik,Kimbrough,Purdue,2016,,,,,,,
-4047770,Kumoku,Noa,Hawai'i,2017,175,71,4,WR,Honolulu,HI        ,USA
+4047770,Kumoku,Noa,Hawaii,2017,175,71,4,WR,Honolulu,HI        ,USA
 4047769,Malik,Williams,Louisville,2017,221,75,29,RB,Ewa Beach,HI        ,USA
 4047766,Gary,McCrae,Louisville,2016,238,76,93,DL,Cuthbert,GA        ,USA
 4047764,Linwood,Foy,Louisville,2015,299,76,77,OL,Los Angeles,CA        ,USA
@@ -9519,7 +9519,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4046138,Ryan,Wolitzer,Duke,2015,180,69,47,RB,Purchase,NY        ,USA
 4046137,Noah,Waddell,Duke,2015,225,75,60,DT,Medina,OH        ,USA
 4046135,Scott,Jones,Duke,2015,230,75,53,DE,Newport News,VA        ,USA
-4045878,Joey,Nu'uanu-Kuhi'iki,Hawai'i,2018,290,75,58,OL,Waianae,HI        ,USA
+4045878,Joey,Nu'uanu-Kuhi'iki,Hawaii,2018,290,75,58,OL,Waianae,HI        ,USA
 4045724,Robert,Washington,Charlotte,2016,227,70,20,RB,Ewa Beach,HI        ,USA
 4045723,Joe,Thompson,Charlotte,2015,198,73,14,WR,Ashburn,VA        ,USA
 4045721,Ed,Rolle,Charlotte,2015,190,70,2,DB,Miami,FL        ,USA
@@ -10814,27 +10814,27 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4038431,Tyrell,Alexander,Oklahoma State,2017,182,73,10,WR,Lancaster,TX        ,USA
 4038430,Rodarius,Williams,Oklahoma State,2017,187,72,8,CB,Shreveport,LA        ,USA
 4038429,Calvin,Bundage,Oklahoma State,2015,215,74,1,LB,Edmond,OK        ,USA
-4038247,Viane,Moala,Hawai'i,2015,315,78,98,DT,ILI'ILI,,American Samoa
-4038246,Kaimana,Padello,Hawai'i,2016,225,72,96,DL,Mililani,HI        ,USA
-4038245,Maxwell,Hendrie,Hawai'i,2018,245,76,92,DL,Sydney,NS        ,Australia
-4038242,Kalakaua,Timoteo,Hawai'i,2015,190,73,81,WR,Mililani,HI        ,USA
-4038241,Alesana,Sunia,Hawai'i,2018,320,75,77,OL,Leone,,American Samoa
-4038237,Taaga,Tuulima,Hawai'i,2018,290,74,63,OL,Ewa Beach,HI        ,USA
-4038236,La'akea,Look,Hawai'i,2017,225,72,54,LB,Chicago,IL        ,USA
-4038234,Scheyenne,Sanitoa,Hawai'i,2018,220,73,41,DB,,,American Samoa
-4038233,Austin,Gerard,Hawai'i,2016,195,73,37,DB,Leander,TX        ,USA
-4038230,Davine,Tullis,Hawai'i,2017,200,73,30,WR,Seattle,WA        ,USA
-4038229,Genta,Ito,Hawai'i,2016,195,68,29,RB,,,Japan
-4038228,Mykal,Tolliver,Hawai'i,2016,175,73,24,DB,Bellflower,CA        ,USA
-4038227,Ikem,Okeke,Hawai'i,2016,200,72,22,DB,Las Vegas,NV        ,USA
-4038226,Fred,Holly III,Hawai'i,2017,200,72,21,RB,Riverside,CA        ,USA
-4038225,Zach,Wilson,Hawai'i,2017,185,73,20,DB,Upland,CA        ,USA
-4038224,Dru,Brown,Hawai'i,2014,200,71,6,QB,San Mateo,CA        ,USA
-4038223,Cole,Brownholtz,Hawai'i,2017,210,76,17,QB,Dallas,TX        ,USA
-4038222,Kalen,Hicks,Hawai'i,2016,215,75,3,DB,Las Vegas,NV        ,USA
-4038221,Keala,Santiago,Hawai'i,2015,207,71,30,DB,Hauula,HI        ,USA
-4038220,Cole,McDonald,Hawai'i,2017,220,76,13,QB,La Mirada,CA        ,USA
-4038219,Jeremiah,Pritchard,Hawai'i,2016,225,72,2,LB,Leone,,American Samoa
+4038247,Viane,Moala,Hawaii,2015,315,78,98,DT,ILI'ILI,,American Samoa
+4038246,Kaimana,Padello,Hawaii,2016,225,72,96,DL,Mililani,HI        ,USA
+4038245,Maxwell,Hendrie,Hawaii,2018,245,76,92,DL,Sydney,NS        ,Australia
+4038242,Kalakaua,Timoteo,Hawaii,2015,190,73,81,WR,Mililani,HI        ,USA
+4038241,Alesana,Sunia,Hawaii,2018,320,75,77,OL,Leone,,American Samoa
+4038237,Taaga,Tuulima,Hawaii,2018,290,74,63,OL,Ewa Beach,HI        ,USA
+4038236,La'akea,Look,Hawaii,2017,225,72,54,LB,Chicago,IL        ,USA
+4038234,Scheyenne,Sanitoa,Hawaii,2018,220,73,41,DB,,,American Samoa
+4038233,Austin,Gerard,Hawaii,2016,195,73,37,DB,Leander,TX        ,USA
+4038230,Davine,Tullis,Hawaii,2017,200,73,30,WR,Seattle,WA        ,USA
+4038229,Genta,Ito,Hawaii,2016,195,68,29,RB,,,Japan
+4038228,Mykal,Tolliver,Hawaii,2016,175,73,24,DB,Bellflower,CA        ,USA
+4038227,Ikem,Okeke,Hawaii,2016,200,72,22,DB,Las Vegas,NV        ,USA
+4038226,Fred,Holly III,Hawaii,2017,200,72,21,RB,Riverside,CA        ,USA
+4038225,Zach,Wilson,Hawaii,2017,185,73,20,DB,Upland,CA        ,USA
+4038224,Dru,Brown,Hawaii,2014,200,71,6,QB,San Mateo,CA        ,USA
+4038223,Cole,Brownholtz,Hawaii,2017,210,76,17,QB,Dallas,TX        ,USA
+4038222,Kalen,Hicks,Hawaii,2016,215,75,3,DB,Las Vegas,NV        ,USA
+4038221,Keala,Santiago,Hawaii,2015,207,71,30,DB,Hauula,HI        ,USA
+4038220,Cole,McDonald,Hawaii,2017,220,76,13,QB,La Mirada,CA        ,USA
+4038219,Jeremiah,Pritchard,Hawaii,2016,225,72,2,LB,Leone,,American Samoa
 4038213,Cody,Gessler,Air Force,2016,260,71,95,DL,Katy,TX        ,USA
 4038210,Micah,Capra,Air Force,2016,275,74,90,DL,Argyle,TX        ,USA
 4038208,Garrett,Amy,Air Force,2015,190,68,84,WR,Dallas,TX        ,USA
@@ -12762,7 +12762,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 4028213,Caelan,Barnes,Sacramento State,2016,195,73,8,DB,Leander,TX        ,USA
 4028212,Andre,Lindsey,Sacramento State,2016,190,75,7,WR,Lubbock,TX        ,USA
 4028211,Cody,Demps,Sacramento State,2016,,,,,,,
-4028090,Mason,Vega,Hawai'i,2017,275,75,43,DL,Rancho Cucamonga,CA        ,USA
+4028090,Mason,Vega,Hawaii,2017,275,75,43,DL,Rancho Cucamonga,CA        ,USA
 4028089,Easton,Trakel,Portland State,2018,180,70,87,WR,Olympia,WA        ,USA
 4028087,Riley,Shackelford,Portland State,2018,230,73,48,LS,Chino Hills,CA        ,USA
 4028086,AJ,Ruffin,Portland State,2018,250,77,85,TE,Tacoma,WA        ,USA
@@ -13165,11 +13165,11 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 3933142,Chris,Favoroso,Montana,2017,255,75,43,DE,Fairfield,TX        ,USA
 3933104,Rodney,Lawson,Nevada,2015,,,,,,,
 3933100,John,Durney,Nevada,2016,,,,,,,
-3933067,Isaiah,Bernard,Hawai'i,2016,190,73,84,WR,Lubbock,TX        ,USA
-3933064,John,Ursua,Hawai'i,2017,175,70,5,WR,Kailua Kona,HI        ,USA
-3933063,Melvin,Davis,Hawai'i,2016,,,,,,,
-3933061,Cameron,Hayes,Hawai'i,2016,180,71,28,DB,Los Angeles,CA        ,USA
-3933060,Dejaun,Butler,Hawai'i,2015,,,,,,,
+3933067,Isaiah,Bernard,Hawaii,2016,190,73,84,WR,Lubbock,TX        ,USA
+3933064,John,Ursua,Hawaii,2017,175,70,5,WR,Kailua Kona,HI        ,USA
+3933063,Melvin,Davis,Hawaii,2016,,,,,,,
+3933061,Cameron,Hayes,Hawaii,2016,180,71,28,DB,Los Angeles,CA        ,USA
+3933060,Dejaun,Butler,Hawaii,2015,,,,,,,
 3933029,Wyatt,McBee,Fresno State,2016,,,,,,,
 3933027,Treyvon,Green,Fresno State,2016,,,,,,,
 3933025,Nick,Aibuedefe,Fresno State,2016,285,76,79,OL,Sacramento,CA        ,USA
@@ -15523,22 +15523,22 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 3915097,Antonio,Callaway,Florida,2016,193,70,81,WR,Lubbock,TX        ,USA
 3915096,Nick,Buchanan,Florida,2016,283,75,66,OL,Dunwoody,GA        ,USA
 3915094,Luke,Ancrum,Florida,2017,263,77,98,DL,Sebring,FL        ,USA
-3914941,Makoa,Camanse-Stevens,Hawai'i,2015,,,,,,,
-3914940,Samiuela,Akoteu,Hawai'i,2016,280,74,91,DL,Inglewood,CA        ,USA
-3914937,Eperone,Moananu,Hawai'i,2016,290,74,66,DL,Pago Pago,,American Samoa
-3914935,Zeno,Choi,Hawai'i,2015,280,75,99,DL,Honolulu,HI        ,USA
-3914930,Noah,Borden,Hawai'i,2016,220,73,1,LS,Pearl City,HI        ,USA
-3914929,Aaron,Novoa,Hawai'i,2015,,,,,,,
-3914928,J.R.,Hensley,Hawai'i,2015,310,77,57,OL,Edmond,OK        ,USA
-3914927,Dayton,Furuta,Hawai'i,2016,250,71,7,RB,Mililani,HI        ,USA
-3914924,Manly,Williams,Hawai'i,2016,245,74,49,DL,Honolulu,HI        ,USA
-3914923,Alex,Trifonovitch,Hawai'i,2016,195,73,46,PK,Honolulu,HI        ,USA
-3914922,Rigoberto,Sanchez,Hawai'i,2016,,,,,,,
-3914920,Rojesterman,Farris II,Hawai'i,2016,180,73,4,DB,Coral Springs,FL        ,USA
-3914919,Paul,Harris,Hawai'i,2016,,,,,,,
-3914918,Solomon,Matautia,Hawai'i,2017,230,73,27,LB,Ewa Beach,HI        ,USA
-3914916,Aaron,Zwahlen,Hawai'i,2016,,,,,,,
-3914915,Russell,Williams Jr.,Hawai'i,2016,230,73,44,LB,Chicago,IL        ,USA
+3914941,Makoa,Camanse-Stevens,Hawaii,2015,,,,,,,
+3914940,Samiuela,Akoteu,Hawaii,2016,280,74,91,DL,Inglewood,CA        ,USA
+3914937,Eperone,Moananu,Hawaii,2016,290,74,66,DL,Pago Pago,,American Samoa
+3914935,Zeno,Choi,Hawaii,2015,280,75,99,DL,Honolulu,HI        ,USA
+3914930,Noah,Borden,Hawaii,2016,220,73,1,LS,Pearl City,HI        ,USA
+3914929,Aaron,Novoa,Hawaii,2015,,,,,,,
+3914928,J.R.,Hensley,Hawaii,2015,310,77,57,OL,Edmond,OK        ,USA
+3914927,Dayton,Furuta,Hawaii,2016,250,71,7,RB,Mililani,HI        ,USA
+3914924,Manly,Williams,Hawaii,2016,245,74,49,DL,Honolulu,HI        ,USA
+3914923,Alex,Trifonovitch,Hawaii,2016,195,73,46,PK,Honolulu,HI        ,USA
+3914922,Rigoberto,Sanchez,Hawaii,2016,,,,,,,
+3914920,Rojesterman,Farris II,Hawaii,2016,180,73,4,DB,Coral Springs,FL        ,USA
+3914919,Paul,Harris,Hawaii,2016,,,,,,,
+3914918,Solomon,Matautia,Hawaii,2017,230,73,27,LB,Ewa Beach,HI        ,USA
+3914916,Aaron,Zwahlen,Hawaii,2016,,,,,,,
+3914915,Russell,Williams Jr.,Hawaii,2016,230,73,44,LB,Chicago,IL        ,USA
 3914864,Kenny,Potter,San Jose State,2015,,,,,,,
 3914862,Troy,Kowalski,San Jose State,2014,308,77,79,OL,Glendale,AZ        ,USA
 3914861,Frank,Ginda,San Jose State,2016,245,72,5,LB,Chicago,IL        ,USA
@@ -17063,7 +17063,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 3155473,Jerome,Wright,Virginia Tech,2014,,,,,,,
 3155026,Sean,O'Kane,Middle Tennessee,2014,,,,,,,
 3154827,-,Team,Virginia Tech,2014,,,,,,,
-3154545,Pereese,Joas,Hawai'i,2015,,,,,,,
+3154545,Pereese,Joas,Hawaii,2015,,,,,,,
 3154543,Matt,Galland,Air Force,2014,,,,,,,
 3154490,John,Wagstaff,Sacramento State,2016,,,,,,,
 3154487,-,Team,Louisville,2014,,,,,,,
@@ -17155,7 +17155,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 3145361,Daniel,Talley,Colorado,2015,215,74,28,DB,Aurora,CO        ,USA
 3145316,Khalil,Lewis,Gardner-Webb,2016,,,,,,,
 3145283,Dennis,Craig,Southern,2017,245,75,82,TE,Lewisville,TX        ,USA
-3145253,Manu,Hudson-Rasmussen,Hawai'i,2015,175,73,14,DB,Tigard,OR        ,USA
+3145253,Manu,Hudson-Rasmussen,Hawaii,2015,175,73,14,DB,Tigard,OR        ,USA
 3145244,Brad,Sochowski,UCLA,2016,190,70,29,WR,Lubbock,TX        ,USA
 3145227,Kelvon,Davis,North Carolina Central,2016,,,,,,,
 3145223,Zer,Rollins,Alcorn State,2014,,,,,,,
@@ -17468,7 +17468,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 3139423,Cole,Garvin,South Alabama,2016,205,73,13,QB,Newnan,GA        ,USA
 3139422,Donquell,Green,Marshall,2014,161,68,4,WR,Waynesboro,GA        ,USA
 3139421,Hyleck,Foster,Marshall,2014,190,71,2,WR,Lubbock,TX        ,USA
-3139418,Jamal,Mayo,Hawai'i,2016,,,,,,,
+3139418,Jamal,Mayo,Hawaii,2016,,,,,,,
 3139406,Ed,Hall,Idaho,2016,211,72,50,LB,Chicago,IL        ,USA
 3139405,Lui,Fa'amasino,New Mexico State,2016,227,72,49,LB,Anchorage,AK        ,USA
 3139400,Alex,Boatman,Idaho,2017,242,72,37,LS,Lewiston,ID        ,USA
@@ -17781,7 +17781,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 3134006,Nick,Reinhardt,Arizona,2016,240,73,56,LS,Scottsdale,AZ        ,USA
 3134005,Josh,Pollack,Arizona,2016,184,70,30,PK,Highland Park,IL        ,USA
 3134003,Kwesi,Mashack,Arizona,2016,198,68,15,CB,Llano,TX        ,USA
-3134001,Makani,Kema-Kaleiwahea,Hawai'i,2016,,,,,,,
+3134001,Makani,Kema-Kaleiwahea,Hawaii,2016,,,,,,,
 3134000,Jocquez,Kalili,UNLV,2016,185,71,26,DB,Las Vegas,NV        ,USA
 3133998,Marcus,Griffin,Arizona,2014,305,75,9,DL,Bellevue,WA        ,USA
 3133996,Tony,Ellison,Arizona,2016,188,71,9,WR,Granite Bay,CA        ,USA
@@ -18406,7 +18406,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 3126369,O.J.,Smith,Alabama,2014,320,74,99,DL,Bossier City,LA        ,USA
 3126368,JK,Scott,Alabama,2016,204,78,10,P,Houston,TX        ,USA
 3126367,Bo,Scarbrough,Alabama,2015,235,74,9,RB,Ewa Beach,HI        ,USA
-3126366,Chris,Posa,Hawai'i,2017,290,76,60,OL,Royse City,TX        ,USA
+3126366,Chris,Posa,Hawaii,2017,290,76,60,OL,Royse City,TX        ,USA
 3126364,Ross,Pierschbacher,Alabama,2016,309,76,71,OL,Cedar Falls,IA        ,USA
 3126363,Jamey,Mosley,Alabama,2016,239,77,16,LB,Mobile,AL        ,USA
 3126362,Christian,Miller,Alabama,2015,244,76,47,LB,Columbia,SC        ,USA
@@ -19068,25 +19068,25 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 3124608,James,Butler,Nevada,2014,210,69,20,RB,Ewa Beach,HI        ,USA
 3124603,Robert,Mondie,Arkansas State,2016,,,,,,,
 3124602,Kalen,Jackson,UAB,2014,,,,,,,
-3124598,Ka'aumoana,Gifford,Hawai'i,2016,,,,,,,
-3124596,Dakota,Torres,Hawai'i,2016,245,74,45,WR,Waianae,HI        ,USA
-3124594,Terrence,Sayles,Hawai'i,2017,195,75,17,DB,Leander,TX        ,USA
-3124592,Kaiwi,Chung,Hawai'i,2016,240,71,47,RB,Honolulu,HI        ,USA
-3124588,Tumua,Tuinei,Hawai'i,2015,200,69,88,DB,Honolulu,HI        ,USA
-3124587,Jahlani,Tavai,Hawai'i,2016,245,76,31,LB,Inglewood,CA        ,USA
-3124586,Rashaan,Falemalu,Hawai'i,2017,230,73,58,LB,Chicago,IL        ,USA
-3124582,Simon,Poti,Hawai'i,2015,,,,,,,
-3124581,Tevarua,Eldridge,Hawai'i,2018,270,74,43,DL,Wailuku,HI        ,USA
-3124580,Metuisela,'Unga,Hawai'i,2016,240,77,7,TE,Lewisville,TX        ,USA
-3124579,Jamie,Tago,Hawai'i,2015,,,,,,,
-3124578,Dany,Mulanga,Hawai'i,2014,215,75,40,DB,Bedford,TX        ,USA
-3124577,Malachi,Mageo,Hawai'i,2013,220,74,38,LB,Carson,CA        ,USA
-3124576,Dominique,Small,Hawai'i,2014,,,,,,,
-3124575,Gaetano,DeMattei,Hawai'i,2014,,,,,,,
-3124574,Nick,Nelson,Hawai'i,2015,208,71,11,CB,Llano,TX        ,USA
-3124573,Jalen,Rogers,Hawai'i,2014,,,,,,,
-3124570,Daniel,Lewis Jr.,Hawai'i,2016,190,71,4,DB,Leander,TX        ,USA
-3124569,Devan,Stubblefield,Hawai'i,2015,200,73,9,WR,Ewa Beach,HI        ,USA
+3124598,Ka'aumoana,Gifford,Hawaii,2016,,,,,,,
+3124596,Dakota,Torres,Hawaii,2016,245,74,45,WR,Waianae,HI        ,USA
+3124594,Terrence,Sayles,Hawaii,2017,195,75,17,DB,Leander,TX        ,USA
+3124592,Kaiwi,Chung,Hawaii,2016,240,71,47,RB,Honolulu,HI        ,USA
+3124588,Tumua,Tuinei,Hawaii,2015,200,69,88,DB,Honolulu,HI        ,USA
+3124587,Jahlani,Tavai,Hawaii,2016,245,76,31,LB,Inglewood,CA        ,USA
+3124586,Rashaan,Falemalu,Hawaii,2017,230,73,58,LB,Chicago,IL        ,USA
+3124582,Simon,Poti,Hawaii,2015,,,,,,,
+3124581,Tevarua,Eldridge,Hawaii,2018,270,74,43,DL,Wailuku,HI        ,USA
+3124580,Metuisela,'Unga,Hawaii,2016,240,77,7,TE,Lewisville,TX        ,USA
+3124579,Jamie,Tago,Hawaii,2015,,,,,,,
+3124578,Dany,Mulanga,Hawaii,2014,215,75,40,DB,Bedford,TX        ,USA
+3124577,Malachi,Mageo,Hawaii,2013,220,74,38,LB,Carson,CA        ,USA
+3124576,Dominique,Small,Hawaii,2014,,,,,,,
+3124575,Gaetano,DeMattei,Hawaii,2014,,,,,,,
+3124574,Nick,Nelson,Hawaii,2015,208,71,11,CB,Llano,TX        ,USA
+3124573,Jalen,Rogers,Hawaii,2014,,,,,,,
+3124570,Daniel,Lewis Jr.,Hawaii,2016,190,71,4,DB,Leander,TX        ,USA
+3124569,Devan,Stubblefield,Hawaii,2015,200,73,9,WR,Ewa Beach,HI        ,USA
 3124555,Keyan,Williams,Fresno State,2013,195,70,21,WR,New Orleans,LA        ,USA
 3124554,Malcolm,Washington,Northern Iowa,2017,172,74,2,DB,Leander,TX        ,USA
 3124547,Kyle,Riddering,Fresno State,2015,237,78,89,TE,Fresno,CA        ,USA
@@ -20913,7 +20913,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 555436,Andre,Yevchinecz,Wagner,2016,,,,,,,
 555431,Lloyd,Smith,Wagner,2014,,,,,,,
 555426,J.J.,Jones,Oregon,2014,,,,,,,
-555425,Davasyia,Hagger,Hawai'i,2015,,,,,,,
+555425,Davasyia,Hagger,Hawaii,2015,,,,,,,
 555419,Caleb,Scepaniak,Wagner,2016,240,78,15,TE,Lewisville,TX        ,USA
 555417,Kendle,Bramble,Wagner,2016,,,,,,,
 555415,Mathieu,Loiselle,Wagner,2016,210,71,42,LB,Chicago,IL        ,USA
@@ -23131,27 +23131,27 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 547206,Austin,Allen,Arkansas,2015,215,73,8,QB,Dallas,TX        ,USA
 547205,Damon,Mitchell,Arkansas,2014,213,74,5,WR,Lubbock,TX        ,USA
 547203,Alex,Collins,Arkansas,2015,,,,,,,
-547201,Meffy,Koloamatangi,Hawai'i,2016,240,77,97,DL,Andrews,TX        ,USA
-547200,David,Manoa,Hawai'i,2017,240,75,3,DL,Andrews,TX        ,USA
-547199,Penitito,Faalologo,Hawai'i,2016,300,71,8,DL,Andrews,TX        ,USA
-547197,Keith,Kirkwood,Hawai'i,2013,220,75,5,WR,Lubbock,TX        ,USA
-547195,Marcus,Kemp,Hawai'i,2013,,,,,,,
-547194,Vasquez,Haynes,Hawai'i,2014,,,,,,,
-547193,Ammon,Barker,Hawai'i,2016,225,76,80,WR,Lubbock,TX        ,USA
-547188,Dejon,Allen,Hawai'i,2016,290,75,50,OL,Royse City,TX        ,USA
-547185,Tevita,Lataimua,Hawai'i,2013,,,,,,,
-547182,Max,Broman,Hawai'i,2017,220,73,59,LB,Chicago,IL        ,USA
+547201,Meffy,Koloamatangi,Hawaii,2016,240,77,97,DL,Andrews,TX        ,USA
+547200,David,Manoa,Hawaii,2017,240,75,3,DL,Andrews,TX        ,USA
+547199,Penitito,Faalologo,Hawaii,2016,300,71,8,DL,Andrews,TX        ,USA
+547197,Keith,Kirkwood,Hawaii,2013,220,75,5,WR,Lubbock,TX        ,USA
+547195,Marcus,Kemp,Hawaii,2013,,,,,,,
+547194,Vasquez,Haynes,Hawaii,2014,,,,,,,
+547193,Ammon,Barker,Hawaii,2016,225,76,80,WR,Lubbock,TX        ,USA
+547188,Dejon,Allen,Hawaii,2016,290,75,50,OL,Royse City,TX        ,USA
+547185,Tevita,Lataimua,Hawaii,2013,,,,,,,
+547182,Max,Broman,Hawaii,2017,220,73,59,LB,Chicago,IL        ,USA
 547181,Ruben,Guzman,Kansas,2015,,,,,,,
-547180,Damien,Packer,Hawai'i,2013,,,,,,,
-547179,Jason,Muraoka,Hawai'i,2015,,,,,,,
-547178,Trayvon,Henderson,Hawai'i,2013,200,72,39,DB,Leander,TX        ,USA
-547177,Marcus,Langkilde,Hawai'i,2013,,,,,,,
-547176,Aofaga,Wily,Hawai'i,2013,,,,,,,
-547175,Julian,Gener,Hawai'i,2013,,,,,,,
-547174,Kwamane,Bowens,Hawai'i,2013,,,,,,,
-547173,Anthony,Pierce,Hawai'i,2013,,,,,,,
-547172,Diocemy,Saint Juste,Hawai'i,2016,200,68,22,RB,Ewa Beach,HI        ,USA
-547170,Keelan,Ewaliko,Hawai'i,2016,200,71,12,WR,Lubbock,TX        ,USA
+547180,Damien,Packer,Hawaii,2013,,,,,,,
+547179,Jason,Muraoka,Hawaii,2015,,,,,,,
+547178,Trayvon,Henderson,Hawaii,2013,200,72,39,DB,Leander,TX        ,USA
+547177,Marcus,Langkilde,Hawaii,2013,,,,,,,
+547176,Aofaga,Wily,Hawaii,2013,,,,,,,
+547175,Julian,Gener,Hawaii,2013,,,,,,,
+547174,Kwamane,Bowens,Hawaii,2013,,,,,,,
+547173,Anthony,Pierce,Hawaii,2013,,,,,,,
+547172,Diocemy,Saint Juste,Hawaii,2016,200,68,22,RB,Ewa Beach,HI        ,USA
+547170,Keelan,Ewaliko,Hawaii,2016,200,71,12,WR,Lubbock,TX        ,USA
 547166,Vincent,Taylor,Oklahoma State,2016,,,,,,,
 547165,Jordan,Sterns,Oklahoma State,2016,,,,,,,
 547164,Quinn,Shanbour,North Texas,2015,202,72,19,QB,Oklahoma City,OK        ,USA
@@ -23168,7 +23168,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 547129,D.J.,Curl,Charleston Southern,2016,,,,,,,
 547128,Colton,Korn,Charleston Southern,2013,,,,,,,
 547126,Troy,McGowens,Charleston Southern,2016,,,,,,,
-547121,Ryan,Tuiasoa,Hawai'i,2015,210,71,48,RB,Ewa Beach,HI        ,USA
+547121,Ryan,Tuiasoa,Hawaii,2015,210,71,48,RB,Ewa Beach,HI        ,USA
 547120,Zach,Smith,Weber State,2014,,,,,,,
 547117,Cameron,Livingston,Weber State,2013,,,,,,,
 547116,Adam,Lewis,Weber State,2016,265,78,98,DE,Fairfield,TX        ,USA
@@ -24011,7 +24011,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 545341,Nate,Halverson,SMU,2014,,,,,,,
 545340,Mason,Gentry,SMU,2016,300,78,93,DE,Fairfield,TX        ,USA
 545339,Jeremiah,Gaines,SMU,2015,,,,,,,
-545334,Kolney,Cassel,Hawai'i,2018,200,74,3,QB,Dallas,TX        ,USA
+545334,Kolney,Cassel,Hawaii,2018,200,74,3,QB,Dallas,TX        ,USA
 545333,Carlos,Carroll,SMU,2016,,,,,,,
 545327,Emilio,Nadelman,South Florida,2016,170,66,35,PK,Lancaster,TX        ,USA
 545320,James,Looney,California,2016,280,75,9,DE,Fairfield,TX        ,USA
@@ -24695,15 +24695,15 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 536281,Taylor,Pope,Boise State,2014,,,,,,,
 536273,Charles,Bertoli,Boise State,2013,,,,,,,
 536270,Melvin,Ray,Auburn,2013,,,,,,,
-536261,Harold,Moleni,Hawai'i,2012,,,,,,,
-536256,Leo,Koloamatangi,Hawai'i,2014,,,,,,,
-536245,Jerrol,Garcia-Williams,Hawai'i,2016,,,,,,,
-536243,Tony,Grimes,Hawai'i,2012,,,,,,,
-536242,Benetton,Fonua,Hawai'i,2014,,,,,,,
-536240,Steven,Lakalaka,Hawai'i,2014,,,,,,,
-536239,Marrell,Jackson,Hawai'i,2014,,,,,,,
-536238,Ne'Quan,Phillips,Hawai'i,2012,,,,,,,
-536237,TJ,Taimatuia,Hawai'i,2014,,,,,,,
+536261,Harold,Moleni,Hawaii,2012,,,,,,,
+536256,Leo,Koloamatangi,Hawaii,2014,,,,,,,
+536245,Jerrol,Garcia-Williams,Hawaii,2016,,,,,,,
+536243,Tony,Grimes,Hawaii,2012,,,,,,,
+536242,Benetton,Fonua,Hawaii,2014,,,,,,,
+536240,Steven,Lakalaka,Hawaii,2014,,,,,,,
+536239,Marrell,Jackson,Hawaii,2014,,,,,,,
+536238,Ne'Quan,Phillips,Hawaii,2012,,,,,,,
+536237,TJ,Taimatuia,Hawaii,2014,,,,,,,
 536233,Nigel,Westbrooks,Nevada,2013,,,,,,,
 536231,Randy,Uzoma,Nevada,2013,,,,,,,
 536230,Cody,Tuttle,Eastern Michigan,2015,,,,,,,
@@ -24755,7 +24755,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 536122,Matt,Hadley,BYU,2015,215,72,2,LB,Connell,WA        ,USA
 536121,Quin,Ficklin,BYU,2013,290,74,51,OL,Mesa,AZ        ,USA
 536119,Brayden,El-Bakri,BYU,2018,240,72,35,RB,Salt Lake City,UT        ,USA
-536118,Dylan,Collie,Hawai'i,2016,175,70,23,WR,Lubbock,TX        ,USA
+536118,Dylan,Collie,Hawaii,2016,175,70,23,WR,Lubbock,TX        ,USA
 536116,Scott,Arellano,BYU,2013,,,,,,,
 536115,Roman,Andrus,Utah State,2014,300,76,76,OL,El Dorado Hills,CA        ,USA
 536113,Zane,Williams,Kentucky,2016,,,,,,,
@@ -24892,7 +24892,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 535786,John,Walker,Montana State,2016,,,,,,,
 535785,Josh,Tupou,Colorado,2016,,,,,,,
 535783,Gerald,Thomas,Colorado,2012,,,,,,,
-535779,Kory,Rasmussen,Hawai'i,2016,,,,,,,
+535779,Kory,Rasmussen,Hawaii,2016,,,,,,,
 535778,Christian,Powell,Colorado,2012,,,,,,,
 535776,Marques,Mosley,Colorado,2012,,,,,,,
 535775,Samson,Kafovalu,Colorado,2016,,,,,,,
@@ -25752,10 +25752,10 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 533017,Matt,Cohen,Louisville,2016,,,,,,,
 533012,Steve,Mercado,Western Illinois,2016,,,,,,,
 532988,Kyle,Sakowski,Albany,2016,,,,,,,
-532979,Lance,Williams,Hawai'i,2014,,,,,,,
-532978,Ryan,Pasoquen,Hawai'i,2014,,,,,,,
-532976,Ikaika,Woolsey,Hawai'i,2014,,,,,,,
-532975,Taylor,Graham,Hawai'i,2013,,,,,,,
+532979,Lance,Williams,Hawaii,2014,,,,,,,
+532978,Ryan,Pasoquen,Hawaii,2014,,,,,,,
+532976,Ikaika,Woolsey,Hawaii,2014,,,,,,,
+532975,Taylor,Graham,Hawaii,2013,,,,,,,
 532974,Marteze,Waller,Fresno State,2013,,,,,,,
 532972,T.J.,Thomas,Fresno State,2014,,,,,,,
 532969,Aaron,Peck,Fresno State,2016,,,,,,,
@@ -26986,7 +26986,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 519625,Anthony,Williams Jr.,Alcorn State,2014,,,,,,,
 519590,Kyron,King,Nicholls,2014,,,,,,,
 519579,Leon,Shorter,Hampton,2014,,,,,,,
-519570,Scott,Harding,Hawai'i,2011,,,,,,,
+519570,Scott,Harding,Hawaii,2011,,,,,,,
 519546,Randy,Maynes,Norfolk State,2011,,,,,,,
 519542,Montez,Carlton,Austin Peay,2014,,,,,,,
 519540,Anthony,King,Cincinnati,2011,,,,,,,
@@ -27439,11 +27439,11 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 517381,Keelin,Smith,Florida State,2013,,,,,,,
 517377,Nick,O'Leary,Florida State,2011,,,,,,,
 517364,Tyler,Hunter,Florida State,2012,,,,,,,
-517356,Tavita,Woodard,Hawai'i,2012,,,,,,,
-517355,Chinedu,Amadi,Hawai'i,2012,,,,,,,
-517354,Brenden,Daley,Hawai'i,2012,,,,,,,
-517353,Will,Gregory,Hawai'i,2012,,,,,,,
-517352,Chris,Gant,Hawai'i,2012,,,,,,,
+517356,Tavita,Woodard,Hawaii,2012,,,,,,,
+517355,Chinedu,Amadi,Hawaii,2012,,,,,,,
+517354,Brenden,Daley,Hawaii,2012,,,,,,,
+517353,Will,Gregory,Hawaii,2012,,,,,,,
+517352,Chris,Gant,Hawaii,2012,,,,,,,
 517347,Darian,Thompson,Boise State,2012,,,,,,,
 517346,Dextrell,Simmons,Boise State,2012,,,,,,,
 517343,Hayden,Plinke,Boise State,2012,,,,,,,
@@ -27593,11 +27593,11 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 516964,Donavon,Cunningham,Idaho,2012,,,,,,,
 516959,Brett,Smith,Wyoming,2011,,,,,,,
 516958,Adam,Kennedy,Utah State,2012,,,,,,,
-516956,Trevor,Davis,Hawai'i,2012,,,,,,,
-516955,Samson,Anguay,Hawai'i,2013,,,,,,,
-516948,Justin,Vele,Hawai'i,2012,,,,,,,
-516946,Breyden,Torres-Keohokapu,Hawai'i,2011,,,,,,,
-516944,Jared,Leaf,Hawai'i,2012,,,,,,,
+516956,Trevor,Davis,Hawaii,2012,,,,,,,
+516955,Samson,Anguay,Hawaii,2013,,,,,,,
+516948,Justin,Vele,Hawaii,2012,,,,,,,
+516946,Breyden,Torres-Keohokapu,Hawaii,2011,,,,,,,
+516944,Jared,Leaf,Hawaii,2012,,,,,,,
 516941,Rodney,Whitmore Jr.,Alcorn State,2012,,,,,,,
 516940,Chris,Perkins,Middle Tennessee,2013,,,,,,,
 516921,Marti,Shelby,Alcorn State,2012,,,,,,,
@@ -27719,7 +27719,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 516296,Luke,Anderson,Wyoming,2011,,,,,,,
 516290,John,White,Utah,2011,,,,,,,
 516284,Eric,Rowe,Utah,2011,,,,,,,
-516282,Quinton,Pedroza,Hawai'i,2014,,,,,,,
+516282,Quinton,Pedroza,Hawaii,2014,,,,,,,
 516280,Jarrell,Oliver,Utah,2012,,,,,,,
 516277,Jake,Murphy,Utah,2012,,,,,,,
 516276,Keith,McGill II,Utah,2013,,,,,,,
@@ -28814,7 +28814,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 512325,Alonzo,Harris,Louisiana,2014,,,,,,,
 512323,Qyen,Griffin,Louisiana,2012,,,,,,,
 512321,Martavis,Bryant,Clemson,2011,,,,,,,
-512267,Craig,Cofer,Hawai'i,2012,,,,,,,
+512267,Craig,Cofer,Hawaii,2012,,,,,,,
 512248,Jake,Howton,South Alabama,2014,,,,,,,
 512238,Julien,Valentin,South Alabama,2013,,,,,,,
 512233,Maleki,Harris,South Alabama,2013,,,,,,,
@@ -28917,7 +28917,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 511945,Ben,Boesen,Iowa State,2013,,,,,,,
 511943,Kelsey,Young,Boise State,2015,,,,,,,
 511941,Remound,Wright,Stanford,2012,,,,,,,
-511937,Kenton,Chun,Hawai'i,2011,,,,,,,
+511937,Kenton,Chun,Hawaii,2011,,,,,,,
 511918,Keshawn,Hill,Sam Houston State,2011,,,,,,,
 511914,Brandon,Wilkerson,Sam Houston State,2012,,,,,,,
 511913,Chris,Grett,Sam Houston State,2012,,,,,,,
@@ -29616,18 +29616,18 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 504985,Homer,Mauga,Idaho,2011,,,,,,,
 504984,Armauni,Johnson,Idaho,2011,,,,,,,
 504983,Justin,Podrabsky,Idaho,2013,,,,,,,
-504979,Terence,Bell,Hawai'i,2011,,,,,,,
-504978,Donnie,King Jr.,Hawai'i,2014,,,,,,,
-504970,London,Sapolu,Hawai'i,2011,,,,,,,
-504959,Bubba,Poueu-Luna,Hawai'i,2012,,,,,,,
-504958,John,Hardy-Tuliau,Hawai'i,2011,,,,,,,
-504956,Dee,Maggitt,Hawai'i,2011,,,,,,,
-504955,Joey,Iosefa,Hawai'i,2011,,,,,,,
-504952,Sterling,Jackson,Hawai'i,2012,,,,,,,
-504951,Tyler,Hadden,Hawai'i,2011,,,,,,,
-504950,John,Lister,Hawai'i,2012,,,,,,,
-504948,Darius,Bright,Hawai'i,2012,,,,,,,
-504946,Allen,Sampson,Hawai'i,2010,,,,,,,
+504979,Terence,Bell,Hawaii,2011,,,,,,,
+504978,Donnie,King Jr.,Hawaii,2014,,,,,,,
+504970,London,Sapolu,Hawaii,2011,,,,,,,
+504959,Bubba,Poueu-Luna,Hawaii,2012,,,,,,,
+504958,John,Hardy-Tuliau,Hawaii,2011,,,,,,,
+504956,Dee,Maggitt,Hawaii,2011,,,,,,,
+504955,Joey,Iosefa,Hawaii,2011,,,,,,,
+504952,Sterling,Jackson,Hawaii,2012,,,,,,,
+504951,Tyler,Hadden,Hawaii,2011,,,,,,,
+504950,John,Lister,Hawaii,2012,,,,,,,
+504948,Darius,Bright,Hawaii,2012,,,,,,,
+504946,Allen,Sampson,Hawaii,2010,,,,,,,
 504943,Greg,Watson,Fresno State,2012,,,,,,,
 504941,Derron,Smith,Fresno State,2011,,,,,,,
 504939,Jalen,Saunders,Oklahoma,2012,,,,,,,
@@ -31628,7 +31628,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 487949,David,Garrett,Kansas State,2011,,,,,,,
 487943,Ryan,Walker,SMU,2012,,,,,,,
 487936,Jeremy,Gray,SMU,2012,,,,,,,
-487933,Charles,Clay,Hawai'i,2011,,,,,,,
+487933,Charles,Clay,Hawaii,2011,,,,,,,
 487929,Steve,Mestan,Kansas,2011,,,,,,,
 487911,Terrance,Gourdine,Eastern Michigan,2010,,,,,,,
 487905,Tim,Russell,Illinois,2011,,,,,,,
@@ -32014,7 +32014,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 484917,Chris,Frierson,South Dakota,2011,,,,,,,
 484910,Greg,Hardin,North Dakota,2012,,,,,,,
 484889,Zeb,Miller,North Dakota,2012,,,,,,,
-484886,Siasau,Matagiese,Hawai'i,2012,,,,,,,
+484886,Siasau,Matagiese,Hawaii,2012,,,,,,,
 484884,Keitrell,Anderson,Portland State,2010,,,,,,,
 484882,Nevin,Lewis,Portland State,2012,,,,,,,
 484881,Justin,Monahan,Portland State,2010,,,,,,,
@@ -32260,7 +32260,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 483429,Zach,Rogers,Tennessee,2011,,,,,,,
 483415,Toney,Williams,Tennessee,2010,,,,,,,
 483412,Eric,Gordon,Tennessee,2010,,,,,,,
-483409,Mike,Edwards,Hawai'i,2012,,,,,,,
+483409,Mike,Edwards,Hawaii,2012,,,,,,,
 483406,Janzen,Jackson,Tennessee,2010,,,,,,,
 483404,Marsalis,Teague,Tennessee,2011,,,,,,,
 483401,Ben,Turk,Notre Dame,2011,,,,,,,
@@ -32509,7 +32509,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 482762,Tyree,Watkins,Duke,2011,,,,,,,
 482761,Conner,Vernon,Duke,2012,,,,,,,
 482757,Desmond,Scott,Duke,2010,,,,,,,
-482756,Sean,Schroeder,Hawai'i,2012,,,,,,,
+482756,Sean,Schroeder,Hawaii,2012,,,,,,,
 482751,Garett,Patterson,Duke,2013,,,,,,,
 482745,Kyle,Griswould,Middle Tennessee,2011,,,,,,,
 482741,Corey,Gattis,Duke,2011,,,,,,,
@@ -32540,7 +32540,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 482654,Dre,Kirkpatrick,Alabama,2010,,,,,,,
 482651,Kenny,Bell,Alabama,2012,,,,,,,
 482647,Travis,Long,Washington State,2012,,,,,,,
-482644,Jordan,Pu'u-Robinson,Hawai'i,2013,,,,,,,
+482644,Jordan,Pu'u-Robinson,Hawaii,2013,,,,,,,
 482628,Casey,Locker,Washington State,2012,,,,,,,
 482627,Leon,Brooks,Washington State,2013,,,,,,,
 482626,Anthony,Carpenter,Washington State,2012,,,,,,,
@@ -33002,8 +33002,8 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 481289,Jurell,Thompson,TCU,2010,,,,,,,
 481287,Casey,Pachall,TCU,2011,,,,,,,
 481286,Skye,Dawson,TCU,2010,,,,,,,
-481283,Justin,Clapp,Hawai'i,2011,,,,,,,
-481282,Corey,Paclebar,Hawai'i,2011,,,,,,,
+481283,Justin,Clapp,Hawaii,2011,,,,,,,
+481282,Corey,Paclebar,Hawaii,2011,,,,,,,
 481268,Otis,Peterson,Louisiana Monroe,2010,,,,,,,
 481267,Tavarese,Maye,Louisiana Monroe,2011,,,,,,,
 481258,Robert,Chevis Nelson Jr.,Arizona State,2012,,,,,,,
@@ -33102,20 +33102,20 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 480950,Michael,Smith,Utah State,2010,,,,,,,
 480943,Rajric,Coleman,Utah State,2010,,,,,,,
 480941,Josh,Thompson,Utah State,2011,,,,,,,
-480937,Art,Laurel,Hawai'i,2011,,,,,,,
-480929,Kamalani,Alo,Hawai'i,2011,,,,,,,
-480926,Hogan,Rosehill,Hawai'i,2010,,,,,,,
-480925,Alex,Dunnachie,Hawai'i,2010,,,,,,,
-480923,Chizzy,Dimude,Hawai'i,2010,,,,,,,
-480922,Alex,Green,Hawai'i,2010,,,,,,,
-480921,Aaron,Brown,Hawai'i,2010,,,,,,,
-480920,Scott,Enos,Hawai'i,2010,,,,,,,
-480919,Bryant,Moniz,Hawai'i,2011,,,,,,,
-480918,David,Graves,Hawai'i,2011,,,,,,,
-480916,Billy,Ray Stutzmann,Hawai'i,2012,,,,,,,
-480915,Cayman,Shutter,Hawai'i,2012,,,,,,,
-480914,Tank,Hopkins,Hawai'i,2011,,,,,,,
-480912,Rodney,Bradley,Hawai'i,2010,,,,,,,
+480937,Art,Laurel,Hawaii,2011,,,,,,,
+480929,Kamalani,Alo,Hawaii,2011,,,,,,,
+480926,Hogan,Rosehill,Hawaii,2010,,,,,,,
+480925,Alex,Dunnachie,Hawaii,2010,,,,,,,
+480923,Chizzy,Dimude,Hawaii,2010,,,,,,,
+480922,Alex,Green,Hawaii,2010,,,,,,,
+480921,Aaron,Brown,Hawaii,2010,,,,,,,
+480920,Scott,Enos,Hawaii,2010,,,,,,,
+480919,Bryant,Moniz,Hawaii,2011,,,,,,,
+480918,David,Graves,Hawaii,2011,,,,,,,
+480916,Billy,Ray Stutzmann,Hawaii,2012,,,,,,,
+480915,Cayman,Shutter,Hawaii,2012,,,,,,,
+480914,Tank,Hopkins,Hawaii,2011,,,,,,,
+480912,Rodney,Bradley,Hawaii,2010,,,,,,,
 480908,Chandler,Jones,San Jose State,2010,,,,,,,
 480905,Pierce,Burton,Ole Miss,2012,,,,,,,
 480901,Jareth,Glanda,Michigan,2011,,,,,,,
@@ -33220,7 +33220,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 480650,Nick,Kasa,Colorado,2011,,,,,,,
 480642,Quentin,Hildreth,Northern Colorado,2012,,,,,,,
 480637,Zach,Grossnickle,Colorado,2010,,,,,,,
-480634,Clark,Evans,Hawai'i,2012,,,,,,,
+480634,Clark,Evans,Hawaii,2012,,,,,,,
 480631,Erik,Highsmith,North Carolina,2012,,,,,,,
 480628,Travis,Bond,North Carolina,2011,,,,,,,
 480622,Hunter,Furr,East Carolina,2012,,,,,,,
@@ -33540,7 +33540,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 477258,Major,Gray,Southern Utah,2010,,,,,,,
 477202,Jeremy,Perry,Tennessee State,2011,,,,,,,
 477119,Romonte,Hampton,Stephen F. Austin,2010,,,,,,,
-477069,Jordan,Monico,Hawai'i,2010,,,,,,,
+477069,Jordan,Monico,Hawaii,2010,,,,,,,
 476994,Deandre,Cooper,Prairie View,2013,,,,,,,
 476992,Alonzo,Revuelta,Prairie View,2010,,,,,,,
 476981,Dhabion,Woodfin,Arkansas-Pine Bluff,2010,,,,,,,
@@ -33609,13 +33609,13 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 475751,Terrence,Holt,Austin Peay,2010,,,,,,,
 475556,CoShik,Williams,Kentucky,2012,,,,,,,
 475554,Patrick,Simmons,Kentucky,2010,,,,,,,
-475479,Corey,Paredes,Hawai'i,2011,,,,,,,
+475479,Corey,Paredes,Hawaii,2011,,,,,,,
 475466,Kama,Bailey,Idaho,2011,,,,,,,
 475442,James,Perry III,Gardner-Webb,2010,,,,,,,
 475425,T.J.,Talley,VMI,2010,,,,,,,
 475020,Simmie,Yarborough,Southeastern Louisiana,2011,,,,,,,
 474860,Jack,Doyle,Western Kentucky,2010,,,,,,,
-474779,Dylan,McCagg,Hawai'i,2012,,,,,,,
+474779,Dylan,McCagg,Hawaii,2012,,,,,,,
 474774,Nic,Russo,Northwestern State,2012,,,,,,,
 474725,C.C.,Whitlock,South Carolina,2010,,,,,,,
 389536,Mitch,Huelsing,Memphis,2011,,,,,,,
@@ -34063,13 +34063,13 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 383023,Preston,Davis,Idaho,2010,,,,,,,
 383022,Bobby,Cowan,Idaho,2012,,,,,,,
 383021,Logan,Bushnell,Idaho,2011,,,,,,,
-383014,Mike,Tinoco,Hawai'i,2010,,,,,,,
-383010,Brent,Rausch,Hawai'i,2010,,,,,,,
+383014,Mike,Tinoco,Hawaii,2010,,,,,,,
+383010,Brent,Rausch,Hawaii,2010,,,,,,,
 383008,Steele,Jantz,Iowa State,2011,,,,,,,
-383007,Ryan,Henry,Hawai'i,2010,,,,,,,
-383005,Paipai,Falemalu,Hawai'i,2010,,,,,,,
-383001,Jeramy,Bryant,Hawai'i,2010,,,,,,,
-383000,Dustin,Blount,Hawai'i,2010,,,,,,,
+383007,Ryan,Henry,Hawaii,2010,,,,,,,
+383005,Paipai,Falemalu,Hawaii,2010,,,,,,,
+383001,Jeramy,Bryant,Hawaii,2010,,,,,,,
+383000,Dustin,Blount,Hawaii,2010,,,,,,,
 382993,Phillip,Thomas,Fresno State,2012,,,,,,,
 382992,Tapa,Taumoepeau,Fresno State,2010,,,,,,,
 382991,J.J.,Stallworth,Fresno State,2010,,,,,,,
@@ -34693,7 +34693,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 379845,Lito,Senatus,Western Illinois,2010,,,,,,,
 379828,Andre,Broadous,Cal Poly,2012,,,,,,,
 379814,Garrett,Wilkins,Richmond,2010,,,,,,,
-379784,Kamalu,Umu,Hawai'i,2010,,,,,,,
+379784,Kamalu,Umu,Hawaii,2010,,,,,,,
 379764,Tim,Edger,Rhode Island,2010,,,,,,,
 379761,Devon,Dace,Rhode Island,2011,,,,,,,
 379750,Ty,Bynum,Rhode Island,2010,,,,,,,
@@ -34809,8 +34809,8 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 378802,Nathan,Walker,Air Force,2010,,,,,,,
 378796,Seth,Smith,New Mexico State,2010,,,,,,,
 378794,Eric,Harper,Louisiana Tech,2010,,,,,,,
-378787,Richard,Torres,Hawai'i,2010,,,,,,,
-378786,Jake,Heun,Hawai'i,2010,,,,,,,
+378787,Richard,Torres,Hawaii,2010,,,,,,,
+378786,Jake,Heun,Hawaii,2010,,,,,,,
 378783,Brandon,Artz,Idaho,2010,,,,,,,
 378780,Jared,Tew,Air Force,2010,,,,,,,
 378776,Ryan,Southworth,Air Force,2010,,,,,,,
@@ -35042,9 +35042,9 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 246315,David,Paulson,Oregon,2011,,,,,,,
 246302,Bradley,Russo,Northwestern State,2010,,,,,,,
 246294,Ervin,Garner,Liberty,2011,,,,,,,
-246283,Joe,Avery,Hawai'i,2010,,,,,,,
-246282,Royce,Pollard,Hawai'i,2011,,,,,,,
-246281,Shane,Austin,Hawai'i,2010,,,,,,,
+246283,Joe,Avery,Hawaii,2010,,,,,,,
+246282,Royce,Pollard,Hawaii,2011,,,,,,,
+246281,Shane,Austin,Hawaii,2010,,,,,,,
 246270,Jimmy,Costello,Missouri,2011,,,,,,,
 246261,Elvis,Akpla,Montana State,2010,,,,,,,
 246234,Matt,Hulse,Tulsa,2010,,,,,,,
@@ -35065,7 +35065,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 246094,Alvin,Jordan,Louisiana Monroe,2010,,,,,,,
 246069,Bob,Hooper,Samford,2010,,,,,,,
 246044,Tyler,Johnson,Minnesota,2016,205,74,6,WR,Minneapolis,MN        ,USA
-245959,Jeremiah,Ostrowski,Hawai'i,2012,,,,,,,
+245959,Jeremiah,Ostrowski,Hawaii,2012,,,,,,,
 245952,Darryn,Lewis,San Diego State,2010,,,,,,,
 245913,Stephen,Anderson,Army,2010,,,,,,,
 245887,Ken,Dorsey,Louisiana Monroe,2010,,,,,,,
@@ -36134,8 +36134,8 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 232421,Josh,Jasper,LSU,2010,,,,,,,
 232419,Ron,Brooks,LSU,2011,,,,,,,
 232417,Jarrett,Lee,LSU,2011,,,,,,,
-232406,Kealoha,Pilares,Hawai'i,2010,,,,,,,
-232398,Jett,Jasper,Hawai'i,2011,,,,,,,
+232406,Kealoha,Pilares,Hawaii,2010,,,,,,,
+232398,Jett,Jasper,Hawaii,2011,,,,,,,
 232377,Gregg,Pugnetti,West Virginia,2010,,,,,,,
 232358,Lucas,Cox,Georgia Tech,2010,,,,,,,
 232343,Josh,Chichester,Louisville,2010,,,,,,,
@@ -36471,7 +36471,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 189213,Isaiah,Burel,Idaho State,2010,,,,,,,
 189209,Will,Yeatman,Maryland,2010,,,,,,,
 189206,Darrin,Walls,Notre Dame,2010,,,,,,,
-189168,Mana,Silva,Hawai'i,2010,,,,,,,
+189168,Mana,Silva,Hawaii,2010,,,,,,,
 189166,Aaron,Nichols,Oregon State,2010,,,,,,,
 189142,Cody,Kempt,Montana State,2010,,,,,,,
 189140,Marvin,Johnson,Oregon,2010,,,,,,,
@@ -36718,8 +36718,8 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 184204,Kevin,Perry,Marshall,2010,,,,,,,
 184190,Courtney,Edmonson,Marshall,2010,,,,,,,
 184187,Brian,Anderson,Marshall,2010,,,,,,,
-184070,Greg,Salas,Hawai'i,2010,,,,,,,
-184050,Po'okela,Ahmad,Hawai'i,2010,,,,,,,
+184070,Greg,Salas,Hawaii,2010,,,,,,,
+184050,Po'okela,Ahmad,Hawaii,2010,,,,,,,
 184048,Ryan,Winterswyk,Boise State,2010,,,,,,,
 184038,Kyle,Brotzman,Boise State,2010,,,,,,,
 184025,Chris,Prosinski,Wyoming,2010,,,,,,,
@@ -36771,7 +36771,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 183366,Dwight,Roberson,Oregon State,2010,,,,,,,
 183365,John,Reese,Oregon State,2010,,,,,,,
 183359,Kyle,Loomis,Portland State,2014,,,,,,,
-183358,Mana,Lolotai,Hawai'i,2010,,,,,,,
+183358,Mana,Lolotai,Hawaii,2010,,,,,,,
 183345,Joe,Halahuni,Oregon State,2010,,,,,,,
 183342,James,Dockery,Oregon State,2010,,,,,,,
 183338,Brady,Camp,Oregon State,2010,,,,,,,
@@ -36844,7 +36844,7 @@ id,first_name,last_name,school,year,weight,height,jersey,position,home_city,home
 146099,Brian,Smith,Minnesota,2016,,,,,,,
 138728,Tyler,Smith,Rice,2010,,,,,,,
 138246,Tyron,Harris,North Carolina Central,2013,,,,,,,
-138064,Ryan,Hall,Hawai'i,2012,,,,,,,
+138064,Ryan,Hall,Hawaii,2012,,,,,,,
 136354,Phillip,Sims,Virginia,2012,,,,,,,
 133109,Andre,Nelson,Morgan State,2010,,,,,,,
 132870,Martevious,Young,Southern Mississippi,2010,,,,,,,

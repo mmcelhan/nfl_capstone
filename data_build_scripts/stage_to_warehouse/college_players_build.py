@@ -13,6 +13,8 @@ def main():
     local_path = os.path.dirname(os.path.abspath(__file__))
     f = open(os.path.join(local_path, "college_players_build.json"))
     data = json.load(f)
+    print('got here')
+    hlp.return_college_matching_dict()
 
     matching = hlp.return_matching_dict()
 
