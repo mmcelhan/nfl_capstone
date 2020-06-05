@@ -24,7 +24,7 @@ def return_college_matching_dict():
     return data
 
 
-def return_id_df():
+def return_id_df(keep_columns=['last_name', 'position_group', 'college', 'id']):
     local_path = os.path.dirname(os.path.abspath(__file__))
     f = open(os.path.join(local_path, "stage_to_warehouse", "college_players_build.json"))
     data = json.load(f)
@@ -34,5 +34,5 @@ def return_id_df():
     df = pd.read_csv(source)
     df['position_group'] = df['position'].map(return_matching_dict()['position_groups'])
     df.rename(columns={'school': 'college'}, inplace=True)
-    df = df[['id', 'last_name', 'college', 'position_group']]
+    df = df[keep_columns]
     return df

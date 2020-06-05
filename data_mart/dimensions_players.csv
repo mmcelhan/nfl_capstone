@@ -1,0 +1,512 @@
+espn_id,full_name,first_name,last_name,position,position_group,section,college,selection_number,position_rank,position_group_rank,section_rank,drafting_team,year,college_weight_pounds,height,jersey,home_city,home_state,home_country
+4047646.0,A.J. Brown,A.J.,Brown,WR,WR,O,Ole Miss,,,,,,2016,225.0,73.0,1.0,Starkville,MS        ,USA
+3728248.0,Albert Huggins,Albert,Huggins,DL,DL,D,Clemson,,,,,,2015,305.0,75.0,67.0,Orangeburg,SC        ,USA
+3917668.0,Alec Ingold,Alec,Ingold,FB,RB,O,Wisconsin,,,,,,2015,246.0,74.0,45.0,Green Bay,WI        ,USA
+3886636.0,Alex Barnes,Alex,Barnes,RB,RB,O,Kansas State,,,,,,2016,227.0,73.0,34.0,Pittsburg,KS        ,USA
+4048244.0,Alexander Mattison,Alexander,Mattison,RB,RB,O,Boise State,,,,,,2016,219.0,71.0,22.0,San Bernardino,CA        ,USA
+3117249.0,Alijah Holder,Alijah,Holder,CB,DB,D,Stanford,,,,,,2015,184.0,74.0,13.0,Oceanside,CA        ,USA
+3932433.0,Alize Mack,Alize,Mack,TE,TE,O,Notre Dame,,,,,,2015,244.0,76.0,86.0,Las Vegas,NV        ,USA
+4036134.0,Amani Hooker,Amani,Hooker,S,DB,D,Iowa,,,,,,2016,210.0,72.0,27.0,Minneapolis,MN        ,USA
+3116175.0,Amani Oruwariye,Amani,Oruwariye,CB,DB,D,Penn State,,,,,,2016,201.0,73.0,21.0,Tampa,FL        ,USA
+3127264.0,Andre Dillard,Andre,Dillard,OT,OL,O,Washington State,,,,,,2015,305.0,77.0,60.0,Woodinville,WA        ,USA
+,Andrew Van ginkel,Andrew,Van,OLB,LB,D,Wisconsin,,,,,,2016,233.0,76.0,17.0,Rock Valley,IA        ,USA
+3918331.0,Andrew Wingard,Andrew,Wingard,S,DB,D,Wyoming,,,,,,2015,210.0,72.0,28.0,Arvada,CO        ,USA
+3914328.0,Andy Isabella,Andy,Isabella,WR,WR,O,UMass,,,,,,2016,195.0,70.0,5.0,Mayfield,OH        ,USA
+4049301.0,Anthony Johnson,Anthony,Johnson,WR,WR,O,Buffalo,,,,,,2017,207.0,74.0,83.0,Rock Hill,SC        ,USA
+3894856.0,Anthony Nelson,Anthony,Nelson,DL,DL,D,Iowa,,,,,,2016,271.0,79.0,98.0,Urbandale,IA        ,USA
+3145005.0,Anthony Nelson,Anthony,Nelson,DL,DL,D,Iowa,,,,,,2016,271.0,79.0,98.0,Urbandale,IA        ,USA
+4043161.0,Antoine Wesley,Antoine,Wesley,WR,WR,O,Texas Tech,,,,,,2016,200.0,77.0,4.0,Las Vegas,NV        ,USA
+3128685.0,Armon Watts,Armon,Watts,DL,DL,D,Arkansas,,,,,,2017,298.0,77.0,90.0,,,USA
+3728253.0,Austin Bryant,Austin,Bryant,DE,DL,D,Clemson,,,,,,2015,265.0,77.0,7.0,Pavo,GA        ,USA
+3919117.0,Azeez Al-Shaair,Azeez,Al-Shaair,OLB,LB,D,Florida Atlantic,,,,,,2016,228.0,74.0,2.0,Tampa,FL        ,USA
+3121537.0,Beau Benzschawel,Beau,Benzschawel,OT,OL,O,Wisconsin,,,,,,2016,322.0,78.0,66.0,Green Bay,WI        ,USA
+3124970.0,Ben Banogu,Ben,Banogu,DE,DL,D,TCU,,,,,,2015,249.0,76.0,15.0,Mckinney,TX        ,USA
+3886816.0,Ben Burr-Kirven,Ben,Burr-Kirven,OLB,LB,D,Washington,,,,,,2015,221.0,72.0,25.0,Menlo Park,CA        ,USA
+4037650.0,Ben Powers,Ben,Powers,OT,OL,O,Oklahoma,,,,,,2015,313.0,76.0,72.0,Wichita,KS        ,USA
+3128652.0,Blace Brown,Blace,Brown,CB,DB,D,Troy,,,,,,2015,184.0,73.0,18.0,Canton,GA        ,USA
+3728281.0,Blake Cashman,Blake,Cashman,OLB,LB,D,Minnesota,,,,,,2018,235.0,74.0,36.0,Eden Prairie,MN        ,USA
+3930021.0,Blessuan Austin,Blessuan,Austin,CB,DB,D,Rutgers,,,,,,2016,195.0,73.0,1.0,Queens,NY        ,USA
+3706968.0,Bobby Evans,Bobby,Evans,OT,OL,O,Oklahoma,,,,,,2016,301.0,77.0,71.0,Allen,TX        ,USA
+3117253.0,Bobby Okereke,Bobby,Okereke,OLB,LB,D,Stanford,,,,,,2015,232.0,75.0,20.0,Santa Ana,CA        ,USA
+3929795.0,Brandon Knight,Brandon,Knight,OT,OL,O,Indiana,,,,,,2014,303.0,77.0,62.0,Noblesville,IN        ,USA
+3722362.0,Brett Rypien,Brett,Rypien,QB,QB,O,Boise State,,,,,,2015,203.0,74.0,4.0,Spokane,WA        ,USA
+4035631.0,Brian Burns,Brian,Burns,DE,DL,D,Florida State,,,,,,2016,231.0,77.0,99.0,Fort Lauderdale,FL        ,USA
+3931398.0,Bryce Love,Bryce,Love,RB,RB,O,Stanford,,,,,,2017,196.0,70.0,20.0,Wake Forest,NC        ,USA
+3126478.0,Bryson Allen-Williams,Bryson,Allen-Williams,OLB,LB,D,South Carolina,,,,,,2018,230.0,73.0,4.0,Ellenwood,GA        ,USA
+4038999.0,Byron Murphy,Byron,Murphy,CB,DB,D,Washington,,,,,,2017,184.0,71.0,1.0,Scottsdale,AZ        ,USA
+3915230.0,C.J. Conrad,C.J.,Conrad,TE,TE,O,Kentucky,,,,,,2015,252.0,77.0,87.0,Lagrange,OH        ,USA
+4035838.0,Caleb Wilson,Caleb,Wilson,TE,TE,O,UCLA,,,,,,2016,235.0,76.0,81.0,Dallas,TX        ,USA
+3932936.0,Caleb Wilson,Caleb,Wilson,TE,TE,O,UCLA,,,,,,2016,235.0,76.0,81.0,Dallas,TX        ,USA
+3701669.0,Cameron Smith,Cameron,Smith,OLB,LB,D,USC,,,,,,2015,250.0,74.0,35.0,Roseville,CA        ,USA
+3918310.0,Carl Granderson,Carl,Granderson,DE,DL,D,Wyoming,,,,,,2015,261.0,77.0,91.0,Sacramento,CA        ,USA
+3915105.0,Cece Jefferson,Cece,Jefferson,DE,DL,D,Florida,,,,,,2015,242.0,73.0,96.0,Glen Saint Mary,FL        ,USA
+3929865.0,Charles Omenihu,Charles,Omenihu,DL,DL,D,Texas,,,,,,2015,275.0,78.0,90.0,Rowlett,TX        ,USA
+531024.0,Chase Hansen,Chase,Hansen,OLB,LB,D,Utah,,,,,,2016,230.0,75.0,22.0,Highland,UT        ,USA
+3115974.0,Chase Winovich,Chase,Winovich,DE,DL,D,Michigan,,,,,,2018,255.0,75.0,15.0,Jefferson Hills,PA        ,USA
+4034953.0,Chauncey Gardner-Johnson,Chauncey,Gardner-Johnson,S,DB,D,Florida,,,,,,2016,207.0,72.0,23.0,Cocoa,FL        ,USA
+4239950.0,Chris Lindstrom,Chris,Lindstrom,OT,OL,O,Boston College,,,,,,2016,310.0,76.0,75.0,Dudley,MA        ,USA
+3672833.0,Chris Lindstrom,Chris,Lindstrom,OT,OL,O,Boston College,,,,,,2016,310.0,76.0,75.0,Dudley,MA        ,USA
+3124015.0,Chris Slayton,Chris,Slayton,DL,DL,D,Syracuse,,,,,,2016,309.0,76.0,95.0,University Park,IL        ,USA
+,Christian Miller,Christian,Miller,DE,DL,D,Alabama,,,,,,2015,244.0,76.0,47.0,Columbia,SC        ,USA
+3728266.0,Christian Wilkins,Christian,Wilkins,DL,DL,D,Clemson,,,,,,2016,300.0,76.0,42.0,Springfield,MA        ,USA
+3116144.0,Clayton Thorson,Clayton,Thorson,QB,QB,O,Northwestern,,,,,,2015,226.0,76.0,18.0,Wheaton,IL        ,USA
+3728258.0,Clelin Ferrell,Clelin,Ferrell,DE,DL,D,Clemson,,,,,,2018,260.0,77.0,99.0,Richmond,VA        ,USA
+3926229.0,Cody Barton,Cody,Barton,OLB,LB,D,Utah,,,,,,2016,230.0,74.0,30.0,Salt Lake City,UT        ,USA
+3126115.0,Cody Thompson,Cody,Thompson,WR,WR,O,Toledo,,,,,,2014,205.0,74.0,25.0,Huron,OH        ,USA
+4033748.0,Connor McGovern,Connor,McGovern,OT,OL,O,Penn State,,,,,,2018,326.0,77.0,66.0,Larksville,PA        ,USA
+4047650.0,D.K. Metcalf,D.K.,Metcalf,WR,WR,O,Ole Miss,,,,,,2017,225.0,76.0,14.0,Oxford,MS        ,USA
+3121542.0,D'Cota Dixon,D'Cota,Dixon,S,DB,D,Wisconsin,,,,,,2017,200.0,70.0,14.0,Oak Hill,FL        ,USA
+3139453.0,Dakota Allen,Dakota,Allen,OLB,LB,D,Texas Tech,,,,,,2018,235.0,73.0,40.0,Humble,TX        ,USA
+3125082.0,Dalton Risner,Dalton,Risner,OT,OL,O,Kansas State,,,,,,2017,300.0,77.0,71.0,Wiggins,CO        ,USA
+3930064.0,Damarkus Lodge,Damarkus,Lodge,WR,WR,O,Ole Miss,,,,,,2015,199.0,74.0,5.0,Cedar Hill,TX        ,USA
+4241457.0,Damien Harris,Damien,Harris,RB,RB,O,Alabama,,,,,,2016,215.0,71.0,34.0,Richmond,KY        ,USA
+3925347.0,Damien Harris,Damien,Harris,RB,RB,O,Alabama,,,,,,2016,215.0,71.0,34.0,Richmond,KY        ,USA
+3929801.0,Dan Godsil,Dan,Godsil,LS,LS,ST,Indiana,,,,,,2016,233.0,76.0,97.0,Ottawa,OH        ,USA
+3917792.0,Daniel Jones,Daniel,Jones,QB,QB,O,Duke,,,,,,2016,220.0,77.0,17.0,Charlotte,NC        ,USA
+3133368.0,Daniel Wise,Daniel,Wise,DL,DL,D,Kansas,,,,,,2015,290.0,75.0,96.0,Lewisville,TX        ,USA
+3916945.0,Darius Slayton,Darius,Slayton,WR,WR,O,Auburn,,,,,,2016,190.0,74.0,81.0,Norcross,GA        ,USA
+3126322.0,Darius West,Darius,West,S,DB,D,Kentucky,,,,,,2015,210.0,72.0,25.0,Lima,OH        ,USA
+,Darnell Savage,Darnell,Savage,S,DB,D,Maryland,,,,,,2016,200.0,71.0,4.0,Newark,DE        ,USA
+4039359.0,Darrell Henderson,Darrell,Henderson,RB,RB,O,Memphis,,,,,,2016,200.0,69.0,8.0,Batesville,MS        ,USA
+3916151.0,Darrell Henderson,Darrell,Henderson,RB,RB,O,Memphis,,,,,,2016,200.0,69.0,8.0,Batesville,MS        ,USA
+3957672.0,Darryl Johnson,Darryl,Johnson,DE,DL,D,North Carolina A&T,,,,,,2016,226.0,77.0,40.0,Fairfield,TX        ,USA
+3929849.0,Davante Davis,Davante,Davis,CB,DB,D,Texas,,,,,,2015,205.0,74.0,18.0,Miami,FL        ,USA
+547322.0,Davante Davis,Davante,Davis,CB,DB,D,Texas,,,,,,2015,205.0,74.0,18.0,Miami,FL        ,USA
+3917660.0,David Edwards,David,Edwards,OT,OL,O,Wisconsin,,,,,,2016,319.0,79.0,79.0,Long Grove,IL        ,USA
+,David Long,David,Long,OLB,LB,D,West Virginia,,,,,,2016,221.0,71.0,11.0,Cincinnati,OH        ,USA
+4046536.0,David Long,David,Long,CB,DB,D,Michigan,,,,,,2016,198.0,71.0,22.0,Los Angeles,CA        ,USA
+4035538.0,David Montgomery,David,Montgomery,RB,RB,O,Iowa State,,,,,,2016,216.0,71.0,32.0,Cincinnati,OH        ,USA
+,David Sills,David,Sills,WR,WR,O,West Virginia,,,,,,2018,204.0,76.0,13.0,Wilmington,DE        ,USA
+3930086.0,Dawson Knox,Dawson,Knox,TE,TE,O,Ole Miss,,,,,,2016,250.0,76.0,9.0,Brentwood,TN        ,USA
+3932963.0,Dax Raymond,Dax,Raymond,TE,TE,O,Utah State,,,,,,2015,245.0,77.0,87.0,Lewisville,TX        ,USA
+3917316.0,Daylon Mack,Daylon,Mack,DL,DL,D,Texas A&M,,,,,,2016,320.0,73.0,5.0,Gladewater,TX        ,USA
+3915163.0,Deandre Baker,Deandre,Baker,CB,DB,D,Georgia,,,,,,2015,185.0,71.0,18.0,Miami,FL        ,USA
+3126486.0,Deebo Samuel,Deebo,Samuel,WR,WR,O,South Carolina,,,,,,2015,210.0,72.0,1.0,Inman,SC        ,USA
+559661.0,Deion Calhoun,Deion,Calhoun,OT,OL,O,Mississippi State,,,,,,2015,320.0,75.0,61.0,Pleasant Grove,AL        ,USA
+3859100.0,Deionte Thompson,Deionte,Thompson,S,DB,D,Alabama,,,,,,2016,196.0,74.0,14.0,Orange,TX        ,USA
+3122915.0,Demarcus Christmas,Demarcus,Christmas,DL,DL,D,Florida State,,,,,,2017,308.0,76.0,90.0,Sarasota,FL        ,USA
+3115949.0,Derwin Gray,Derwin,Gray,OT,OL,O,Maryland,,,,,,2015,330.0,77.0,55.0,Washington,DC        ,USA
+3121578.0,Deshaun Davis,Deshaun,Davis,OLB,LB,D,Auburn,,,,,,2015,233.0,71.0,57.0,Prichard,AL        ,USA
+4036261.0,Devin Bush,Devin,Bush,OLB,LB,D,Michigan,,,,,,2016,233.0,71.0,10.0,Pembroke Pines,FL        ,USA
+4040761.0,Devin Singletary,Devin,Singletary,RB,RB,O,Florida Atlantic,,,,,,2016,200.0,69.0,5.0,Deerfield Beach,FL        ,USA
+4035434.0,Devin White,Devin,White,OLB,LB,D,LSU,,,,,,2016,240.0,73.0,40.0,Springhill,LA        ,USA
+4035483.0,Dexter Lawrence,Dexter,Lawrence,DL,DL,D,Clemson,,,,,,2016,340.0,76.0,90.0,Wake Forest,NC        ,USA
+3932449.0,Dexter Williams,Dexter,Williams,RB,RB,O,Notre Dame,,,,,,2015,203.0,71.0,2.0,Orlando,FL        ,USA
+4038938.0,Dillon Mitchell,Dillon,Mitchell,WR,WR,O,Oregon,,,,,,2016,188.0,73.0,13.0,Memphis,TN        ,USA
+3932905.0,Diontae Johnson,Diontae,Johnson,WR,WR,O,Toledo,,,,,,2016,181.0,71.0,3.0,Ruskin,FL        ,USA
+3126095.0,Diontae Johnson,Diontae,Johnson,WR,WR,O,Toledo,,,,,,2016,181.0,71.0,3.0,Ruskin,FL        ,USA
+4034773.0,Donnell Greene,Donnell,Greene,OT,OL,O,Minnesota,,,,,,2015,320.0,79.0,73.0,Marietta,GA        ,USA
+3122135.0,Donovan Wilson,Donovan,Wilson,S,DB,D,Texas A&M,,,,,,2015,207.0,73.0,6.0,Shreveport,LA        ,USA
+3121587.0,Dontavius Russell,Dontavius,Russell,DL,DL,D,Auburn,,,,,,2015,320.0,75.0,95.0,Carrollton,GA        ,USA
+3916903.0,Dre Greenlaw,Dre,Greenlaw,OLB,LB,D,Arkansas,,,,,,2015,227.0,72.0,23.0,FAYETTEVILLE,AR        ,USA
+3915525.0,Dre'Mont Jones,Dre'Mont,Jones,DL,DL,D,Ohio State,,,,,,2018,286.0,75.0,86.0,Cleveland,OH        ,USA
+3924327.0,Drew Lock,Drew,Lock,QB,QB,O,Missouri,,,,,,2016,225.0,76.0,3.0,Lee's Summit,MO        ,USA
+3127310.0,Drew Sample,Drew,Sample,TE,TE,O,Washington,,,,,,2016,261.0,77.0,88.0,Bellevue,WA        ,USA
+3129310.0,Drue Tranquill,Drue,Tranquill,OLB,LB,D,Notre Dame,,,,,,2014,233.0,74.0,23.0,Fort Wayne,IN        ,USA
+4040616.0,Dwayne Haskins,Dwayne,Haskins,QB,QB,O,Ohio State,,,,,,2018,220.0,75.0,7.0,Potomac,MD        ,USA
+4039303.0,Ed Oliver,Ed,Oliver,DL,DL,D,Houston,,,,,,2016,292.0,75.0,10.0,Houston,TX        ,USA
+559664.0,Elgton Jenkins,Elgton,Jenkins,OT,OL,O,Mississippi State,,,,,,2014,310.0,76.0,74.0,Clarksdale,MS        ,USA
+4035006.0,Elijah Holyfield,Elijah,Holyfield,RB,RB,O,Georgia,,,,,,2016,215.0,71.0,13.0,College Park,GA        ,USA
+3924318.0,Emanuel Hall,Emanuel,Hall,WR,WR,O,Missouri,,,,,,2016,200.0,75.0,84.0,Franklin,TN        ,USA
+3914613.0,Emeke Egbule,Emeke,Egbule,OLB,LB,D,Houston,,,,,,2017,240.0,76.0,8.0,Galena Park,TX        ,USA
+3119471.0,Emmanuel Butler,Emmanuel,Butler,WR,WR,O,Northern Arizona,,,,,,2014,220.0,76.0,8.0,Lubbock,TX        ,USA
+4243161.0,Evan Worthington,Evan,Worthington,S,DB,D,Colorado,,,,,,2016,205.0,74.0,6.0,Aurora,CO        ,USA
+3843945.0,Foster Moreau,Foster,Moreau,TE,TE,O,LSU,,,,,,2018,255.0,78.0,18.0,New Orleans,LA        ,USA
+3916071.0,Gary Jennings,Gary,Jennings,WR,WR,O,West Virginia,,,,,,2017,215.0,74.0,12.0,Stafford,VA        ,USA
+4569383.0,Gary Johnson,Gary,Johnson,OLB,LB,D,Texas,,,,,,2015,230.0,72.0,33.0,Douglas,AL        ,USA
+4259349.0,Gary Johnson,Gary,Johnson,OLB,LB,D,Texas,,,,,,2015,230.0,72.0,33.0,Douglas,AL        ,USA
+559648.0,Gerri Green,Gerri,Green,DE,DL,D,Mississippi State,,,,,,2016,255.0,76.0,4.0,Greenville,MS        ,USA
+4035437.0,Greedy Williams,Greedy,Williams,CB,DB,D,LSU,,,,,,2017,182.0,74.0,29.0,Shreveport,LA        ,USA
+4037235.0,Greg Dortch,Greg,Dortch,WR,WR,O,Wake Forest,,,,,,2017,170.0,69.0,3.0,Richmond,VA        ,USA
+3127294.0,Greg Gaines,Greg,Gaines,DL,DL,D,Washington,,,,,,2015,313.0,74.0,99.0,La Habra,CA        ,USA
+3917940.0,Hakeem Butler,Hakeem,Butler,WR,WR,O,Iowa State,,,,,,2016,225.0,78.0,18.0,Baltimore,MD        ,USA
+4035339.0,Hamp Cheevers,Hamp,Cheevers,CB,DB,D,Boston College,,,,,,2016,180.0,70.0,4.0,Trenton,FL        ,USA
+3886633.0,Hjalte Froholdt,Hjalte,Froholdt,OT,OL,O,Arkansas,,,,,,2016,315.0,77.0,51.0,,,Denmark
+3135321.0,Hunter Renfrow,Hunter,Renfrow,WR,WR,O,Clemson,,,,,,2015,180.0,70.0,13.0,Myrtle Beach,SC        ,USA
+4035014.0,Isaac Nauta,Isaac,Nauta,TE,TE,O,Georgia,,,,,,2016,240.0,76.0,18.0,Buford,GA        ,USA
+4241451.0,Isaiah Buggs,Isaiah,Buggs,DL,DL,D,Alabama,,,,,,2016,286.0,77.0,49.0,Ruston,LA        ,USA
+3126182.0,Isaiah Johnson,Isaiah,Johnson,CB,DB,D,Houston,,,,,,2015,203.0,76.0,14.0,Bryan,TX        ,USA
+3915532.0,Isaiah Prince,Isaiah,Prince,OT,OL,O,Ohio State,,,,,,2017,310.0,79.0,59.0,Greenbelt,MD        ,USA
+3931397.0,J.J. Arcega-Whiteside,J.J.,Arcega-Whiteside,WR,WR,O,Stanford,,,,,,2015,221.0,75.0,19.0,Inman,SC        ,USA
+4034967.0,Jachai Polite,Jachai,Polite,DE,DL,D,Florida,,,,,,2016,260.0,74.0,99.0,Daytona Beach,FL        ,USA
+3122865.0,Jackson Barton,Jackson,Barton,OT,OL,O,Utah,,,,,,2016,308.0,79.0,70.0,Salt Lake City,UT        ,USA
+3124587.0,Jahlani Tavai,Jahlani,Tavai,OLB,LB,D,Hawaii,,,,,,2016,245.0,76.0,31.0,Inglewood,CA        ,USA
+3886812.0,Jake Browning,Jake,Browning,QB,QB,O,Washington,,,,,,2015,206.0,74.0,3.0,Folsom,CA        ,USA
+3122692.0,Jalen Jelks,Jalen,Jelks,DE,DL,D,Oregon,,,,,,2016,246.0,78.0,97.0,Phoenix,AZ        ,USA
+3123675.0,Jalin Moore,Jalin,Moore,RB,RB,O,Appalachian State,,,,,,2016,207.0,71.0,25.0,Shelby,NC        ,USA
+3124013.0,Jamal Custis,Jamal,Custis,WR,WR,O,Syracuse,,,,,,2014,213.0,77.0,17.0,Philadelphia,PA        ,USA
+4568067.0,Jamal Peters,Jamal,Peters,CB,DB,D,Mississippi State,,,,,,2015,220.0,74.0,2.0,Bassfield,MS        ,USA
+3917279.0,Jamal Peters,Jamal,Peters,CB,DB,D,Mississippi State,,,,,,2015,220.0,74.0,2.0,Bassfield,MS        ,USA
+4261077.0,Jamarius Way,Jamarius,Way,WR,WR,O,South Alabama,,,,,,2016,215.0,76.0,3.0,Belle Glade,FL        ,USA
+3873935.0,Jamel Dean,Jamel,Dean,CB,DB,D,Auburn,,,,,,2017,208.0,74.0,12.0,Cocoa,FL        ,USA
+3884368.0,James Williams,James,Williams,RB,RB,O,Washington State,,,,,,2016,200.0,72.0,32.0,Burbank,CA        ,USA
+3672862.0,Jaquan Johnson,Jaquan,Johnson,S,DB,D,Miami,,,,,,2016,190.0,71.0,4.0,Miami,FL        ,USA
+4034961.0,Jawaan Taylor,Jawaan,Taylor,OT,OL,O,Florida,,,,,,2017,334.0,77.0,65.0,Cocoa,FL        ,USA
+3916418.0,Jaylen Smith,Jaylen,Smith,WR,WR,O,Louisville,,,,,,2016,223.0,76.0,9.0,Pascagoula,MS        ,USA
+4040893.0,Jeff Allison,Jeff,Allison,OLB,LB,D,Fresno State,,,,,,2017,250.0,72.0,9.0,Miami,FL        ,USA
+3863182.0,Jerry Tillery,Jerry,Tillery,DL,DL,D,Notre Dame,,,,,,2018,299.0,78.0,99.0,Shreveport,LA        ,USA
+3917797.0,Joe Giles-Harris,Joe,Giles-Harris,OLB,LB,D,Duke,,,,,,2018,240.0,74.0,44.0,Nyack,NY        ,USA
+4037459.0,Joe Jackson,Joe,Jackson,DL,DL,D,Miami,,,,,,2017,258.0,77.0,99.0,Homestead,FL        ,USA
+3123059.0,Joe Jackson,Joe,Jackson,DL,DL,D,Miami,,,,,,2017,258.0,77.0,99.0,Homestead,FL        ,USA
+4035286.0,Joejuan Williams,Joejuan,Williams,CB,DB,D,Vanderbilt,,,,,,2016,208.0,75.0,8.0,Nashville,TN        ,USA
+559590.0,John Battle,John,Battle,S,DB,D,LSU,,,,,,2018,201.0,75.0,26.0,Hallandale,FL        ,USA
+3728305.0,Johnathan Abram,Johnathan,Abram,S,DB,D,Mississippi State,,,,,,2015,215.0,72.0,38.0,Columbia,MS        ,USA
+3121413.0,Johnnie Dixon,Johnnie,Dixon,WR,WR,O,Ohio State,,,,,,2015,198.0,71.0,1.0,West Palm Beach,FL        ,USA
+3929780.0,Jonathan Crawford,Jonathan,Crawford,S,DB,D,Indiana,,,,,,2015,195.0,74.0,9.0,Largo,FL        ,USA
+3728308.0,Jonathan Ledbetter,Jonathan,Ledbetter,DL,DL,D,Georgia,,,,,,2015,280.0,76.0,13.0,Tucker,GA        ,USA
+3122420.0,Jordan Brailford,Jordan,Brailford,DE,DL,D,Oklahoma State,,,,,,2016,250.0,75.0,94.0,Tulsa,OK        ,USA
+3121034.0,Jordan Brown,Jordan,Brown,CB,DB,D,South Dakota State,,,,,,2016,190.0,73.0,9.0,Llano,TX        ,USA
+3915235.0,Jordan Jones,Jordan,Jones,OLB,LB,D,Kentucky,,,,,,2016,218.0,74.0,34.0,Youngstown,OH        ,USA
+3886824.0,Jordan Miller,Jordan,Miller,CB,DB,D,Washington,,,,,,2015,180.0,73.0,23.0,Oceanside,CA        ,USA
+3915115.0,Jordan Scarlett,Jordan,Scarlett,RB,RB,O,Florida,,,,,,2016,206.0,71.0,25.0,Fort Lauderdale,FL        ,USA
+4242418.0,Jordan Ta'amu,Jordan,Ta'amu,QB,QB,O,Ole Miss,,,,,,2016,212.0,74.0,10.0,Pearl City,HI        ,USA
+4047365.0,Josh Jacobs,Josh,Jacobs,RB,RB,O,Alabama,,,,,,2016,216.0,70.0,8.0,Tulsa,OK        ,USA
+3921690.0,Josh Oliver,Josh,Oliver,TE,TE,O,San Jose State,,,,,,2016,250.0,77.0,89.0,Paso Robles,CA        ,USA
+3917909.0,Juan Thornhill,Juan,Thornhill,S,DB,D,Virginia,,,,,,2016,200.0,72.0,21.0,Altavista,VA        ,USA
+4570061.0,Julian Love,Julian,Love,CB,DB,D,Notre Dame,,,,,,2017,189.0,71.0,27.0,Westchester,IL        ,USA
+4046675.0,Julian Love,Julian,Love,CB,DB,D,Notre Dame,,,,,,2017,189.0,71.0,27.0,Westchester,IL        ,USA
+4038441.0,Justice Hill,Justice,Hill,RB,RB,O,Oklahoma State,,,,,,2016,190.0,70.0,5.0,Tulsa,OK        ,USA
+4046719.0,Justin Layne,Justin,Layne,CB,DB,D,Michigan State,,,,,,2016,185.0,75.0,2.0,Cleveland,OH        ,USA
+4044452.0,Kaden Smith,Kaden,Smith,TE,TE,O,Stanford,,,,,,2016,253.0,77.0,82.0,Flower Mound,TX        ,USA
+3933327.0,Kahale Warring,Kahale,Warring,TE,TE,O,San Diego State,,,,,,2016,250.0,78.0,87.0,Sonora,CA        ,USA
+3127304.0,Kaleb McGary,Kaleb,McGary,OT,OL,O,Washington,,,,,,2013,325.0,80.0,58.0,Fife,WA        ,USA
+3929927.0,Karan Higdon,Karan,Higdon,RB,RB,O,Michigan,,,,,,2015,202.0,70.0,22.0,Sarasota,FL        ,USA
+3120980.0,Keelan Doss,Keelan,Doss,WR,WR,O,UC Davis,,,,,,2014,206.0,75.0,3.0,Lubbock,TX        ,USA
+3124537.0,Keesean Johnson,Keesean,Johnson,WR,WR,O,Fresno State,,,,,,2016,198.0,74.0,3.0,Palo Alto,CA        ,USA
+3128743.0,Ken Webster,Ken,Webster,CB,DB,D,Ole Miss,,,,,,2014,194.0,71.0,5.0,Decatur,GA        ,USA
+3122103.0,Kendall Blanton,Kendall,Blanton,TE,TE,O,Missouri,,,,,,2016,260.0,78.0,11.0,Blue Springs,MO        ,USA
+3122843.0,Kendall Joseph,Kendall,Joseph,OLB,LB,D,Clemson,,,,,,2016,225.0,72.0,34.0,Belton,SC        ,USA
+3925358.0,Kendall Sheffield,Kendall,Sheffield,CB,DB,D,Ohio State,,,,,,2016,193.0,72.0,8.0,Missouri City,TX        ,USA
+3929641.0,Kevin Givens,Kevin,Givens,DL,DL,D,Penn State,,,,,,2018,283.0,73.0,30.0,Altoona,PA        ,USA
+3929835.0,Khari Willis,Khari,Willis,S,DB,D,Michigan State,,,,,,2016,214.0,72.0,27.0,Jackson,MI        ,USA
+3917340.0,Kingsley Keke,Kingsley,Keke,DL,DL,D,Texas A&M,,,,,,2018,305.0,76.0,88.0,Richmond,TX        ,USA
+3929845.0,Kris Boyd,Kris,Boyd,CB,DB,D,Texas,,,,,,2016,195.0,72.0,2.0,Gilmer,TX        ,USA
+3915776.0,Kyle Shurmur,Kyle,Shurmur,QB,QB,O,Vanderbilt,,,,,,2015,225.0,76.0,14.0,Philadelphia,PA        ,USA
+3116449.0,L.J. Collier,L.J.,Collier,DL,DL,D,TCU,,,,,,2016,276.0,76.0,91.0,Munday,TX        ,USA
+3128707.0,Lamont Gaillard,Lamont,Gaillard,OT,OL,O,Georgia,,,,,,2016,308.0,74.0,53.0,Fayetteville,NC        ,USA
+4039057.0,Lil'Jordan Humphrey,Lil'Jordan,Humphrey,WR,WR,O,Texas,,,,,,2016,225.0,76.0,84.0,Southlake,TX        ,USA
+3929828.0,Lj Scott,Lj,Scott,RB,RB,O,Michigan State,,,,,,2015,226.0,73.0,3.0,Youngstown,OH        ,USA
+4035055.0,Lonnie Johnson,Lonnie,Johnson,CB,DB,D,Kentucky,,,,,,2015,206.0,75.0,6.0,Gary,IN        ,USA
+3915291.0,Lukas Denis,Lukas,Denis,S,DB,D,Boston College,,,,,,2015,185.0,71.0,21.0,Everett,MA        ,USA
+4040983.0,Mack Wilson,Mack,Wilson,OLB,LB,D,Alabama,,,,,,2016,239.0,74.0,30.0,Montgomery,AL        ,USA
+3116693.0,Malik Carney,Malik,Carney,DE,DL,D,North Carolina,,,,,,2015,235.0,75.0,53.0,Alexandria,VA        ,USA
+3931774.0,Malik Gant,Malik,Gant,S,DB,D,Marshall,,,,,,2017,194.0,74.0,29.0,Washington,DC        ,USA
+3139428.0,Malik Gant,Malik,Gant,S,DB,D,Marshall,,,,,,2017,194.0,74.0,29.0,Washington,DC        ,USA
+3728261.0,Mark Fields,Mark,Fields,CB,DB,D,Clemson,,,,,,2015,180.0,71.0,2.0,Charlotte,NC        ,USA
+3917286.0,Mark McLaurin,Mark,McLaurin,S,DB,D,Mississippi State,,,,,,2016,215.0,74.0,41.0,Collins,MS        ,USA
+4243244.0,Marquise Blair,Marquise,Blair,S,DB,D,Utah,,,,,,2015,195.0,74.0,13.0,Wooster,OH        ,USA
+4241372.0,Marquise Brown,Marquise,Brown,WR,WR,O,Oklahoma,,,,,,2016,168.0,70.0,5.0,Hollywood,FL        ,USA
+3126035.0,Max Scharping,Max,Scharping,OT,OL,O,Northern Illinois,,,,,,2016,320.0,78.0,73.0,Green Bay,WI        ,USA
+3916655.0,Maxx Crosby,Maxx,Crosby,DL,DL,D,Eastern Michigan,,,,,,2016,247.0,77.0,92.0,Colleyville,TX        ,USA
+4035004.0,Mecole Hardman,Mecole,Hardman,WR,WR,O,Georgia,,,,,,2016,183.0,71.0,4.0,Bowman,GA        ,USA
+3121541.0,Michael Deiter,Michael,Deiter,OT,OL,O,Wisconsin,,,,,,2015,321.0,78.0,63.0,Curtice,OH        ,USA
+3918044.0,Mike Bell,Mike,Bell,S,DB,D,Fresno State,,,,,,2016,205.0,75.0,4.0,Moreno Valley,CA        ,USA
+3155647.0,Mike Edwards,Mike,Edwards,S,DB,D,Kentucky,,,,,,2015,200.0,72.0,7.0,Cincinnati,OH        ,USA
+3915536.0,Mike Weber,Mike,Weber,RB,RB,O,Ohio State,,,,,,2016,214.0,70.0,25.0,Detroit,MI        ,USA
+3932423.0,Miles Boykin,Miles,Boykin,WR,WR,O,Notre Dame,,,,,,2016,227.0,76.0,81.0,Tinley Park,IL        ,USA
+4045163.0,Miles Sanders,Miles,Sanders,RB,RB,O,Penn State,,,,,,2016,207.0,71.0,24.0,Pittsburgh,PA        ,USA
+3728250.0,Mitch Hyatt,Mitch,Hyatt,OT,OL,O,Clemson,,,,,,2015,305.0,77.0,75.0,Suwanee,GA        ,USA
+3134690.0,Montez Sweat,Montez,Sweat,DE,DL,D,Mississippi State,,,,,,2016,245.0,78.0,9.0,Stone Mountain,GA        ,USA
+3915970.0,Montre Hartage,Montre,Hartage,CB,DB,D,Northwestern,,,,,,2016,195.0,72.0,24.0,Cordele,GA        ,USA
+3886818.0,Myles Gaskin,Myles,Gaskin,RB,RB,O,Washington,,,,,,2017,191.0,70.0,9.0,Lynnwood,WA        ,USA
+3120070.0,Nate Davis,Nate,Davis,OT,OL,O,Charlotte,,,,,,2015,311.0,75.0,64.0,Ashburn,VA        ,USA
+3116134.0,Nate Hall,Nate,Hall,OLB,LB,D,Northwestern,,,,,,2016,231.0,74.0,32.0,Toledo,OH        ,USA
+4040605.0,Nick Bosa,Nick,Bosa,DL,DL,D,Ohio State,,,,,,2016,263.0,76.0,97.0,Fort Lauderdale,FL        ,USA
+3843406.0,Nick Brossette,Nick,Brossette,RB,RB,O,LSU,,,,,,2016,218.0,72.0,4.0,Baton Rouge,LA        ,USA
+558337.0,Nick Fitzgerald,Nick,Fitzgerald,QB,QB,O,Mississippi State,,,,,,2016,230.0,77.0,7.0,Richmond Hill,GA        ,USA
+4047839.0,Nkeal Harry,Nkeal,Harry,WR,WR,O,Arizona State,,,,,,2016,213.0,76.0,1.0,Chandler,AZ        ,USA
+4036131.0,Noah Fant,Noah,Fant,TE,TE,O,Iowa,,,,,,2016,241.0,77.0,87.0,Omaha,NE        ,USA
+3921571.0,Nyqwan Murray,Nyqwan,Murray,WR,WR,O,Florida State,,,,,,2015,185.0,71.0,80.0,Orlando,FL        ,USA
+3123233.0,Oshane Ximines,Oshane,Ximines,DE,DL,D,Old Dominion,,,,,,2016,255.0,76.0,7.0,Ahoskie,NC        ,USA
+3122141.0,Otaro Alaka,Otaro,Alaka,OLB,LB,D,Texas A&M,,,,,,2015,240.0,75.0,42.0,Houston,TX        ,USA
+3121410.0,Parris Campbell,Parris,Campbell,WR,WR,O,Ohio State,,,,,,2016,208.0,73.0,21.0,Akron,OH        ,USA
+3136374.0,Phil Haynes,Phil,Haynes,OT,OL,O,Wake Forest,,,,,,2016,310.0,76.0,74.0,Raleigh,NC        ,USA
+3123944.0,Qadree Ollison,Qadree,Ollison,RB,RB,O,Pittsburgh,,,,,,2016,230.0,74.0,37.0,Niagara Falls,NY        ,USA
+4040982.0,Quinnen Williams,Quinnen,Williams,DL,DL,D,Alabama,,,,,,2017,289.0,76.0,92.0,Birmingham,AL        ,USA
+3924364.0,Rashad Fenton,Rashad,Fenton,CB,DB,D,South Carolina,,,,,,2016,188.0,71.0,16.0,Miami,FL        ,USA
+4046523.0,Rashan Gary,Rashan,Gary,DL,DL,D,Michigan,,,,,,2016,283.0,77.0,3.0,Plainfield,NJ        ,USA
+3128815.0,Renell Wren,Renell,Wren,DL,DL,D,Arizona State,,,,,,2016,297.0,78.0,95.0,,,USA
+4035015.0,Riley Ridley,Riley,Ridley,WR,WR,O,Georgia,,,,,,2018,200.0,74.0,8.0,Coconut Creek,FL        ,USA
+4379444.0,Rodney Anderson,Rodney,Anderson,RB,RB,O,Oklahoma,,,,,,2015,220.0,73.0,24.0,Katy,TX        ,USA
+3705353.0,Rodney Anderson,Rodney,Anderson,RB,RB,O,Oklahoma,,,,,,2015,220.0,73.0,24.0,Katy,TX        ,USA
+3126364.0,Ross Pierschbacher,Ross,Pierschbacher,OT,OL,O,Alabama,,,,,,2016,309.0,76.0,71.0,Cedar Falls,IA        ,USA
+3929631.0,Ryan Bates,Ryan,Bates,OT,OL,O,Penn State,,,,,,2015,301.0,76.0,52.0,Warrington,PA        ,USA
+3121538.0,Ryan Connelly,Ryan,Connelly,OLB,LB,D,Wisconsin,,,,,,2016,236.0,75.0,43.0,Eden Prairie,MN        ,USA
+4035499.0,Ryan Davis,Ryan,Davis,WR,WR,O,Auburn,,,,,,2016,185.0,69.0,23.0,,,USA
+3916946.0,Ryan Davis,Ryan,Davis,WR,WR,O,Auburn,,,,,,2016,185.0,69.0,23.0,,,USA
+3917563.0,Ryan Pope,Ryan,Pope,OT,OL,O,San Diego State,,,,,,2014,315.0,79.0,77.0,Long Beach,CA        ,USA
+3916913.0,Ryan Pulley,Ryan,Pulley,CB,DB,D,Arkansas,,,,,,2015,198.0,71.0,11.0,Fort Myers,FL        ,USA
+3923397.0,Ryquell Armstead,Ryquell,Armstead,RB,RB,O,Temple,,,,,,2016,215.0,71.0,7.0,Millville,NJ        ,USA
+3127367.0,Saquan Hampton,Saquan,Hampton,S,DB,D,Rutgers,,,,,,2015,209.0,73.0,9.0,Hamilton,NJ        ,USA
+3932886.0,Sean Bunting,Sean,Bunting,CB,DB,D,Central Michigan,,,,,,2016,180.0,73.0,3.0,Clinton Township,MI        ,USA
+3929648.0,Shareef Miller,Shareef,Miller,DE,DL,D,Penn State,,,,,,2016,259.0,77.0,48.0,Philadelphia,PA        ,USA
+3917852.0,Sheldrick Redwine,Sheldrick,Redwine,S,DB,D,Miami,,,,,,2016,195.0,73.0,22.0,Miami,FL        ,USA
+3138834.0,Sione Takitaki,Sione,Takitaki,OLB,LB,D,BYU,,,,,,2015,231.0,74.0,16.0,Fontana,CA        ,USA
+,Stanley Morgan,Stanley,Morgan,WR,WR,O,Nebraska,,,,,,2015,200.0,73.0,8.0,New Orleans,LA        ,USA
+3921970.0,Sutton Smith,Sutton,Smith,DE,DL,D,Northern Illinois,,,,,,2016,237.0,73.0,15.0,Saint Charles,MO        ,USA
+3121544.0,T.J. Edwards,T.J.,Edwards,OLB,LB,D,Wisconsin,,,,,,2016,248.0,73.0,53.0,Lake Villa,IL        ,USA
+4036133.0,T.J. Hockenson,T.J.,Hockenson,TE,TE,O,Iowa,,,,,,2017,250.0,77.0,38.0,Chariton,IA        ,USA
+4039007.0,Taylor Rapp,Taylor,Rapp,S,DB,D,Washington,,,,,,2016,207.0,72.0,7.0,Bellingham,WA        ,USA
+3862861.0,Te'von Coney,Te'von,Coney,OLB,LB,D,Notre Dame,,,,,,2016,238.0,73.0,4.0,Palm Beach Gardens,FL        ,USA
+3924319.0,Terez Hall,Terez,Hall,OLB,LB,D,Missouri,,,,,,2015,230.0,74.0,24.0,Lithonia,GA        ,USA
+3922125.0,Terrill Hanks,Terrill,Hanks,OLB,LB,D,New Mexico State,,,,,,2015,235.0,75.0,2.0,Miami,FL        ,USA
+3915174.0,Terry Godwin,Terry,Godwin,WR,WR,O,Georgia,,,,,,2016,185.0,71.0,5.0,Hogansville,GA        ,USA
+3121422.0,Terry McLaurin,Terry,McLaurin,WR,WR,O,Ohio State,,,,,,2015,205.0,73.0,83.0,Indianapolis,IN        ,USA
+3122818.0,Tommy Sweeney,Tommy,Sweeney,TE,TE,O,Boston College,,,,,,2016,260.0,77.0,89.0,Ramsey,NJ        ,USA
+3916148.0,Tony Pollard,Tony,Pollard,RB,RB,O,Memphis,,,,,,2016,208.0,72.0,1.0,Memphis,TN        ,USA
+3116172.0,Trace McSorley,Trace,McSorley,QB,QB,O,Penn State,,,,,,2015,203.0,72.0,9.0,Ashburn,VA        ,USA
+3139522.0,Travis Fulgham,Travis,Fulgham,WR,WR,O,Old Dominion,,,,,,2016,208.0,75.0,7.0,Ashburn,VA        ,USA
+4037457.0,Travis Homer,Travis,Homer,RB,RB,O,Miami,,,,,,2016,195.0,71.0,24.0,West Palm Beach,FL        ,USA
+4035222.0,Trayveon Williams,Trayveon,Williams,RB,RB,O,Texas A&M,,,,,,2016,200.0,69.0,5.0,Houston,TX        ,USA
+4035458.0,Trayvon Mullen,Trayvon,Mullen,CB,DB,D,Clemson,,,,,,2016,190.0,74.0,1.0,Fort Lauderdale,FL        ,USA
+4035474.0,Tre Lamar,Tre,Lamar,OLB,LB,D,Clemson,,,,,,2016,250.0,76.0,57.0,Roswell,GA        ,USA
+3126225.0,Trevon Tate,Trevon,Tate,OT,OL,O,Memphis,,,,,,2016,295.0,76.0,72.0,Houston,TX        ,USA
+4039253.0,Trevon Wesco,Trevon,Wesco,TE,TE,O,West Virginia,,,,,,2016,274.0,76.0,88.0,Martinsburg,WV        ,USA
+4042141.0,Trysten Hill,Trysten,Hill,DL,DL,D,UCF,,,,,,2016,330.0,74.0,9.0,Lee,FL        ,USA
+3116431.0,Ty Summers,Ty,Summers,OLB,LB,D,TCU,,,,,,2016,235.0,74.0,42.0,SAN ANTONIO,TX        ,USA
+4036833.0,Tyler Roemer,Tyler,Roemer,OT,OL,O,San Diego State,,,,,,2017,315.0,79.0,74.0,Fernley,NV        ,USA
+3916564.0,Tyree Jackson,Tyree,Jackson,QB,QB,O,Buffalo,,,,,,2018,245.0,79.0,3.0,Norton Shores,MI        ,USA
+4035232.0,Tyrel Dodson,Tyrel,Dodson,OLB,LB,D,Texas A&M,,,,,,2018,242.0,74.0,25.0,Franklin,TN        ,USA
+4034945.0,Vosean Joseph,Vosean,Joseph,OLB,LB,D,Florida,,,,,,2016,227.0,73.0,11.0,Miami,FL        ,USA
+3915297.0,Will Harris,Will,Harris,S,DB,D,Boston College,,,,,,2016,210.0,74.0,8.0,Suwanee,GA        ,USA
+3895830.0,William Sweet,William,Sweet,OT,OL,O,North Carolina,,,,,,2016,300.0,79.0,51.0,Jacksonville,FL        ,USA
+3915285.0,Wyatt Ray,Wyatt,Ray,DE,DL,D,Boston College,,,,,,2016,255.0,75.0,11.0,Boca Raton,FL        ,USA
+3116455.0,Yodny Cajuste,Yodny,Cajuste,OT,OL,O,West Virginia,,,,,,2016,321.0,77.0,55.0,Miami,FL        ,USA
+3871880.0,Yosh Nijman,Yosh,Nijman,OT,OL,O,Virginia Tech,,,,,,2014,322.0,79.0,69.0,Maplewood,NJ        ,USA
+3915282.0,Zach Allen,Zach,Allen,DL,DL,D,Boston College,,,,,,2017,285.0,77.0,2.0,New Canaan,CT        ,USA
+3929924.0,Zach Gentry,Zach,Gentry,TE,TE,O,Michigan,,,,,,2015,262.0,80.0,83.0,Albuquerque,NM        ,USA
+3930075.0,Zedrick Woods,Zedrick,Woods,S,DB,D,Ole Miss,,,,,,2018,201.0,71.0,36.0,Lake City,FL        ,USA
+545774.0,Ade Aruna,Ade,Aruna,DE,DL,D,Tulane,218.0,23.0,35.0,90.0,MIN,2016,270.0,78.0,1.0,Fairfield,TX        ,USA
+545423.0,Akrum Wadley,Akrum,Wadley,RB,RB,O,Iowa,300.0,16.0,17.0,88.0,,2016,195.0,71.0,25.0,Ewa Beach,HI        ,USA
+3128390.0,Allen Lazard,Allen,Lazard,WR,WR,O,Iowa State,300.0,28.0,28.0,89.0,,2016,222.0,77.0,5.0,Lubbock,TX        ,USA
+3125287.0,Andre Chachere,Andre,Chachere,CB,DB,D,San Jose State,300.0,20.0,35.0,96.0,,2015,200.0,72.0,21.0,Llano,TX        ,USA
+4253121.0,Andre Smith,Andre,Smith,ILB,LB,D,North Carolina,234.0,11.0,22.0,93.0,CAR,2015,240.0,73.0,10.0,Chicago,IL        ,USA
+3895831.0,Andre Smith,Andre,Smith,ILB,LB,D,North Carolina,234.0,11.0,22.0,93.0,CAR,2015,240.0,73.0,10.0,Chicago,IL        ,USA
+3116761.0,Andrew Brown,Andrew,Brown,DE,DL,D,Virginia,158.0,17.0,27.0,70.0,CIN,2016,285.0,76.0,9.0,Fairfield,TX        ,USA
+551289.0,Anthony Averett,Anthony,Averett,CB,DB,D,Alabama,118.0,14.0,21.0,54.0,BAL,2016,185.0,72.0,28.0,Leander,TX        ,USA
+549623.0,Anthony Miller,Anthony,Miller,WR,WR,O,Memphis,51.0,6.0,6.0,28.0,CHI,2016,190.0,71.0,3.0,Lubbock,TX        ,USA
+546018.0,Anthony Winbush,Anthony,Winbush,DE,DL,D,Ball State,300.0,26.0,40.0,97.0,,2016,240.0,73.0,98.0,Fairfield,TX        ,USA
+3915097.0,Antonio Callaway,Antonio,Callaway,WR,WR,O,Florida,105.0,12.0,12.0,46.0,CLE,2016,193.0,70.0,81.0,Lubbock,TX        ,USA
+3122136.0,Armani Watts,Armani,Watts,S,DB,D,Texas A&M,124.0,9.0,23.0,57.0,KAN,2014,205.0,71.0,23.0,Leander,TX        ,USA
+3921564.0,Auden Tate,Auden,Tate,WR,WR,O,Florida State,253.0,26.0,26.0,86.0,CIN,2016,225.0,77.0,18.0,Lubbock,TX        ,USA
+547206.0,Austin Allen,Austin,Allen,QB,QB,O,Arkansas,300.0,11.0,11.0,90.0,,2015,215.0,73.0,8.0,Dallas,TX        ,USA
+552068.0,Austin Corbett,Austin,Corbett,OG,OL,O,Nevada,33.0,3.0,7.0,18.0,CLE,2017,300.0,76.0,73.0,Sparks,NV        ,USA
+3123938.0,Avonte Maddox,Avonte,Maddox,CB,DB,D,Pittsburgh,125.0,15.0,24.0,58.0,PHI,2015,180.0,69.0,14.0,Leander,TX        ,USA
+550551.0,Azeem Victor,Azeem,Victor,ILB,LB,D,Washington,216.0,9.0,20.0,88.0,OAK,2015,231.0,75.0,36.0,Chicago,IL        ,USA
+549826.0,Billy Price,Billy,Price,C,OL,O,Ohio State,21.0,2.0,5.0,10.0,CIN,2017,312.0,76.0,54.0,Royse City,TX        ,USA
+3126367.0,Bo Scarbrough,Bo,Scarbrough,RB,RB,O,Alabama,236.0,14.0,14.0,80.0,DAL,2015,235.0,74.0,9.0,Ewa Beach,HI        ,USA
+547014.0,Brandon Facyson,Brandon,Facyson,CB,DB,D,Virginia Tech,300.0,21.0,36.0,98.0,,2013,197.0,74.0,31.0,Llano,TX        ,USA
+3123075.0,Braxton Berrios,Braxton,Berrios,WR,WR,O,Miami,210.0,22.0,22.0,75.0,NWE,2014,186.0,69.0,8.0,Lubbock,TX        ,USA
+3128740.0,Breeland Speaks,Breeland,Speaks,DT,DL,D,Ole Miss,46.0,4.0,7.0,18.0,KAN,2016,285.0,75.0,9.0,Spring Branch,TX        ,USA
+,Brian O'neill,Brian,O'neill,OT,OL,O,Pittsburgh,62.0,4.0,10.0,32.0,MIN,2016,305.0,78.0,70.0,Royse City,TX        ,USA
+4036416.0,Byron Pringle,Byron,Pringle,WR,WR,O,Kansas State,300.0,29.0,29.0,91.0,,2016,205.0,74.0,9.0,Lubbock,TX        ,USA
+3925357.0,Calvin Ridley,Calvin,Ridley,WR,WR,O,Alabama,26.0,2.0,2.0,14.0,ATL,2016,190.0,73.0,3.0,Lubbock,TX        ,USA
+3124079.0,Cam Phillips,Cam,Phillips,WR,WR,O,Virginia Tech,300.0,30.0,30.0,92.0,,2016,199.0,72.0,5.0,Lubbock,TX        ,USA
+3916926.0,Carlton Davis,Carlton,Davis,CB,DB,D,Auburn,63.0,10.0,13.0,26.0,TAM,2015,203.0,73.0,6.0,Leander,TX        ,USA
+3916923.0,Carlton Davis,Carlton,Davis,CB,DB,D,Auburn,63.0,10.0,13.0,26.0,TAM,2015,203.0,73.0,6.0,Leander,TX        ,USA
+4036335.0,Cedrick Wilson,Cedrick,Wilson,WR,WR,O,Boise State,208.0,21.0,21.0,74.0,DAL,2016,188.0,75.0,1.0,Lubbock,TX        ,USA
+3123045.0,Chad Thomas,Chad,Thomas,DE,DL,D,Miami,67.0,8.0,12.0,29.0,CLE,2016,275.0,78.0,9.0,Andrews,TX        ,USA
+3124849.0,Chandon Sullivan,Chandon,Sullivan,CB,DB,D,Georgia State,300.0,22.0,37.0,99.0,,2014,195.0,71.0,10.0,Llano,TX        ,USA
+3931782.0,Chase Litton,Chase,Litton,QB,QB,O,Marshall,300.0,12.0,12.0,93.0,,2015,232.0,78.0,14.0,Dallas,TX        ,USA
+3128252.0,Chris Covington,Chris,Covington,OLB,LB,D,Indiana,193.0,11.0,17.0,82.0,DAL,2015,230.0,74.0,4.0,Chicago,IL        ,USA
+3116104.0,Chris Jones,Chris,Jones,CB,DB,D,Nebraska,300.0,23.0,38.0,100.0,,2015,195.0,72.0,8.0,Llano,TX        ,USA
+3122430.0,Chris Lacy,Chris,Lacy,WR,WR,O,Oklahoma State,300.0,31.0,31.0,94.0,,2016,205.0,75.0,15.0,Lubbock,TX        ,USA
+549831.0,Chris Worley,Chris,Worley,ILB,LB,D,Ohio State,300.0,12.0,23.0,101.0,,2016,230.0,74.0,35.0,Chicago,IL        ,USA
+3895856.0,Christian Kirk,Christian,Kirk,WR,WR,O,Texas A&M,47.0,5.0,5.0,26.0,ARI,2015,200.0,71.0,3.0,Lubbock,TX        ,USA
+3128801.0,Christian Sam,Christian,Sam,ILB,LB,D,Arizona State,178.0,6.0,16.0,76.0,NWE,2014,237.0,74.0,2.0,Chicago,IL        ,USA
+550633.0,Cole Madison,Cole,Madison,OT,OL,O,Washington State,138.0,11.0,18.0,57.0,GNB,2016,314.0,77.0,61.0,Royse City,TX        ,USA
+550333.0,Coleman Shelton,Coleman,Shelton,C,OL,O,Washington,300.0,6.0,23.0,96.0,,2016,299.0,76.0,79.0,Royse City,TX        ,USA
+3821577.0,Connor Williams,Connor,Williams,OT,OL,O,Texas,50.0,3.0,9.0,27.0,DAL,2016,315.0,78.0,55.0,Royse City,TX        ,USA
+3128429.0,Courtland Sutton,Courtland,Sutton,WR,WR,O,SMU,40.0,3.0,3.0,22.0,DEN,2014,216.0,76.0,16.0,Lubbock,TX        ,USA
+559613.0,D.J. Chark,D.J.,Chark,WR,WR,O,LSU,61.0,8.0,8.0,31.0,JAX,2016,187.0,75.0,7.0,Lubbock,TX        ,USA
+3915416.0,D.J. Moore,D.J.,Moore,WR,WR,O,Maryland,24.0,1.0,1.0,12.0,CAR,2017,215.0,71.0,1.0,Lubbock,TX        ,USA
+3139387.0,D.J. Reed,D.J.,Reed,CB,DB,D,Kansas State,142.0,16.0,25.0,64.0,SFO,2016,188.0,69.0,2.0,Leander,TX        ,USA
+552330.0,Daesean Hamilton,Daesean,Hamilton,WR,WR,O,Penn State,113.0,13.0,13.0,49.0,DEN,2014,206.0,73.0,5.0,Lubbock,TX        ,USA
+3117256.0,Dalton Schultz,Dalton,Schultz,TE,TE,O,Stanford,137.0,8.0,8.0,56.0,DAL,2015,242.0,78.0,9.0,Lewisville,TX        ,USA
+3121433.0,Damon Webb,Damon,Webb,S,DB,D,Ohio State,300.0,16.0,39.0,102.0,,2016,195.0,71.0,7.0,Krum,TX        ,USA
+3931422.0,Dane Cruikshank,Dane,Cruikshank,S,DB,D,Arizona,152.0,12.0,28.0,69.0,TEN,2016,206.0,73.0,9.0,Leander,TX        ,USA
+3141066.0,Danny Johnson,Danny,Johnson,CB,DB,D,Southern,300.0,24.0,40.0,103.0,,2016,194.0,70.0,1.0,Leander,TX        ,USA
+3127306.0,Dante Pettis,Dante,Pettis,WR,WR,O,Washington,44.0,4.0,4.0,25.0,SFO,2014,195.0,73.0,8.0,Lubbock,TX        ,USA
+552293.0,Darius Jackson,Darius,Jackson,DE,DL,D,Jacksonville State,300.0,27.0,41.0,104.0,,2017,242.0,75.0,40.0,Fairfield,TX        ,USA
+545930.0,Darius Phillips,Darius,Phillips,CB,DB,D,Western Michigan,170.0,17.0,30.0,74.0,CIN,2016,190.0,70.0,4.0,Llano,TX        ,USA
+559594.0,Darrel Williams,Darrel,Williams,RB,RB,O,LSU,300.0,18.0,19.0,97.0,,2016,233.0,73.0,28.0,Ewa Beach,HI        ,USA
+547588.0,David Wells,David,Wells,TE,TE,O,San Diego State,300.0,13.0,13.0,98.0,,2016,255.0,77.0,88.0,Lewisville,TX        ,USA
+552937.0,Davon Grayson,Davon,Grayson,WR,WR,O,East Carolina,300.0,32.0,32.0,99.0,,2014,187.0,74.0,85.0,Lubbock,TX        ,USA
+549799.0,Deadrin Senat,Deadrin,Senat,DT,DL,D,South Florida,90.0,8.0,19.0,42.0,ATL,2016,296.0,73.0,10.0,Spring Branch,TX        ,USA
+548336.0,Dee Delaney,Dee,Delaney,CB,DB,D,Miami,300.0,25.0,41.0,106.0,,2017,193.0,73.0,3.0,Leander,TX        ,USA
+3128800.0,Demario Richard,Demario,Richard,RB,RB,O,Arizona State,300.0,19.0,20.0,100.0,,2014,219.0,70.0,4.0,Ewa Beach,HI        ,USA
+3915535.0,Denzel Ward,Denzel,Ward,CB,DB,D,Ohio State,4.0,1.0,1.0,1.0,CLE,2016,191.0,70.0,12.0,Llano,TX        ,USA
+3728254.0,Deon Cain,Deon,Cain,WR,WR,O,Clemson,185.0,17.0,17.0,68.0,IND,2015,190.0,73.0,8.0,Lubbock,TX        ,USA
+3932935.0,Deontay Burnett,Deontay,Burnett,WR,WR,O,USC,300.0,33.0,33.0,101.0,,2015,170.0,72.0,80.0,Lubbock,TX        ,USA
+3122930.0,Derrick Nnadi,Derrick,Nnadi,DT,DL,D,Florida State,75.0,6.0,14.0,34.0,KAN,2017,312.0,73.0,91.0,Spring Branch,TX        ,USA
+3843750.0,Derrius Guice,Derrius,Guice,RB,RB,O,LSU,59.0,7.0,7.0,29.0,WAS,2015,212.0,71.0,5.0,Ewa Beach,HI        ,USA
+3691739.0,Derwin James,Derwin,James,S,DB,D,Florida State,17.0,1.0,3.0,9.0,LAC,2017,211.0,75.0,3.0,Leander,TX        ,USA
+3929846.0,Deshon Elliott,Deshon,Elliott,S,DB,D,Texas,190.0,15.0,34.0,81.0,BAL,2015,210.0,74.0,4.0,Leander,TX        ,USA
+3116375.0,Dimitri Flowers,Dimitri,Flowers,RB,RB,O,Oklahoma,300.0,20.0,21.0,102.0,,2016,247.0,74.0,36.0,North Richland Hills,TX        ,USA
+3128706.0,Dominick Sanders,Dominick,Sanders,S,DB,D,Georgia,300.0,17.0,42.0,107.0,,2016,200.0,72.0,24.0,Krum,TX        ,USA
+,Donnie Ernsberger,Donnie,Ernsberger,RB,RB,O,Western Michigan,300.0,21.0,22.0,103.0,,2015,255.0,75.0,85.0,Lewisville,TX        ,USA
+3843769.0,Donte Jackson,Donte,Jackson,CB,DB,D,LSU,55.0,7.0,10.0,23.0,CAR,2015,173.0,71.0,1.0,Leander,TX        ,USA
+,Dorian O'daniel,Dorian,O'daniel,OLB,LB,D,Clemson,100.0,8.0,9.0,46.0,KAN,2016,220.0,73.0,6.0,Chicago,IL        ,USA
+559554.0,Duke Dawson,Duke,Dawson,CB,DB,D,Florida,56.0,8.0,11.0,24.0,NWE,2016,202.0,70.0,7.0,Leander,TX        ,USA
+545309.0,Duke Ejiofor,Duke,Ejiofor,DE,DL,D,Wake Forest,177.0,19.0,30.0,75.0,HOU,2017,275.0,76.0,53.0,Andrews,TX        ,USA
+550966.0,Durham Smythe,Durham,Smythe,TE,TE,O,Notre Dame,123.0,7.0,7.0,51.0,MIA,2014,257.0,77.0,80.0,Lewisville,TX        ,USA
+550364.0,Dylan Cantrell,Dylan,Cantrell,WR,WR,O,Texas Tech,191.0,19.0,19.0,70.0,LAC,2015,220.0,75.0,14.0,Lubbock,TX        ,USA
+3918012.0,Eddy Wilson,Eddy,Wilson,DT,DL,D,Purdue,300.0,15.0,43.0,108.0,,2016,295.0,76.0,7.0,Spring Branch,TX        ,USA
+,Equanimeous St. brown,Equanimeous,St.,WR,WR,O,Notre Dame,207.0,20.0,20.0,73.0,GNB,2016,203.0,77.0,6.0,Lubbock,TX        ,USA
+3128689.0,Frank Ragnow,Frank,Ragnow,C,OL,O,Arkansas,20.0,1.0,4.0,9.0,DET,2016,317.0,77.0,72.0,Royse City,TX        ,USA
+3138826.0,Fred Warner,Fred,Warner,OLB,LB,D,BYU,70.0,4.0,5.0,32.0,SFO,2016,230.0,76.0,4.0,Chicago,IL        ,USA
+3126204.0,Genard Avery,Genard,Avery,ILB,LB,D,Memphis,150.0,5.0,15.0,68.0,CLE,2016,255.0,73.0,6.0,Chicago,IL        ,USA
+3916414.0,Geron Christian,Geron,Christian,OT,OL,O,Louisville,74.0,5.0,11.0,34.0,WAS,2016,315.0,78.0,74.0,Royse City,TX        ,USA
+546824.0,Godwin Igwebuike,Godwin,Igwebuike,S,DB,D,Northwestern,300.0,18.0,43.0,110.0,,2014,212.0,72.0,16.0,Krum,TX        ,USA
+3116166.0,Grant Haley,Grant,Haley,CB,DB,D,Penn State,300.0,26.0,44.0,111.0,,2016,190.0,69.0,15.0,Llano,TX        ,USA
+3122793.0,Harold Landry,Harold,Landry,DE,DL,D,Boston College,41.0,3.0,6.0,16.0,TEN,2016,250.0,75.0,7.0,Fairfield,TX        ,USA
+3117255.0,Harrison Phillips,Harrison,Phillips,DT,DL,D,Stanford,96.0,9.0,20.0,44.0,BUF,2016,295.0,76.0,66.0,Spring Branch,TX        ,USA
+3924365.0,Hayden Hurst,Hayden,Hurst,TE,TE,O,South Carolina,25.0,1.0,1.0,13.0,BAL,2016,250.0,77.0,81.0,Lewisville,TX        ,USA
+3128687.0,Henre Toliver,Henre,Toliver,CB,DB,D,Arkansas,300.0,27.0,45.0,112.0,,2015,185.0,73.0,5.0,Leander,TX        ,USA
+3127274.0,Hercules Mata'afa,Hercules,Mata'afa,DE,DL,D,Washington State,300.0,30.0,45.0,113.0,,2016,252.0,74.0,50.0,Andrews,TX        ,USA
+3929847.0,Holton Hill,Holton,Hill,CB,DB,D,Texas,300.0,28.0,46.0,114.0,,2015,200.0,75.0,5.0,Leander,TX        ,USA
+4045305.0,Ian Thomas,Ian,Thomas,TE,TE,O,Indiana,101.0,5.0,5.0,43.0,CAR,2016,248.0,77.0,80.0,Lewisville,TX        ,USA
+3122797.0,Isaac Yiadom,Isaac,Yiadom,CB,DB,D,Boston College,99.0,12.0,17.0,45.0,DEN,2016,190.0,73.0,20.0,Leander,TX        ,USA
+3915437.0,Isaiah Oliver,Isaiah,Oliver,CB,DB,D,Colorado,58.0,9.0,12.0,25.0,ATL,2016,190.0,73.0,26.0,Leander,TX        ,USA
+3128713.0,Isaiah Wynn,Isaiah,Wynn,OG,OL,O,Georgia,23.0,2.0,6.0,11.0,NWE,2016,302.0,74.0,77.0,Scottsdale,AZ        ,USA
+545624.0,J.T. Barrett,J.T.,Barrett,QB,QB,O,Ohio State,300.0,13.0,13.0,104.0,,2014,220.0,74.0,16.0,Dallas,TX        ,USA
+546844.0,Jack Cichy,Jack,Cichy,ILB,LB,D,Wisconsin,202.0,8.0,19.0,85.0,TAM,2016,234.0,74.0,48.0,Chicago,IL        ,USA
+3122932.0,Jacob Pugh,Jacob,Pugh,OLB,LB,D,Florida State,300.0,12.0,24.0,116.0,,2014,229.0,76.0,16.0,Chicago,IL        ,USA
+3895429.0,Jaire Alexander,Jaire,Alexander,CB,DB,D,Louisville,18.0,3.0,4.0,10.0,GNB,2015,192.0,71.0,10.0,Llano,TX        ,USA
+4040792.0,Jaleel Scott,Jaleel,Scott,WR,WR,O,New Mexico State,132.0,14.0,14.0,55.0,BAL,2016,215.0,78.0,16.0,Lubbock,TX        ,USA
+3121414.0,Jalyn Holmes,Jalyn,Holmes,DE,DL,D,Ohio State,102.0,12.0,21.0,47.0,MIN,2016,270.0,77.0,11.0,Fairfield,TX        ,USA
+3121417.0,Jamarco Jones,Jamarco,Jones,OT,OL,O,Ohio State,168.0,12.0,21.0,64.0,SEA,2016,310.0,77.0,74.0,Royse City,TX        ,USA
+4038830.0,Jamarcus King,Jamarcus,King,CB,DB,D,South Carolina,300.0,30.0,48.0,117.0,,2016,186.0,74.0,7.0,Leander,TX        ,USA
+3894849.0,James Daniels,James,Daniels,C,OL,O,Iowa,39.0,3.0,8.0,21.0,CHI,2017,295.0,76.0,78.0,Royse City,TX        ,USA
+545320.0,James Looney,James,Looney,DE,DL,D,California,232.0,25.0,37.0,92.0,GNB,2016,280.0,75.0,9.0,Fairfield,TX        ,USA
+3122449.0,James Washington,James,Washington,WR,WR,O,Oklahoma State,60.0,7.0,7.0,30.0,PIT,2014,205.0,73.0,28.0,Lubbock,TX        ,USA
+3129453.0,Jarvion Franklin,Jarvion,Franklin,RB,RB,O,Western Michigan,300.0,22.0,23.0,105.0,,2015,225.0,72.0,31.0,Ewa Beach,HI        ,USA
+3116158.0,Jason Cabinda,Jason,Cabinda,ILB,LB,D,Penn State,300.0,13.0,25.0,119.0,,2015,234.0,73.0,40.0,Chicago,IL        ,USA
+4035019.0,Javon Wims,Javon,Wims,WR,WR,O,Georgia,224.0,23.0,23.0,78.0,CHI,2016,215.0,76.0,6.0,Lubbock,TX        ,USA
+3915507.0,Jerome Baker,Jerome,Baker,OLB,LB,D,Ohio State,73.0,5.0,6.0,33.0,MIA,2016,225.0,73.0,17.0,Chicago,IL        ,USA
+546670.0,Jester Weah,Jester,Weah,WR,WR,O,Pittsburgh,300.0,34.0,34.0,106.0,,2016,210.0,75.0,85.0,Lubbock,TX        ,USA
+3124779.0,Joel Iyiegbuniwe,Joel,Iyiegbuniwe,OLB,LB,D,Western Kentucky,115.0,9.0,11.0,52.0,CHI,2016,230.0,73.0,4.0,Chicago,IL        ,USA
+3915381.0,John Kelly,John,Kelly,RB,RB,O,Tennessee,176.0,13.0,13.0,67.0,LAR,2017,205.0,69.0,4.0,Ewa Beach,HI        ,USA
+3676003.0,Jojo Wicker,Jojo,Wicker,DE,DL,D,Arizona State,300.0,34.0,50.0,123.0,,2016,273.0,75.0,1.0,Andrews,TX        ,USA
+3128452.0,Jordan Akins,Jordan,Akins,TE,TE,O,UCF,98.0,4.0,4.0,42.0,HOU,2015,249.0,75.0,88.0,Lewisville,TX        ,USA
+3134302.0,Jordan Lasley,Jordan,Lasley,WR,WR,O,UCLA,162.0,15.0,15.0,61.0,BAL,2015,210.0,73.0,2.0,Lubbock,TX        ,USA
+4035379.0,Jordan Thomas,Jordan,Thomas,TE,TE,O,Mississippi State,300.0,14.0,14.0,107.0,,2016,280.0,77.0,83.0,Lewisville,TX        ,USA
+3116391.0,Jordan Thomas,Jordan,Thomas,CB,DB,D,Oklahoma,300.0,31.0,49.0,124.0,,2015,185.0,72.0,7.0,Llano,TX        ,USA
+3895798.0,Jordan Whitehead,Jordan,Whitehead,S,DB,D,Pittsburgh,117.0,7.0,20.0,53.0,TAM,2017,195.0,71.0,9.0,Leander,TX        ,USA
+550016.0,Jordan Wilkins,Jordan,Wilkins,RB,RB,O,Ole Miss,169.0,12.0,12.0,65.0,IND,2015,217.0,73.0,22.0,Ewa Beach,HI        ,USA
+545427.0,Josey Jewell,Josey,Jewell,ILB,LB,D,Iowa,106.0,2.0,10.0,48.0,DEN,2015,236.0,74.0,43.0,Chicago,IL        ,USA
+3932420.0,Josh Adams,Josh,Adams,RB,RB,O,Notre Dame,300.0,23.0,24.0,108.0,,2016,225.0,74.0,33.0,Ewa Beach,HI        ,USA
+3918298.0,Josh Allen,Josh,Allen,QB,QB,O,Wyoming,7.0,3.0,3.0,5.0,BUF,2016,233.0,77.0,17.0,Dallas,TX        ,USA
+3144984.0,Josh Jackson,Josh,Jackson,CB,DB,D,Iowa,45.0,5.0,7.0,17.0,GNB,2016,192.0,73.0,15.0,Leander,TX        ,USA
+3886377.0,Josh Rosen,Josh,Rosen,QB,QB,O,UCLA,10.0,4.0,4.0,7.0,ARI,2016,218.0,76.0,3.0,Dallas,TX        ,USA
+3693166.0,Josh Sweat,Josh,Sweat,DE,DL,D,Florida State,130.0,15.0,24.0,60.0,PHI,2017,250.0,77.0,9.0,Fairfield,TX        ,USA
+3126350.0,Joshua Frazier,Joshua,Frazier,DT,DL,D,Alabama,246.0,14.0,39.0,95.0,PIT,2016,315.0,76.0,69.0,Andrews,TX        ,USA
+3116105.0,Joshua Kalu,Joshua,Kalu,S,DB,D,Nebraska,300.0,19.0,50.0,125.0,,2015,195.0,73.0,10.0,Leander,TX        ,USA
+4039226.0,Justin Crawford,Justin,Crawford,RB,RB,O,West Virginia,300.0,24.0,25.0,109.0,,2016,200.0,72.0,25.0,Ewa Beach,HI        ,USA
+3116136.0,Justin Jackson,Justin,Jackson,RB,RB,O,Northwestern,251.0,15.0,16.0,85.0,LAC,2014,200.0,71.0,21.0,Ewa Beach,HI        ,USA
+3931399.0,Justin Reid,Justin,Reid,S,DB,D,Stanford,68.0,4.0,14.0,30.0,HOU,2015,204.0,73.0,8.0,Krum,TX        ,USA
+3128774.0,Kalen Ballage,Kalen,Ballage,RB,RB,O,Arizona State,131.0,11.0,11.0,54.0,MIA,2014,230.0,75.0,7.0,Ewa Beach,HI        ,USA
+3139926.0,Kameron Kelly,Kameron,Kelly,S,DB,D,San Diego State,300.0,20.0,51.0,126.0,,2015,200.0,74.0,7.0,Llano,TX        ,USA
+3122800.0,Kamrin Moore,Kamrin,Moore,CB,DB,D,Boston College,189.0,19.0,33.0,80.0,NOR,2016,200.0,71.0,5.0,Leander,TX        ,USA
+3121597.0,Kamryn Pettway,Kamryn,Pettway,RB,RB,O,Auburn,300.0,25.0,26.0,110.0,,2015,235.0,72.0,36.0,Ewa Beach,HI        ,USA
+3916085.0,Karaun White,Karaun,White,WR,WR,O,West Virginia,300.0,35.0,35.0,111.0,,2015,199.0,73.0,2.0,Lubbock,TX        ,USA
+550314.0,Keishawn Bierria,Keishawn,Bierria,ILB,LB,D,Washington,217.0,10.0,21.0,89.0,DEN,2016,223.0,73.0,7.0,Chicago,IL        ,USA
+3915823.0,Keke Coutee,Keke,Coutee,WR,WR,O,Texas Tech,103.0,11.0,11.0,44.0,HOU,2015,180.0,71.0,2.0,Lubbock,TX        ,USA
+547564.0,Kemoko Turay,Kemoko,Turay,DE,DL,D,Rutgers,52.0,5.0,9.0,20.0,IND,2016,252.0,77.0,58.0,Andrews,TX        ,USA
+3917847.0,Kendrick Norton,Kendrick,Norton,DT,DL,D,Miami,242.0,13.0,38.0,94.0,CAR,2016,312.0,75.0,7.0,Andrews,TX        ,USA
+3134310.0,Kenny Young,Kenny,Young,ILB,LB,D,UCLA,122.0,3.0,12.0,56.0,BAL,2015,235.0,73.0,42.0,Chicago,IL        ,USA
+3916925.0,Kerryon Johnson,Kerryon,Johnson,RB,RB,O,Auburn,43.0,6.0,6.0,24.0,DET,2016,212.0,72.0,21.0,Ewa Beach,HI        ,USA
+3134312.0,Kolton Miller,Kolton,Miller,OT,OL,O,UCLA,15.0,2.0,3.0,8.0,OAK,2017,310.0,80.0,77.0,Royse City,TX        ,USA
+3123968.0,Korey Robertson,Korey,Robertson,WR,WR,O,Southern Mississippi,300.0,36.0,36.0,112.0,,2017,210.0,73.0,18.0,Lubbock,TX        ,USA
+545512.0,Kyle Hicks,Kyle,Hicks,RB,RB,O,TCU,300.0,26.0,27.0,114.0,,2015,210.0,70.0,21.0,Ewa Beach,HI        ,USA
+547620.0,Kylie Fitts,Kylie,Fitts,DE,DL,D,Utah,181.0,20.0,31.0,78.0,CHI,2016,260.0,76.0,11.0,Fairfield,TX        ,USA
+4039254.0,Kyzir White,Kyzir,White,S,DB,D,West Virginia,119.0,8.0,22.0,55.0,LAC,2017,216.0,74.0,8.0,Krum,TX        ,USA
+3916387.0,Lamar Jackson,Lamar,Jackson,QB,QB,O,Louisville,32.0,5.0,5.0,17.0,BAL,2015,211.0,75.0,8.0,Dallas,TX        ,USA
+550316.0,Lavon Coleman,Lavon,Coleman,RB,RB,O,Washington,300.0,27.0,28.0,115.0,,2016,235.0,71.0,22.0,Ewa Beach,HI        ,USA
+,Leighton Vander esch,Leighton,Vander,ILB,LB,D,Boise State,19.0,1.0,3.0,11.0,DAL,2016,240.0,76.0,38.0,Chicago,IL        ,USA
+3133440.0,Levi Wallace,Levi,Wallace,CB,DB,D,Alabama,300.0,32.0,52.0,127.0,,2016,183.0,72.0,39.0,Leander,TX        ,USA
+545910.0,Logan Woodside,Logan,Woodside,QB,QB,O,Toledo,249.0,10.0,10.0,83.0,CIN,2014,210.0,74.0,11.0,Dallas,TX        ,USA
+3122874.0,Lowell Lotulelei,Lowell,Lotulelei,DT,DL,D,Utah,300.0,17.0,51.0,128.0,,2017,320.0,74.0,93.0,Spring Branch,TX        ,USA
+550629.0,Luke Falk,Luke,Falk,QB,QB,O,Washington State,199.0,7.0,7.0,71.0,TEN,2016,223.0,76.0,4.0,Dallas,TX        ,USA
+3116679.0,M.J. Stewart,M.J.,Stewart,CB,DB,D,North Carolina,53.0,6.0,8.0,21.0,TAM,2014,205.0,72.0,6.0,Llano,TX        ,USA
+3821576.0,Malik Jefferson,Malik,Jefferson,OLB,LB,D,Texas,78.0,6.0,7.0,36.0,CIN,2016,240.0,75.0,46.0,Chicago,IL        ,USA
+547253.0,Marcell Ateman,Marcell,Ateman,WR,WR,O,Oklahoma State,228.0,24.0,24.0,79.0,OAK,2013,220.0,76.0,3.0,Lubbock,TX        ,USA
+546308.0,Marcell Harris,Marcell,Harris,S,DB,D,Florida,184.0,14.0,32.0,79.0,SFO,2016,208.0,72.0,26.0,Leander,TX        ,USA
+3116149.0,Marcus Allen,Marcus,Allen,S,DB,D,Penn State,148.0,11.0,27.0,67.0,PIT,2016,207.0,74.0,2.0,Krum,TX        ,USA
+549806.0,Marcus Baugh,Marcus,Baugh,TE,TE,O,Ohio State,300.0,15.0,15.0,116.0,,2014,250.0,77.0,85.0,Lewisville,TX        ,USA
+3124058.0,Marcus Davenport,Marcus,Davenport,DE,DL,D,UT San Antonio,14.0,2.0,4.0,7.0,NOR,2016,255.0,79.0,93.0,Fairfield,TX        ,USA
+3116365.0,Mark Andrews,Mark,Andrews,TE,TE,O,Oklahoma,86.0,3.0,3.0,38.0,BAL,2015,254.0,77.0,81.0,Lewisville,TX        ,USA
+3917846.0,Mark Walton,Mark,Walton,RB,RB,O,Miami,112.0,10.0,10.0,48.0,CIN,2015,205.0,69.0,1.0,Ewa Beach,HI        ,USA
+559639.0,Marquis Haynes,Marquis,Haynes,DE,DL,D,Ole Miss,136.0,16.0,25.0,61.0,CAR,2016,230.0,75.0,38.0,Fairfield,TX        ,USA
+3894924.0,Martinas Rankin,Martinas,Rankin,OT,OL,O,Mississippi State,80.0,6.0,12.0,36.0,HOU,2016,315.0,77.0,55.0,Royse City,TX        ,USA
+3116407.0,Mason Rudolph,Mason,Rudolph,QB,QB,O,Oklahoma State,76.0,6.0,6.0,35.0,PIT,2014,230.0,77.0,2.0,Dallas,TX        ,USA
+3134316.0,Matt Dickerson,Matt,Dickerson,DE,DL,D,UCLA,300.0,35.0,52.0,129.0,,2016,290.0,76.0,99.0,Andrews,TX        ,USA
+3925359.0,Matthew Thomas,Matthew,Thomas,OLB,LB,D,Florida State,300.0,13.0,26.0,130.0,,2016,227.0,76.0,6.0,Chicago,IL        ,USA
+546813.0,Matthew Thomas,Matthew,Thomas,OLB,LB,D,Florida State,300.0,13.0,26.0,130.0,,2016,227.0,76.0,6.0,Chicago,IL        ,USA
+548057.0,Micah Kiser,Micah,Kiser,ILB,LB,D,Virginia,147.0,4.0,14.0,66.0,LAR,2016,240.0,74.0,53.0,Chicago,IL        ,USA
+4036348.0,Michael Gallup,Michael,Gallup,WR,WR,O,Colorado State,81.0,9.0,9.0,37.0,DAL,2016,200.0,73.0,4.0,Lubbock,TX        ,USA
+3116164.0,Mike Gesicki,Mike,Gesicki,TE,TE,O,Penn State,42.0,2.0,2.0,23.0,MIA,2015,250.0,78.0,88.0,Lewisville,TX        ,USA
+3895841.0,Mike Hughes,Mike,Hughes,CB,DB,D,UCF,30.0,4.0,6.0,15.0,MIN,2017,185.0,71.0,19.0,Leander,TX        ,USA
+546709.0,Mike McCray,Mike,McCray,ILB,LB,D,Michigan,300.0,14.0,27.0,132.0,,2016,242.0,76.0,9.0,Chicago,IL        ,USA
+550954.0,Mike McGlinchey,Mike,McGlinchey,OT,OL,O,Notre Dame,9.0,1.0,2.0,6.0,SFO,2016,315.0,80.0,68.0,Royse City,TX        ,USA
+3925345.0,Minkah Fitzpatrick,Minkah,Fitzpatrick,CB,DB,D,Alabama,11.0,2.0,2.0,4.0,MIA,2015,202.0,73.0,29.0,Leander,TX        ,USA
+3121552.0,Natrell Jamerson,Natrell,Jamerson,S,DB,D,Wisconsin,164.0,13.0,29.0,73.0,NOR,2015,198.0,72.0,12.0,Krum,TX        ,USA
+545364.0,Nic Shimonek,Nic,Shimonek,QB,QB,O,Texas Tech,300.0,15.0,15.0,117.0,,2016,225.0,75.0,16.0,Dallas,TX        ,USA
+3125232.0,Nick Bawden,Nick,Bawden,FB,RB,O,San Diego State,237.0,1.0,15.0,81.0,DET,2016,245.0,75.0,15.0,North Richland Hills,TX        ,USA
+3128720.0,Nick Chubb,Nick,Chubb,RB,RB,O,Georgia,35.0,4.0,4.0,19.0,CLE,2014,225.0,70.0,27.0,Ewa Beach,HI        ,USA
+3116096.0,Nick Gates,Nick,Gates,OT,OL,O,Nebraska,300.0,13.0,24.0,118.0,,2017,295.0,77.0,68.0,Royse City,TX        ,USA
+550497.0,Ogbonnia Okoronkwo,Ogbonnia,Okoronkwo,DE,DL,D,Oklahoma,160.0,18.0,28.0,71.0,LAR,2016,240.0,73.0,31.0,Fairfield,TX        ,USA
+549968.0,Oren Burks,Oren,Burks,OLB,LB,D,Vanderbilt,88.0,7.0,8.0,41.0,GNB,2015,230.0,75.0,20.0,Chicago,IL        ,USA
+545758.0,Parry Nickerson,Parry,Nickerson,CB,DB,D,Tulane,179.0,18.0,31.0,77.0,NYJ,2014,180.0,72.0,17.0,Llano,TX        ,USA
+3895789.0,Quadree Henderson,Quadree,Henderson,WR,WR,O,Pittsburgh,300.0,37.0,37.0,119.0,,2015,190.0,68.0,10.0,Lubbock,TX        ,USA
+3931400.0,Quenton Meeks,Quenton,Meeks,CB,DB,D,Stanford,300.0,33.0,54.0,133.0,,2015,197.0,74.0,24.0,Llano,TX        ,USA
+3129308.0,Quenton Nelson,Quenton,Nelson,OG,OL,O,Notre Dame,6.0,1.0,1.0,4.0,IND,2016,330.0,77.0,56.0,Royse City,TX        ,USA
+3124020.0,Quin Blanding,Quin,Blanding,S,DB,D,Virginia,300.0,22.0,55.0,134.0,,2015,210.0,74.0,3.0,Krum,TX        ,USA
+3139591.0,Quinton Flowers,Quinton,Flowers,QB,QB,O,South Florida,300.0,16.0,16.0,120.0,,2014,215.0,72.0,9.0,Dallas,TX        ,USA
+3139925.0,Rashaad Penny,Rashaad,Penny,RB,RB,O,San Diego State,27.0,2.0,2.0,15.0,SEA,2014,220.0,71.0,20.0,Ewa Beach,HI        ,USA
+3126349.0,Rashaan Evans,Rashaan,Evans,OLB,LB,D,Alabama,22.0,3.0,4.0,12.0,TEN,2016,234.0,75.0,32.0,Chicago,IL        ,USA
+559721.0,Rashaan Gaulden,Rashaan,Gaulden,CB,DB,D,Tennessee,85.0,11.0,15.0,39.0,CAR,2016,193.0,73.0,7.0,Leander,TX        ,USA
+553465.0,Rashard Fant,Rashard,Fant,CB,DB,D,Indiana,300.0,34.0,56.0,135.0,,2015,180.0,70.0,16.0,Leander,TX        ,USA
+3912562.0,Rasheem Green,Rasheem,Green,DE,DL,D,USC,79.0,10.0,16.0,37.0,SEA,2016,275.0,76.0,94.0,Spring Branch,TX        ,USA
+3728262.0,Ray-ray McCloud,Ray-ray,McCloud,WR,WR,O,Clemson,187.0,18.0,18.0,69.0,BUF,2016,180.0,70.0,34.0,Lubbock,TX        ,USA
+3122899.0,Richie James,Richie,James,WR,WR,O,Middle Tennessee,240.0,25.0,25.0,82.0,SFO,2015,176.0,69.0,3.0,Lubbock,TX        ,USA
+3122927.0,Rick Leonard,Rick,Leonard,OT,OL,O,Florida State,127.0,9.0,16.0,52.0,NOR,2017,306.0,79.0,76.0,Royse City,TX        ,USA
+546539.0,Riley Ferguson,Riley,Ferguson,QB,QB,O,Memphis,300.0,17.0,17.0,121.0,,2016,210.0,76.0,4.0,Dallas,TX        ,USA
+551293.0,Robert Foster,Robert,Foster,WR,WR,O,Alabama,300.0,38.0,38.0,122.0,,2016,194.0,74.0,1.0,Lubbock,TX        ,USA
+3859006.0,Ronnie Harrison,Ronnie,Harrison,S,DB,D,Alabama,93.0,5.0,16.0,43.0,JAX,2015,214.0,75.0,15.0,Leander,TX        ,USA
+3915189.0,Roquan Smith,Roquan,Smith,OLB,LB,D,Georgia,8.0,1.0,1.0,3.0,CHI,2016,225.0,73.0,3.0,Chicago,IL        ,USA
+3122672.0,Royce Freeman,Royce,Freeman,RB,RB,O,Oregon,71.0,8.0,8.0,33.0,DEN,2015,231.0,71.0,21.0,Ewa Beach,HI        ,USA
+3127335.0,Ryan Nall,Ryan,Nall,RB,RB,O,Oregon State,300.0,29.0,30.0,124.0,,2016,237.0,74.0,34.0,Ewa Beach,HI        ,USA
+550236.0,Salesi Uhatafe,Salesi,Uhatafe,OG,OL,O,Utah,300.0,6.0,25.0,125.0,,2016,320.0,77.0,74.0,Royse City,TX        ,USA
+3912547.0,Sam Darnold,Sam,Darnold,QB,QB,O,USC,3.0,2.0,2.0,3.0,NYJ,2016,220.0,76.0,14.0,Dallas,TX        ,USA
+3121416.0,Sam Hubbard,Sam,Hubbard,DE,DL,D,Ohio State,77.0,9.0,15.0,35.0,CIN,2016,265.0,77.0,6.0,Fairfield,TX        ,USA
+3929630.0,Saquon Barkley,Saquon,Barkley,RB,RB,O,Penn State,2.0,1.0,1.0,2.0,NYG,2015,230.0,71.0,26.0,Ewa Beach,HI        ,USA
+547610.0,Scott Quessenberry,Scott,Quessenberry,C,OL,O,UCLA,155.0,5.0,19.0,58.0,LAC,2016,310.0,75.0,52.0,Royse City,TX        ,USA
+3138733.0,Sean Chandler,Sean,Chandler,S,DB,D,Temple,300.0,23.0,57.0,136.0,,2014,195.0,72.0,3.0,Leander,TX        ,USA
+551186.0,Shaquem Griffin,Shaquem,Griffin,OLB,LB,D,UCF,141.0,10.0,13.0,63.0,SEA,2016,223.0,73.0,18.0,Chicago,IL        ,USA
+,Shaun dion Hamilton,Shaun,dion,ILB,LB,D,Alabama,197.0,7.0,18.0,83.0,WAS,2016,235.0,72.0,20.0,Chicago,IL        ,USA
+548143.0,Skai Moore,Skai,Moore,OLB,LB,D,South Carolina,300.0,14.0,28.0,137.0,,2013,218.0,74.0,10.0,Chicago,IL        ,USA
+3128721.0,Sony Michel,Sony,Michel,RB,RB,O,Georgia,31.0,3.0,3.0,16.0,NWE,2014,215.0,71.0,1.0,Ewa Beach,HI        ,USA
+3121589.0,Stephen Roberts,Stephen,Roberts,S,DB,D,Auburn,300.0,24.0,58.0,138.0,,2016,189.0,71.0,14.0,Leander,TX        ,USA
+3122680.0,Tanner Carew,Tanner,Carew,LS,LS,ST,Oregon,300.0,1.0,1.0,1.0,,2016,240.0,74.0,58.0,Loganville,GA        ,USA
+3921563.0,Tarvarus McFadden,Tarvarus,McFadden,CB,DB,D,Florida State,300.0,35.0,59.0,139.0,,2015,198.0,74.0,4.0,Leander,TX        ,USA
+559553.0,Taven Bryan,Taven,Bryan,DT,DL,D,Florida,29.0,3.0,5.0,14.0,JAX,2016,291.0,76.0,93.0,Andrews,TX        ,USA
+3126489.0,Taylor Stallworth,Taylor,Stallworth,DT,DL,D,South Carolina,300.0,18.0,53.0,140.0,,2016,305.0,74.0,90.0,Andrews,TX        ,USA
+3128268.0,Tegray Scales,Tegray,Scales,ILB,LB,D,Indiana,300.0,15.0,29.0,141.0,,2014,230.0,72.0,8.0,Chicago,IL        ,USA
+3124067.0,Terrell Edmunds,Terrell,Edmunds,S,DB,D,Virginia Tech,28.0,2.0,5.0,13.0,PIT,2016,210.0,74.0,22.0,Krum,TX        ,USA
+3929956.0,Tim Settle,Tim,Settle,DT,DL,D,Virginia Tech,163.0,11.0,29.0,72.0,WAS,2016,328.0,75.0,4.0,Spring Branch,TX        ,USA
+559696.0,Tony Brown,Tony,Brown,CB,DB,D,Alabama,300.0,36.0,60.0,142.0,,2016,198.0,72.0,2.0,Leander,TX        ,USA
+547259.0,Tre Flowers,Tre,Flowers,S,DB,D,Oklahoma State,146.0,10.0,26.0,65.0,SEA,2016,200.0,75.0,31.0,Krum,TX        ,USA
+3929950.0,Tremaine Edmunds,Tremaine,Edmunds,OLB,LB,D,Virginia Tech,16.0,2.0,2.0,8.0,BUF,2016,236.0,77.0,49.0,Chicago,IL        ,USA
+3915192.0,Trenton Thompson,Trenton,Thompson,DT,DL,D,Georgia,300.0,19.0,54.0,143.0,,2016,295.0,76.0,78.0,Spring Branch,TX        ,USA
+,Trevon Young,Trevon,Young,DE,DL,D,Louisville,205.0,21.0,33.0,86.0,LAR,2017,254.0,76.0,91.0,Chicago,IL        ,USA
+3116152.0,Troy Apke,Troy,Apke,S,DB,D,Penn State,109.0,6.0,18.0,49.0,WAS,2016,198.0,73.0,28.0,Krum,TX        ,USA
+546849.0,Troy Fumagalli,Troy,Fumagalli,TE,TE,O,Wisconsin,156.0,9.0,9.0,59.0,DEN,2016,248.0,78.0,81.0,Lewisville,TX        ,USA
+3915486.0,Tyler Conklin,Tyler,Conklin,TE,TE,O,Central Michigan,157.0,10.0,10.0,60.0,MIN,2016,240.0,76.0,83.0,Lewisville,TX        ,USA
+545630.0,Tyquan Lewis,Tyquan,Lewis,DE,DL,D,Ohio State,64.0,6.0,10.0,27.0,IND,2016,265.0,76.0,59.0,Andrews,TX        ,USA
+,Uchenna Nwosu,Uchenna,Nwosu,DE,DL,D,USC,48.0,4.0,8.0,19.0,LAC,2017,240.0,74.0,42.0,Chicago,IL        ,USA
+3728244.0,Van Smith,Van,Smith,S,DB,D,Clemson,300.0,25.0,61.0,144.0,,2015,185.0,71.0,23.0,Krum,TX        ,USA
+3134362.0,Vita Vea,Vita,Vea,DT,DL,D,Washington,12.0,1.0,2.0,5.0,TAM,2016,340.0,77.0,50.0,Andrews,TX        ,USA
+3127292.0,Will Dissly,Will,Dissly,TE,TE,O,Washington,120.0,6.0,6.0,50.0,SEA,2016,267.0,76.0,98.0,Lewisville,TX        ,USA
+559695.0,Zaycoven Henderson,Zaycoven,Henderson,DT,DL,D,Texas A&M,300.0,20.0,55.0,145.0,,2016,305.0,74.0,92.0,Andrews,TX        ,USA
+4252364.0,Kyle Williams,Kyle,Williams,WR,WR,O,Arizona State,300.0,35.0,35.0,107.0,,2016,192.0,71.0,10.0,Murrieta,CA        ,USA

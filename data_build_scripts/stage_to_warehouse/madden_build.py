@@ -54,4 +54,37 @@ def main():
     df.to_csv(target, index=False)
 
 
-main()
+def add_id():
+
+    local_path = os.path.dirname(os.path.abspath(__file__))
+    f = open(os.path.join(local_path, "madden_build.json"))
+    data = json.load(f)
+
+    two_up = os.path.abspath(os.path.join(local_path, "../.."))
+
+    source_dir = os.path.join(two_up, data['target'])  # should work in both mac and windows
+    target_dir = os.path.join(two_up, data['target'])
+
+    source = os.path.join(source_dir, data['output_folder'], data['output_file'])
+
+    df = pd.read_csv(source)
+    espn_id_df = hlp.return_id_df(['first_name', 'last_name', 'position_group', 'id'])
+
+    #df = pd.merge(df, espn_id_df, left_on=['first_name', 'last_name', 'position_group'],
+    #              right_on=['first_name', 'last_name', 'position_group'], how='left')
+
+    print("fuzzy merging madden outputs")
+    df = cm.fuzzy_merge(df, espn_id_df, ['first_name', 'last_name', 'position_group'],
+                        ['first_name', 'last_name', 'position_group'], threshold=95, limit=1)
+
+    df = df[data['id_column_order']]
+
+    target_folder = os.path.join(target_dir, data['output_folder'])
+    hlp.make_folder_if_not_exists(target_folder)
+    target = os.path.join(target_folder, data['output_file'])
+    df.to_csv(target, index=False)
+
+
+
+#main()
+add_id()
