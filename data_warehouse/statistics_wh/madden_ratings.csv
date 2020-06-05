@@ -95,7 +95,7 @@ Johnny,Manziel,QB,QB,O,71.0,,,,
 Micah,Pellerin,SS,DB,D,60.0,,,,
 Hayes,Pullard,MLB,LB,D,62.0,,,,
 Scott,Solomon,ROLB,LB,D,69.0,,,,
-Carey,Spear,K,K,ST,57.0,,,,
+Carey,Spear,K,PK,ST,57.0,,,,
 Randy,Starks,LE,DL,D,79.0,,,,
 Phil,Taylor,DT,DL,D,80.0,,,,
 Donte,Whitner,SS,DB,D,90.0,,,,
@@ -314,7 +314,7 @@ Nic,Jacobs,FB,RB,O,70.0,,,,
 Craig,Loston,SS,DB,D,71.0,,,,
 Roy,Miller,DT,DL,D,75.0,,,,
 Ace,Sanders,WR,WR,O,71.0,,,,
-Josh,Scobee,K,K,ST,85.0,,,,
+Josh,Scobee,K,PK,ST,85.0,,,,
 Jeff,Tuel,QB,QB,O,66.0,,,,
 Brennan,Williams,LT,OL,O,60.0,,,,
 Jason,Babin,ROLB,LB,D,79.0,,,,
@@ -529,7 +529,7 @@ Joe,Kruger,ROLB,LB,D,67.0,,,,
 Heath,Miller,TE,TE,O,83.0,,,,
 Ross,Scheuerman,HB,RB,O,65.0,,,,
 Matt,Spaeth,TE,TE,O,78.0,,,,
-Shaun,Suisham,K,K,ST,86.0,,,,
+Shaun,Suisham,K,PK,ST,86.0,,,,
 Jason,Ankrah,ROLB,LB,D,64.0,,,,
 Alan,Bonner,WR,WR,O,61.0,,,,
 Kourtnei,Brown,LOLB,LB,D,62.0,,,,
@@ -579,7 +579,7 @@ Anthony,Davis,RT,OL,O,,78.0,,,
 Jacob,Schum,P,P,ST,,78.0,,,
 Roy,Miller III,DT,DL,D,,78.0,,,
 Willie,Snead,WR,WR,O,,77.0,,,
-Travis,Coons,K,K,ST,,76.0,,,
+Travis,Coons,K,PK,ST,,76.0,,,
 Quinton,Coples,LE,DL,D,,76.0,,,
 Chris,Johnson,HB,RB,O,,75.0,,,
 Bjoern,Werner,LE,DL,D,,74.0,,,
@@ -622,7 +622,7 @@ Je'Ron,Hamm,TE,TE,O,,65.0,,,
 E.J.,Bibbs,TE,TE,O,,65.0,,,
 Marcus,Ball,FS,DB,D,,65.0,,,
 Chris,Barker,LG,OL,O,,65.0,,,
-Taylor,Bertolet,K,K,ST,,65.0,,,
+Taylor,Bertolet,K,PK,ST,,65.0,,,
 Donald,Washington,CB,DB,D,,65.0,,,
 Jhurell,Pressley,HB,RB,O,,65.0,,,
 Taiwan,Jones,MLB,LB,D,,64.0,,,
@@ -772,10 +772,10 @@ Jayson,DiManche,LOLB,LB,D,70.0,67.0,,,
 Marvin,Jones,WR,WR,O,78.0,82.0,,,
 Shiloh,Keo,FS,DB,D,74.0,71.0,,,
 Rey,Maualuga,MLB,LB,D,83.0,84.0,,,
-Mike,Nugent,K,K,ST,76.0,80.0,,,
+Mike,Nugent,K,PK,ST,76.0,80.0,,,
 Sean,Porter,ROLB,LB,D,70.0,71.0,,,
 Devon,Still,DT,DL,D,73.0,67.0,,,
-Dan,Carpenter,K,K,ST,89.0,79.0,,,
+Dan,Carpenter,K,PK,ST,89.0,79.0,,,
 Marcus,Easley,WR,WR,O,68.0,67.0,,,
 Jerome,Felton,FB,RB,O,88.0,73.0,,,
 Chris,Gragg,TE,TE,O,72.0,72.0,,,
@@ -826,7 +826,7 @@ Chris,Hackett,FS,DB,D,64.0,63.0,,,
 Vincent,Jackson,WR,WR,O,86.0,82.0,,,
 Mike,James,HB,RB,O,72.0,71.0,,,
 Mike,Jenkins,CB,DB,D,75.0,72.0,,,
-Patrick,Murray,K,K,ST,71.0,72.0,,,
+Patrick,Murray,K,PK,ST,71.0,72.0,,,
 Brandon,Myers,TE,TE,O,74.0,72.0,,,
 Alterraun,Verner,CB,DB,D,87.0,75.0,,,
 Major,Wright,SS,DB,D,78.0,74.0,,,
@@ -930,7 +930,7 @@ Paul,Soliai,DT,DL,D,80.0,80.0,,,
 Tyler,Starr,LOLB,LB,D,63.0,64.0,,,
 Jacob,Tamme,TE,TE,O,77.0,79.0,,,
 Chykie,Brown,CB,DB,D,70.0,70.0,,,
-Josh,Brown,K,K,ST,87.0,83.0,,,
+Josh,Brown,K,PK,ST,87.0,83.0,,,
 Larry,Donnell,TE,TE,O,79.0,76.0,,,
 Kenrick,Ellis,DT,DL,D,75.0,71.0,,,
 Rashad,Jennings,HB,RB,O,80.0,80.0,,,
@@ -1055,7 +1055,7 @@ Brandon,Browner,CB,DB,D,82.0,73.0,,,
 Jairus,Byrd,FS,DB,D,91.0,83.0,,,
 Justin,Drescher,TE,TE,O,49.0,42.0,,,
 Jerry,Franklin,MLB,LB,D,63.0,63.0,,,
-Zach,Hocker,K,K,ST,61.0,69.0,,,
+Zach,Hocker,K,PK,ST,61.0,69.0,,,
 Keenan,Lewis,CB,DB,D,80.0,75.0,,,
 Luke,McCown,QB,QB,O,72.0,71.0,,,
 Khiry,Robinson,HB,RB,O,74.0,74.0,,,
@@ -1279,7 +1279,7 @@ Calvin,Pryor III,SS,DB,D,,83.0,72.0,,
 Rob,Ninkovich,LOLB,LB,D,,82.0,78.0,,
 Delvin,Breaux,CB,DB,D,,82.0,79.0,,
 Vic,Beasley Jr.,ROLB,LB,D,,79.0,83.0,,
-Andrew,Franks,K,K,ST,,76.0,75.0,,
+Andrew,Franks,K,PK,ST,,76.0,75.0,,
 Nolan,Carroll II,CB,DB,D,,76.0,76.0,,
 J.T.,Thomas III,ROLB,LB,D,,76.0,73.0,,
 Philly,Brown,WR,WR,O,,76.0,77.0,,
@@ -1403,14 +1403,14 @@ Eric,Winston,RT,OL,O,75.0,76.0,72.0,,
 James,Wright,WR,WR,O,67.0,63.0,64.0,,
 Ron,Brooks,CB,DB,D,69.0,68.0,70.0,,
 Corbin,Bryant,DT,DL,D,69.0,71.0,71.0,,
-Jordan,Gay,K,K,ST,66.0,71.0,70.0,,
+Jordan,Gay,K,PK,ST,66.0,71.0,70.0,,
 Cyril,Richardson,LG,OL,O,64.0,63.0,63.0,,
 Garrison,Sanborn,C,OL,O,57.0,54.0,54.0,,
 Matt,Simms,QB,QB,O,63.0,61.0,58.0,,
 Kraig,Urbik,C,OL,O,75.0,72.0,69.0,,
 Eric,Wood,C,OL,O,80.0,81.0,73.0,,
 Lamin,Barrow,MLB,LB,D,65.0,64.0,64.0,,
-Connor,Barth,K,K,ST,82.0,79.0,75.0,,
+Connor,Barth,K,PK,ST,82.0,79.0,75.0,,
 Isaiah,Burse,WR,WR,O,63.0,61.0,61.0,,
 Chris,Clark,RT,OL,O,79.0,75.0,72.0,,
 Zac,Dysert,QB,QB,O,67.0,61.0,60.0,,
@@ -1446,7 +1446,7 @@ Kellen,Clemens,QB,QB,O,72.0,68.0,67.0,,
 Antonio,Gates,TE,TE,O,88.0,85.0,87.0,,
 Melvin,Gordon,HB,RB,O,78.0,76.0,87.0,,
 Chris,Hairston,LT,OL,O,74.0,69.0,71.0,,
-Nick,Novak,K,K,ST,81.0,81.0,79.0,,
+Nick,Novak,K,PK,ST,81.0,81.0,79.0,,
 Branden,Oliver,HB,RB,O,77.0,79.0,79.0,,
 Trevor,Robinson,C,OL,O,72.0,65.0,64.0,,
 Darrell,Stuckey,FS,DB,D,75.0,72.0,71.0,,
@@ -1530,7 +1530,7 @@ Julius,Thomas,TE,TE,O,89.0,83.0,81.0,,
 Peyton,Thompson,CB,DB,D,63.0,62.0,62.0,,
 Jeff,Cumberland,TE,TE,O,74.0,72.0,72.0,,
 Eric,Decker,WR,WR,O,86.0,87.0,86.0,,
-Nick,Folk,K,K,ST,80.0,79.0,78.0,,
+Nick,Folk,K,PK,ST,80.0,79.0,78.0,,
 David,Harris,MLB,LB,D,81.0,81.0,81.0,,
 Damon,Harrison,DT,DL,D,88.0,84.0,89.0,,
 Jarvis,Harrison,RG,OL,O,68.0,67.0,66.0,,
@@ -1570,7 +1570,7 @@ Joe,Vellano,DT,DL,D,73.0,70.0,68.0,,
 Nate,Allen,SS,DB,D,82.0,77.0,72.0,,
 George,Atkinson III,HB,RB,O,65.0,64.0,63.0,,
 Jon,Condo,TE,TE,O,49.0,42.0,42.0,,
-Sebastian,Janikowski,K,K,ST,87.0,79.0,80.0,,
+Sebastian,Janikowski,K,PK,ST,87.0,79.0,80.0,,
 Sio,Moore,ROLB,LB,D,80.0,72.0,75.0,,
 Mychal,Rivera,TE,TE,O,75.0,73.0,73.0,,
 Max,Valles,LE,DL,D,61.0,59.0,63.0,,
@@ -1612,7 +1612,7 @@ Cliff,Avril,RE,DL,D,87.0,90.0,86.0,,
 Will,Blackmon,CB,DB,D,72.0,72.0,77.0,,
 Marcus,Burley,CB,DB,D,76.0,71.0,69.0,,
 Obum,Gwacham,RE,DL,D,57.0,57.0,62.0,,
-Steven,Hauschka,K,K,ST,87.0,84.0,76.0,,
+Steven,Hauschka,K,PK,ST,87.0,84.0,76.0,,
 Cooper,Helfet,TE,TE,O,74.0,71.0,69.0,,
 Jordan,Hill,DT,DL,D,76.0,72.0,72.0,,
 Jeremy,Lane,CB,DB,D,79.0,77.0,76.0,,
@@ -1664,7 +1664,7 @@ Sharrif,Floyd,DT,DL,D,87.0,83.0,83.0,,
 Jabari,Price,CB,DB,D,66.0,65.0,65.0,,
 Austin,Shepherd,LG,OL,O,62.0,63.0,63.0,,
 Tyrus,Thompson,LT,OL,O,64.0,65.0,66.0,,
-Blair,Walsh,K,K,ST,79.0,81.0,72.0,,
+Blair,Walsh,K,PK,ST,79.0,81.0,72.0,,
 Brandon,Watts,ROLB,LB,D,61.0,64.0,62.0,,
 David,Yankey,LG,OL,O,73.0,69.0,69.0,,
 Khalil,Mack,LE,DL,D,,,,98.0,
@@ -1945,7 +1945,7 @@ A.J.,Derby,TE,TE,O,63.0,,73.0,77.0,
 Derrick,Coleman,FB,RB,O,80.0,,75.0,63.0,
 Marshawn,Lynch,HB,RB,O,96.0,,85.0,85.0,
 Charles,Sims III,HB,RB,O,,82.0,82.0,77.0,
-Roberto,Aguayo,K,K,ST,,79.0,73.0,73.0,
+Roberto,Aguayo,K,PK,ST,,79.0,73.0,73.0,
 Drew,Kaser,P,P,ST,,76.0,72.0,75.0,
 Kevin,Dodd,ROLB,LB,D,,73.0,73.0,73.0,
 Phillip,Supernaw,TE,TE,O,,72.0,71.0,69.0,
@@ -2027,7 +2027,7 @@ Kyle,Carter,TE,TE,O,,58.0,57.0,63.0,
 Thurston,Armbrister,MLB,LB,D,,57.0,61.0,59.0,
 Dres,Anderson,WR,WR,O,65.0,62.0,62.0,62.0,
 Nick,Bellore,MLB,LB,D,67.0,66.0,69.0,71.0,
-Phil,Dawson,K,K,ST,91.0,80.0,80.0,78.0,
+Phil,Dawson,K,PK,ST,91.0,80.0,80.0,78.0,
 Bruce,Ellington,WR,WR,O,68.0,69.0,71.0,77.0,
 Dontae,Johnson,CB,DB,D,74.0,75.0,69.0,73.0,
 Marcus,Martin,C,OL,O,72.0,65.0,68.0,65.0,
@@ -2132,7 +2132,7 @@ Earl,Mitchell,DT,DL,D,80.0,74.0,72.0,73.0,
 Sammy,Seamster,CB,DB,D,65.0,65.0,64.0,67.0,
 Derrick,Shelby,LE,DL,D,76.0,72.0,75.0,74.0,
 Dion,Sims,TE,TE,O,77.0,75.0,78.0,77.0,
-Caleb,Sturgis,K,K,ST,76.0,76.0,80.0,78.0,
+Caleb,Sturgis,K,PK,ST,76.0,76.0,80.0,78.0,
 Zach,Vigil,LOLB,LB,D,62.0,59.0,62.0,71.0,
 Cameron,Wake,LE,DL,D,94.0,89.0,89.0,89.0,
 Sam,Bradford,QB,QB,O,79.0,78.0,83.0,79.0,
@@ -2140,10 +2140,10 @@ Josh,Huff,WR,WR,O,72.0,70.0,71.0,71.0,
 Bennie,Logan,DT,DL,D,80.0,78.0,78.0,79.0,
 Chris,Maragos,FS,DB,D,74.0,73.0,70.0,68.0,
 Byron,Maxwell,CB,DB,D,84.0,76.0,85.0,76.0,
-Cody,Parkey,K,K,ST,80.0,75.0,74.0,76.0,
+Cody,Parkey,K,PK,ST,80.0,75.0,74.0,76.0,
 Darren,Sproles,HB,RB,O,82.0,81.0,83.0,83.0,
 Matt,Tobin,RG,OL,O,72.0,71.0,73.0,67.0,
-Matt,Bryant,K,K,ST,91.0,81.0,85.0,85.0,
+Matt,Bryant,K,PK,ST,91.0,81.0,85.0,85.0,
 Freddie,Martino,WR,WR,O,61.0,58.0,62.0,64.0,
 Bernard,Reedy,WR,WR,O,62.0,59.0,60.0,63.0,
 Ryan,Schraeder,RT,OL,O,80.0,85.0,87.0,83.0,
@@ -2242,7 +2242,7 @@ Albert,McClellan,MLB,LB,D,69.0,70.0,70.0,73.0,
 Brynden,Trawick,SS,DB,D,65.0,63.0,68.0,66.0,
 Chris,Baker,DT,DL,D,77.0,81.0,84.0,76.0,
 Will,Compton,MLB,LB,D,70.0,70.0,75.0,72.0,
-Kai,Forbath,K,K,ST,78.0,75.0,77.0,78.0,
+Kai,Forbath,K,PK,ST,78.0,75.0,77.0,78.0,
 Pierre,Garcon,WR,WR,O,83.0,81.0,85.0,86.0,
 Matt,Jones,HB,RB,O,71.0,77.0,69.0,66.0,
 Arie,Kouandjio,LG,OL,O,62.0,62.0,63.0,68.0,
@@ -2342,7 +2342,7 @@ N'Keal,Harry,WR,WR,O,,,,,74.0
 John,Ross III,WR,WR,O,,,,,74.0
 Josh,Jacobs,HB,RB,O,,,,,74.0
 Jeffery,Simmons Jr,LE,DL,D,,,,,74.0
-Brett,Maher,K,K,ST,,,,,74.0
+Brett,Maher,K,PK,ST,,,,,74.0
 John,Simon,LE,DL,D,,,,,74.0
 Tre'Quan,Smith,WR,WR,O,,,,,74.0
 Jerry,Tillery,DT,DL,D,,,,,74.0
@@ -2377,7 +2377,7 @@ Jonah,Williams,LT,OL,O,,,,,72.0
 Nasir,Adderley,FS,DB,D,,,,,71.0
 Dorance,Armstrong,LE,DL,D,,,,,71.0
 Dan,Arnold,TE,TE,O,,,,,71.0
-Michael,Badgley,K,K,ST,,,,,71.0
+Michael,Badgley,K,PK,ST,,,,,71.0
 DeAndre,Baker,CB,DB,D,,,,,71.0
 Miles,Boykin,WR,WR,O,,,,,71.0
 Parris,Campbell,WR,WR,O,,,,,71.0
@@ -2394,7 +2394,7 @@ Mo,Alie-Cox,TE,TE,O,,,,,70.0
 Andre,Dillard,LT,OL,O,,,,,70.0
 Jaylon,Ferguson,ROLB,LB,D,,,,,70.0
 Chauncey,Gardner-Johnson,FS,DB,D,,,,,70.0
-Matt,Gay,K,K,ST,,,,,70.0
+Matt,Gay,K,PK,ST,,,,,70.0
 Mecole,Hardman,WR,WR,O,,,,,70.0
 Justice,Hill,HB,RB,O,,,,,70.0
 Chris,Lindstrom,RG,OL,O,,,,,70.0
@@ -2417,7 +2417,7 @@ Elgton,Jenkins,RG,OL,O,,,,,69.0
 Gary,Jennings,WR,WR,O,,,,,69.0
 Diontae,Johnson,WR,WR,O,,,,,69.0
 Cameron,Johnston,P,P,ST,,,,,69.0
-Greg,Joseph,K,K,ST,,,,,69.0
+Greg,Joseph,K,PK,ST,,,,,69.0
 Benny,Snell Jr,HB,RB,O,,,,,69.0
 Keith,Kirkwood,WR,WR,O,,,,,69.0
 Jake,Kumerow,WR,WR,O,,,,,69.0
@@ -2454,7 +2454,7 @@ Nick,Mullens,QB,QB,O,,,,,68.0
 George,Odum,SS,DB,D,,,,,68.0
 Amani,Oruwariye,CB,DB,D,,,,,68.0
 Zach,Pascal,WR,WR,O,,,,,68.0
-Eddy,Pineiro,K,K,ST,,,,,68.0
+Eddy,Pineiro,K,PK,ST,,,,,68.0
 Tony,Pollard,HB,RB,O,,,,,68.0
 Germaine,Pratt,MLB,LB,D,,,,,68.0
 Taylor,Rapp,SS,DB,D,,,,,68.0
@@ -2500,7 +2500,7 @@ Corey,Ballentine,CB,DB,D,,,,,66.0
 Cameron,Batson,WR,WR,O,,,,,66.0
 Sam,Beal,CB,DB,D,,,,,66.0
 Billy,Brown,TE,TE,O,,,,,66.0
-Jonathan,Brown,K,K,ST,,,,,66.0
+Jonathan,Brown,K,PK,ST,,,,,66.0
 Austin,Bryant,LE,DL,D,,,,,66.0
 River,Cracraft,WR,WR,O,,,,,66.0
 Keionta,Davis,RE,DL,D,,,,,66.0
@@ -2523,7 +2523,7 @@ Anthony,Nelson,LOLB,LB,D,,,,,66.0
 Bobby,Okereke,MLB,LB,D,,,,,66.0
 Byron,Pringle,WR,WR,O,,,,,66.0
 Sheldrick,Redwine,FS,DB,D,,,,,66.0
-Austin,Seibert,K,K,ST,,,,,66.0
+Austin,Seibert,K,PK,ST,,,,,66.0
 Sutton,Smith,ROLB,LB,D,,,,,66.0
 Bradley,Sowell,TE,TE,O,,,,,66.0
 Tyrone,Swoopes,TE,TE,O,,,,,66.0
@@ -2958,7 +2958,7 @@ Matt,Haack,P,P,ST,,,,80.0,77.0
 Denzel,Ward,CB,DB,D,,,,80.0,88.0
 Derwin,James,SS,DB,D,,,,80.0,86.0
 Minkah,Fitzpatrick,CB,DB,D,,,,79.0,80.0
-Stephen,Hauschka,K,K,ST,,,,79.0,77.0
+Stephen,Hauschka,K,PK,ST,,,,79.0,77.0
 Lamar,Jackson,QB,QB,O,,,,79.0,76.0
 Keelan,Cole,WR,WR,O,,,,79.0,77.0
 Vita,Vea,DT,DL,D,,,,79.0,80.0
@@ -2980,7 +2980,7 @@ Leighton,Vander Esch,LOLB,LB,D,,,,77.0,86.0
 Dallas,Goedert,TE,TE,O,,,,77.0,80.0
 Jaire,Alexander,CB,DB,D,,,,77.0,83.0
 Da'Ron,Payne,DT,DL,D,,,,77.0,83.0
-Daniel,Carlson,K,K,ST,,,,77.0,69.0
+Daniel,Carlson,K,PK,ST,,,,77.0,69.0
 D.J.,Moore,WR,WR,O,,,,77.0,81.0
 Ronald,Jones II,HB,RB,O,,,,77.0,68.0
 Calvin,Ridley,WR,WR,O,,,,77.0,79.0
@@ -3020,7 +3020,7 @@ Vernon,Butler Jr,DT,DL,D,,,,74.0,69.0
 James,Daniels,C,OL,O,,,,74.0,77.0
 Donte,Jackson,CB,DB,D,,,,74.0,80.0
 Anthony,Miller,WR,WR,O,,,,74.0,75.0
-Jason,Sanders,K,K,ST,,,,73.0,73.0
+Jason,Sanders,K,PK,ST,,,,73.0,73.0
 Adam,Butler,DT,DL,D,,,,73.0,69.0
 Royce,Freeman,HB,RB,O,,,,73.0,75.0
 P.J.,Hall,DT,DL,D,,,,73.0,71.0
@@ -3047,7 +3047,7 @@ Mitchell,Loewen,DT,DL,D,,,,72.0,66.0
 Boston,Scott,HB,RB,O,,,,72.0,68.0
 Ito,Smith,HB,RB,O,,,,72.0,76.0
 Tre'quan,Smith,WR,WR,O,,,,72.0,74.0
-Sam,Ficken,K,K,ST,,,,72.0,63.0
+Sam,Ficken,K,PK,ST,,,,72.0,63.0
 Shaquem,Griffin,ROLB,LB,D,,,,72.0,69.0
 Kalen,Ballage,HB,RB,O,,,,71.0,70.0
 Harrison,Phillips,DT,DL,D,,,,71.0,74.0
@@ -3412,7 +3412,7 @@ Antone,Exum Jr,FS,DB,D,,,71.0,68.0,68.0
 Antone,Exum Jr.,SS,DB,D,71.0,72.0,71.0,68.0,68.0
 Matt,Wile,P,P,ST,,,70.0,71.0,73.0
 Dillon,Gordon,LT,OL,O,,,64.0,65.0,58.0
-Wil,Lutz,K,K,ST,,,79.0,79.0,77.0
+Wil,Lutz,K,PK,ST,,,79.0,79.0,77.0
 Mario,Edwards Jr,RE,DL,D,,,76.0,80.0,70.0
 Mario,Edwards Jr.,RE,DL,D,71.0,78.0,76.0,80.0,70.0
 Dede,Westbrook,WR,WR,O,,,75.0,80.0,79.0
@@ -3423,7 +3423,7 @@ David,Morgan II,TE,TE,O,,,67.0,73.0,71.0
 Jason,Croom,TE,TE,O,,,66.0,67.0,73.0
 Thomas,Davis Sr,ROLB,LB,D,,,87.0,83.0,79.0
 Thomas,Davis Sr.,ROLB,LB,D,,88.0,87.0,83.0,79.0
-Aldrick,Rosas,K,K,ST,,,71.0,75.0,84.0
+Aldrick,Rosas,K,PK,ST,,,71.0,75.0,84.0
 Travin,Dural,WR,WR,O,,,63.0,61.0,59.0
 Damiere,Byrd,WR,WR,O,,,58.0,72.0,71.0
 Ty,Montgomery,HB,RB,O,,,83.0,81.0,74.0
@@ -3450,10 +3450,10 @@ Chris,Carson,HB,RB,O,,,66.0,75.0,87.0
 Ricky,Seals-Jones,TE,TE,O,,,64.0,75.0,76.0
 Tim,White,WR,WR,O,,,57.0,55.0,64.0
 Dalvin,Cook,HB,RB,O,,,80.0,85.0,85.0
-Jake,Elliott,K,K,ST,,,75.0,81.0,74.0
+Jake,Elliott,K,PK,ST,,,75.0,81.0,74.0
 T.J.,Watt,ROLB,LB,D,,,74.0,80.0,82.0
 Donnel,Pumphrey Jr,HB,RB,O,,,73.0,75.0,68.0
-Zane,Gonzalez,K,K,ST,,,73.0,75.0,64.0
+Zane,Gonzalez,K,PK,ST,,,73.0,75.0,64.0
 Samaje,Perine,HB,RB,O,,,72.0,76.0,71.0
 Tedric,Thompson,FS,DB,D,,,72.0,70.0,74.0
 Jamaal,Williams,HB,RB,O,,,72.0,75.0,76.0
@@ -3492,7 +3492,7 @@ Marcus,Maye,SS,DB,D,,,74.0,78.0,78.0
 Quincy,Wilson,CB,DB,D,,,74.0,72.0,74.0
 Justin,Evans,FS,DB,D,,,73.0,71.0,75.0
 Josh,Reynolds,WR,WR,O,,,72.0,73.0,75.0
-Harrison,Butker,K,K,ST,,,72.0,80.0,79.0
+Harrison,Butker,K,PK,ST,,,72.0,80.0,79.0
 D'Onta,Foreman,HB,RB,O,,,71.0,75.0,73.0
 Cre'Von,LeBlanc,CB,DB,D,,,71.0,75.0,73.0
 Jordan,Dangerfield,FS,DB,D,,,70.0,71.0,67.0
@@ -3738,7 +3738,7 @@ Jon,Halapio,LG,OL,O,63.0,,62.0,62.0,66.0
 Jamil,Douglas,LG,OL,O,70.0,,65.0,66.0,59.0
 Garrett,Gilbert,QB,QB,O,65.0,,59.0,58.0,48.0
 Nick,Foles,QB,QB,O,78.0,,71.0,80.0,77.0
-Randy,Bullock,K,K,ST,80.0,,74.0,76.0,73.0
+Randy,Bullock,K,PK,ST,80.0,,74.0,76.0,73.0
 David,Quessenberry,RG,OL,O,73.0,,66.0,66.0,60.0
 Justin,McCray,LG,OL,O,69.0,,67.0,67.0,61.0
 Brandon,Graham,RE,DL,D,,92.0,95.0,93.0,89.0
@@ -3760,7 +3760,7 @@ Hunter,Henry,TE,TE,O,,78.0,82.0,88.0,86.0
 Laremy,Tunsil,LG,OL,O,,78.0,78.0,77.0,84.0
 Vernon,Hargreaves III,CB,DB,D,,77.0,75.0,77.0,74.0
 Keanu,Neal,SS,DB,D,,77.0,83.0,89.0,88.0
-Jason,Myers,K,K,ST,,77.0,78.0,76.0,77.0
+Jason,Myers,K,PK,ST,,77.0,78.0,76.0,77.0
 Jared,Goff,QB,QB,O,,77.0,73.0,83.0,83.0
 Josh,Doctson,WR,WR,O,,77.0,75.0,78.0,77.0
 Sheldon,Rankins,DT,DL,D,,77.0,78.0,80.0,83.0
@@ -3813,7 +3813,7 @@ Cyrus,Jones,CB,DB,D,,71.0,69.0,71.0,67.0
 Jihad,Ward,LE,DL,D,,71.0,72.0,67.0,63.0
 Vonn,Bell,FS,DB,D,,71.0,74.0,74.0,76.0
 Sean,Davis,SS,DB,D,,71.0,73.0,73.0,72.0
-Ka'imi,Fairbairn,K,K,ST,,71.0,71.0,73.0,74.0
+Ka'imi,Fairbairn,K,PK,ST,,71.0,71.0,73.0,74.0
 Braxton,Miller,WR,WR,O,,71.0,73.0,73.0,70.0
 Kevin,Byard,SS,DB,D,,71.0,76.0,89.0,89.0
 Tyler,Boyd,WR,WR,O,,70.0,74.0,74.0,83.0
@@ -4039,7 +4039,7 @@ Brandon,Dunn,LE,DL,D,61.0,68.0,68.0,71.0,68.0
 Mason,Foster,MLB,LB,D,76.0,72.0,83.0,74.0,77.0
 Kyle,Fuller,CB,DB,D,78.0,80.0,80.0,80.0,89.0
 Eddie,Goldman,DT,DL,D,70.0,76.0,81.0,78.0,85.0
-Robbie,Gould,K,K,ST,88.0,79.0,76.0,85.0,85.0
+Robbie,Gould,K,PK,ST,88.0,79.0,76.0,85.0,85.0
 Hroniss,Grasu,C,OL,O,69.0,68.0,69.0,64.0,58.0
 Ryan,Groy,LG,OL,O,71.0,64.0,72.0,69.0,61.0
 Alshon,Jeffery,WR,WR,O,90.0,91.0,87.0,90.0,87.0
@@ -4111,7 +4111,7 @@ Malik,Jackson,RE,DL,D,84.0,86.0,83.0,85.0,80.0
 Darius,Kilgo,DT,DL,D,62.0,61.0,62.0,69.0,62.0
 Cody,Latimer,WR,WR,O,73.0,68.0,68.0,72.0,73.0
 Brandon,Marshall,MLB,LB,D,84.0,90.0,86.0,77.0,75.0
-Brandon,McManus,K,K,ST,72.0,82.0,80.0,80.0,76.0
+Brandon,McManus,K,PK,ST,72.0,82.0,80.0,80.0,76.0
 Von,Miller,LOLB,LB,D,97.0,99.0,99.0,99.0,97.0
 Corey,Nelson,MLB,LB,D,60.0,61.0,66.0,70.0,65.0
 Matt,Paradis,C,OL,O,63.0,71.0,88.0,81.0,88.0
@@ -4165,7 +4165,7 @@ Justin,Bethel,CB,DB,D,72.0,74.0,72.0,74.0,67.0
 Jaron,Brown,WR,WR,O,74.0,72.0,74.0,78.0,73.0
 John,Brown,WR,WR,O,79.0,86.0,84.0,79.0,79.0
 Calais,Campbell,LE,DL,D,95.0,88.0,91.0,92.0,92.0
-Chandler,Catanzaro,K,K,ST,83.0,80.0,76.0,77.0,67.0
+Chandler,Catanzaro,K,PK,ST,83.0,80.0,76.0,77.0,67.0
 Darren,Fells,TE,TE,O,73.0,73.0,74.0,77.0,75.0
 Larry,Fitzgerald,WR,WR,O,87.0,91.0,90.0,89.0,84.0
 Rodney,Gunter,LE,DL,D,59.0,66.0,65.0,70.0,69.0
@@ -4186,7 +4186,7 @@ Jahleel,Addae,SS,DB,D,77.0,74.0,83.0,82.0,76.0
 Keenan,Allen,WR,WR,O,86.0,88.0,89.0,92.0,89.0
 Jeremiah,Attaochu,ROLB,LB,D,73.0,81.0,80.0,73.0,70.0
 D.J.,Fluker,RT,OL,O,81.0,74.0,75.0,72.0,81.0
-Josh,Lambo,K,K,ST,59.0,76.0,76.0,78.0,79.0
+Josh,Lambo,K,PK,ST,59.0,76.0,76.0,78.0,79.0
 Denzel,Perryman,MLB,LB,D,70.0,76.0,76.0,78.0,74.0
 Adrian,Phillips,SS,DB,D,63.0,67.0,67.0,74.0,77.0
 Darius,Philon,LE,DL,D,63.0,65.0,66.0,72.0,70.0
@@ -4215,7 +4215,7 @@ Rakeem,Nunez-Roches,RE,DL,D,64.0,60.0,65.0,71.0,65.0
 James,O'Shaughnessy,TE,TE,O,65.0,68.0,67.0,72.0,75.0
 Marcus,Peters,CB,DB,D,74.0,82.0,88.0,87.0,82.0
 Dontari,Poe,DT,DL,D,87.0,85.0,79.0,83.0,78.0
-Cairo,Santos,K,K,ST,72.0,76.0,79.0,78.0,68.0
+Cairo,Santos,K,PK,ST,72.0,76.0,79.0,78.0,68.0
 Anthony,Sherman,FB,RB,O,95.0,81.0,70.0,75.0,77.0
 Alex,Smith,QB,QB,O,84.0,82.0,81.0,84.0,77.0
 Daniel,Sorensen,FS,DB,D,64.0,69.0,75.0,73.0,70.0
@@ -4239,8 +4239,8 @@ Zach,Kerr,RE,DL,D,69.0,73.0,71.0,71.0,68.0
 Andrew,Luck,QB,QB,O,94.0,88.0,90.0,87.0,92.0
 Donte,Moncrief,WR,WR,O,76.0,78.0,80.0,79.0,75.0
 David,Parry,DT,DL,D,67.0,68.0,70.0,72.0,65.0
-Adam,Vinatieri,K,K,ST,90.0,84.0,84.0,84.0,78.0
-Dan,Bailey,K,K,ST,93.0,85.0,84.0,80.0,73.0
+Adam,Vinatieri,K,PK,ST,90.0,84.0,84.0,84.0,78.0
+Dan,Bailey,K,PK,ST,93.0,85.0,84.0,80.0,73.0
 Cole,Beasley,WR,WR,O,77.0,77.0,81.0,81.0,83.0
 Brandon,Carr,CB,DB,D,80.0,76.0,79.0,80.0,81.0
 La'el,Collins,LG,OL,O,72.0,78.0,79.0,72.0,76.0
@@ -4323,7 +4323,7 @@ Levine,Toilolo,TE,TE,O,75.0,71.0,70.0,73.0,71.0
 Desmond,Trufant,CB,DB,D,90.0,90.0,89.0,93.0,88.0
 Paul,Worrilow,MLB,LB,D,77.0,74.0,75.0,72.0,70.0
 Prince,Amukamara,CB,DB,D,86.0,83.0,81.0,79.0,81.0
-Chris,Boswell,K,K,ST,52.0,77.0,82.0,79.0,69.0
+Chris,Boswell,K,PK,ST,52.0,77.0,82.0,79.0,69.0
 Landon,Collins,SS,DB,D,74.0,75.0,92.0,88.0,83.0
 Geremy,Davis,WR,WR,O,66.0,64.0,64.0,64.0,65.0
 Zak,DeOssie,TE,TE,O,62.0,55.0,55.0,52.0,51.0
@@ -4375,7 +4375,7 @@ Nevin,Lawson,CB,DB,D,72.0,70.0,80.0,74.0,75.0
 Cornelius,Lucas,LT,OL,O,65.0,70.0,69.0,67.0,56.0
 Sam,Martin,P,P,ST,91.0,80.0,81.0,80.0,75.0
 Don,Muhlbach,TE,TE,O,59.0,50.0,49.0,56.0,57.0
-Matt,Prater,K,K,ST,85.0,81.0,83.0,82.0,78.0
+Matt,Prater,K,PK,ST,85.0,81.0,83.0,82.0,78.0
 Riley,Reiff,LT,OL,O,82.0,83.0,71.0,77.0,67.0
 Theo,Riddick,HB,RB,O,75.0,81.0,82.0,84.0,77.0
 Matthew,Stafford,QB,QB,O,84.0,85.0,87.0,85.0,79.0
@@ -4393,7 +4393,7 @@ Chris,Banjo,SS,DB,D,69.0,72.0,66.0,68.0,65.0
 Bryan,Bulaga,RT,OL,O,87.0,79.0,86.0,81.0,85.0
 Morgan,Burnett,SS,DB,D,86.0,85.0,86.0,84.0,74.0
 Randall,Cobb,WR,WR,O,91.0,86.0,87.0,83.0,80.0
-Mason,Crosby,K,K,ST,84.0,81.0,77.0,77.0,74.0
+Mason,Crosby,K,PK,ST,84.0,81.0,77.0,77.0,74.0
 Mike,Daniels,RE,DL,D,89.0,92.0,87.0,91.0,87.0
 Jayrone,Elliott,LOLB,LB,D,68.0,68.0,69.0,71.0,67.0
 Brett,Hundley,QB,QB,O,70.0,70.0,69.0,70.0,65.0
@@ -4413,7 +4413,7 @@ Jeremy,Vujnovich,LT,OL,O,60.0,63.0,64.0,66.0,60.0
 Cameron,Artis-Payne,HB,RB,O,69.0,70.0,68.0,69.0,67.0
 Ed,Dickson,TE,TE,O,76.0,72.0,70.0,77.0,76.0
 Devin,Funchess,WR,WR,O,72.0,74.0,76.0,82.0,80.0
-Graham,Gano,K,K,ST,87.0,85.0,76.0,80.0,79.0
+Graham,Gano,K,PK,ST,87.0,85.0,76.0,80.0,79.0
 Wes,Horton,RE,DL,D,74.0,70.0,72.0,73.0,70.0
 J.J.,Jansen,TE,TE,O,51.0,44.0,44.0,47.0,47.0
 Colin,Jones,FS,DB,D,72.0,69.0,65.0,71.0,69.0
@@ -4448,7 +4448,7 @@ Julian,Edelman,WR,WR,O,89.0,89.0,89.0,88.0,89.0
 Cameron,Fleming,RT,OL,O,72.0,69.0,71.0,68.0,66.0
 Trey,Flowers,LE,DL,D,72.0,68.0,82.0,86.0,87.0
 Jimmy,Garoppolo,QB,QB,O,73.0,72.0,77.0,83.0,78.0
-Stephen,Gostkowski,K,K,ST,95.0,85.0,76.0,83.0,80.0
+Stephen,Gostkowski,K,PK,ST,95.0,85.0,76.0,83.0,80.0
 Geneo,Grissom,RE,DL,D,63.0,63.0,63.0,68.0,62.0
 Duron,Harmon,FS,DB,D,73.0,75.0,77.0,80.0,75.0
 Dont'a,Hightower,ROLB,LB,D,93.0,90.0,89.0,84.0,83.0
@@ -4483,7 +4483,7 @@ Latavius,Murray,HB,RB,O,78.0,81.0,84.0,82.0,79.0
 Seth,Roberts,WR,WR,O,62.0,72.0,73.0,77.0,77.0
 Lee,Smith,TE,TE,O,77.0,75.0,74.0,71.0,75.0
 Malcolm,Smith,ROLB,LB,D,77.0,71.0,75.0,76.0,73.0
-Giorgio,Tavecchio,K,K,ST,65.0,67.0,66.0,76.0,71.0
+Giorgio,Tavecchio,K,PK,ST,65.0,67.0,66.0,76.0,71.0
 Neiko,Thorpe,CB,DB,D,64.0,68.0,64.0,68.0,64.0
 Clive,Walford,TE,TE,O,72.0,77.0,75.0,73.0,69.0
 Maurice,Alexander,SS,DB,D,66.0,69.0,84.0,76.0,66.0
@@ -4509,7 +4509,7 @@ Alec,Ogletree,LOLB,LB,D,81.0,79.0,77.0,74.0,70.0
 Brian,Quick,WR,WR,O,79.0,74.0,77.0,73.0,68.0
 Greg,Robinson,LT,OL,O,74.0,77.0,71.0,67.0,70.0
 Cody,Wichmann,LG,OL,O,64.0,64.0,69.0,65.0,59.0
-Greg,Zuerlein,K,K,ST,81.0,78.0,79.0,80.0,80.0
+Greg,Zuerlein,K,PK,ST,81.0,78.0,79.0,80.0,80.0
 Javorius,Allen,HB,RB,O,71.0,74.0,72.0,74.0,70.0
 Nick,Boyle,TE,TE,O,67.0,76.0,75.0,75.0,77.0
 Terrence,Brooks,FS,DB,D,72.0,72.0,70.0,76.0,69.0
@@ -4531,7 +4531,7 @@ Matt,Schaub,QB,QB,O,74.0,70.0,69.0,68.0,56.0
 Jimmy,Smith,CB,DB,D,88.0,81.0,86.0,89.0,84.0
 Za'Darius,Smith,ROLB,LB,D,61.0,65.0,71.0,74.0,83.0
 Terrell,Suggs,ROLB,LB,D,93.0,90.0,86.0,86.0,83.0
-Justin,Tucker,K,K,ST,95.0,83.0,87.0,86.0,87.0
+Justin,Tucker,K,PK,ST,95.0,83.0,87.0,86.0,87.0
 Brent,Urban,RE,DL,D,66.0,64.0,69.0,72.0,70.0
 Rick,Wagner,RT,OL,O,86.0,76.0,83.0,85.0,77.0
 Brandon,Williams,DT,DL,D,85.0,84.0,82.0,89.0,86.0
@@ -4565,7 +4565,7 @@ Tyeler,Davison,LE,DL,D,64.0,68.0,72.0,81.0,75.0
 Ryan,Griffin,QB,QB,O,65.0,62.0,61.0,61.0,54.0
 Akiem,Hicks,LE,DL,D,81.0,78.0,83.0,86.0,87.0
 Josh,Hill,TE,TE,O,78.0,78.0,74.0,81.0,78.0
-Dustin,Hopkins,K,K,ST,66.0,77.0,74.0,76.0,75.0
+Dustin,Hopkins,K,PK,ST,66.0,77.0,74.0,76.0,75.0
 John,Jenkins,DT,DL,D,75.0,78.0,65.0,72.0,67.0
 Cameron,Jordan,RE,DL,D,87.0,90.0,92.0,95.0,91.0
 Senio,Kelemete,LG,OL,O,71.0,71.0,69.0,72.0,70.0
@@ -4639,7 +4639,7 @@ Taylor,Lewan,LT,OL,O,81.0,83.0,88.0,85.0,81.0
 Marcus,Mariota,QB,QB,O,78.0,79.0,80.0,79.0,79.0
 Jason,McCourty,CB,DB,D,86.0,80.0,81.0,87.0,85.0
 Quinton,Spain,RG,OL,O,66.0,68.0,81.0,75.0,78.0
-Ryan,Succop,K,K,ST,79.0,81.0,82.0,77.0,74.0
+Ryan,Succop,K,PK,ST,79.0,81.0,82.0,77.0,74.0
 Delanie,Walker,TE,TE,O,87.0,93.0,93.0,93.0,92.0
 Avery,Williamson,MLB,LB,D,77.0,78.0,79.0,83.0,85.0
 Al,Woods,DT,DL,D,76.0,74.0,74.0,83.0,77.0

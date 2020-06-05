@@ -22,3 +22,17 @@ def return_college_matching_dict():
     f = open(os.path.join(one_up, "school_mapping", "school_mapping.csv"), encoding='utf-8-sig')
     data = {row["title"]: row["value"] for row in csv.DictReader(f, ("title", "value"))}
     return data
+
+
+def return_id_df():
+    local_path = os.path.dirname(os.path.abspath(__file__))
+    f = open(os.path.join(local_path, "stage_to_warehouse", "college_players_build.json"))
+    data = json.load(f)
+    one_up = os.path.abspath(os.path.join(local_path, ".."))
+    source_dir = os.path.join(one_up, data['source'])  # should work in both mac and windows
+    source = os.path.join(source_dir, data['folder'], data['file'])
+    df = pd.read_csv(source)
+    df['position_group'] = df['position'].map(return_matching_dict()['position_groups'])
+    df.rename(columns={'school': 'college'}, inplace=True)
+    df = df[['id', 'last_name', 'college', 'position_group']]
+    return df

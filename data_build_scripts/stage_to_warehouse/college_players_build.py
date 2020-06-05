@@ -13,7 +13,6 @@ def main():
     local_path = os.path.dirname(os.path.abspath(__file__))
     f = open(os.path.join(local_path, "college_players_build.json"))
     data = json.load(f)
-    print('got here')
     hlp.return_college_matching_dict()
 
     matching = hlp.return_matching_dict()
@@ -29,7 +28,8 @@ def main():
     df['section'] = df['position_group'].map(matching['section'])
     df.rename(columns=data['column_rename'], inplace=True)
 
-    df = df[data['column_order']]
+
+
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)

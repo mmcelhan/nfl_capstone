@@ -20,8 +20,11 @@ def main():
 
     source_dir = os.path.join(two_up, data['source'])  # should work in both mac and windows
     target_dir = os.path.join(two_up, data['target'])
+    target_folder = os.path.join(target_dir, data['output_folder'])
     source = os.path.join(source_dir, data['folder'], data['file'])
     df = pd.read_csv(source)
+
+    df['college'] = df['college'].map(hlp.return_college_matching_dict())
 
     df['first_name'] = df['player'].str.split(' ').str[0]
     df['last_name'] = df['player'].str.split(' ').str[1]
@@ -29,12 +32,13 @@ def main():
     df['section'] = df['position_group'].map(matching['section'])
     df.rename(columns=data['column_rename'], inplace=True)
 
+    espn_id_df = hlp.return_id_df()
+    df = pd.merge(df, espn_id_df, left_on=['last_name', 'college', 'position_group'],
+                  right_on=['last_name', 'college', 'position_group'], how='left')
     df = df[data['column_order']]
 
-    target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)
     target = os.path.join(target_folder, data['output_file'])
     df.to_csv(target, index=False)
-
 
 main()

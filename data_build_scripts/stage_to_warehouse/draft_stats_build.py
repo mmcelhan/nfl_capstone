@@ -22,6 +22,7 @@ def main():
     target_dir = os.path.join(two_up, data['target'])
     source = os.path.join(source_dir, data['folder'], data['file'])
     df = pd.read_csv(source)
+    df['college'] = df['college'].map(hlp.return_college_matching_dict())
     df['first_name'] = df['player'].str.split(' ').str[0]
     df['last_name'] = df['player'].str.split(' ').str[1]
     df['position_group'] = df['pos'].map(matching['position_groups'])
@@ -30,6 +31,12 @@ def main():
     df['position_group_rank'] = df.groupby(['year', 'position_group'])['pick'].rank(method='first')
     df['section_rank'] = df.groupby(['year', 'section'])['pick'].rank(method='first')
     df.rename(columns=data['column_rename'], inplace=True)
+
+    espn_id_df = hlp.return_id_df()
+    df = pd.merge(df, espn_id_df, left_on=['last_name', 'college', 'position_group'],
+                  right_on=['last_name', 'college', 'position_group'], how='left')
+
+    df = df[data['column_order']]
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)
