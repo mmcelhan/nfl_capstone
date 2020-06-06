@@ -9,7 +9,7 @@ import data_build_scripts.helpers as hlp
 
 
 def main():
-
+    print("got to main")
     local_path = os.path.dirname(os.path.abspath(__file__))
     f = open(os.path.join(local_path, "madden_build.json"))
     data = json.load(f)
@@ -85,6 +85,3 @@ def add_id():
     df.to_csv(target, index=False)
 
 
-
-#main()
-add_id()

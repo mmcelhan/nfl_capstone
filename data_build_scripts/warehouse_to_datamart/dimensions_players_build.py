@@ -19,21 +19,30 @@ def main():
     source_dir = os.path.join(two_up, data['source'])  # should work in both mac and windows
     target_dir = os.path.join(two_up, data['target'])
     source = os.path.join(source_dir, data['draft']['folder'], data['draft']['file'])
+
     df = pd.read_csv(source)
-    print(len(df['college']))
+    print(len(df['id']))
     source = os.path.join(source_dir, data['college_players']['folder'], data['college_players']['file'])
 
-    df2 = pd.read_csv(source)
+    df_players = pd.read_csv(source)
+    df_players = df_players[data['college_players_keep']]
 
     print("before merge")
 
-    df = cm.fuzzy_merge(df, df2, ['full_name', 'position_group', 'college'],
-                          ['full_name', 'position_group', 'college'], threshold=95, limit=1)  # inner join
+    df = pd.merge(df, df_players, left_on=['id'], right_on=['id'], how='left')  # inner join
+
+    print(len(df["id"]))
 
     print("after merge")
-    print(df)
 
+    source_dir = os.path.join(two_up, data['source'])  # should work in both mac and windows
+    source = os.path.join(source_dir, data['draft']['folder'], data['combine_stats']['file'])
 
+    df_combine = pd.read_csv(source)
+    df_combine = df_combine[data['combine_stats_keep']]
+    #df = pd.merge(df, df_combine, left_on=['id'], right_on=['id'], how='left')
+    print("post combine merge")
+    print(len(df["id"]))
 
     df.rename(columns=data['column_rename'], inplace=True)
 

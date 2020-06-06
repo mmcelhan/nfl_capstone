@@ -2,11 +2,18 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
+madden = 0
+
 import college_stats_build
 import combine_stats_build
 import college_players_build
 import draft_stats_build
-import madden_build
+
+if madden:
+    from madden_build import main as madden_main
+    madden_main()
+    from madden_build import add_id
+    add_in()
 
 
 

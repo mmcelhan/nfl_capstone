@@ -8,7 +8,8 @@
   "draft": {"folder": "statistics_wh", "file": "draft.csv"},
   "madden_ratings": {"folder": "statistics_wh", "file": "madden_ratings.csv"},
   "college_players": {"folder": "players_wh", "file": "college_players.csv"},
-
+  "college_players_keep": ["id", "home_city", "home_state", "home_country"],
+  "combine_stats_keep": ["id", "weight", "height_inches"],
   "column_rename":
   {
     "id": "espn_id",
