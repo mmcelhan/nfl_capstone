@@ -33,6 +33,10 @@ def fuzzy_merge(df_1, df_2, key1, key2, threshold=80, limit=1):
     for value in key2:
         df_2['match_key'] = df_2['match_key'].map(str) + ' ' + df_2[value].map(str)
 
+    # remove periods for abreviated names
+    df_1['match_key'] = df_1['match_key'].map(lambda x: x.strip(".,!"))
+    df_2['match_key'] = df_2['match_key'].map(lambda x: x.strip(".,!"))
+
     # applies lower case and removes common words like "college" and "the"
     df_1['match_key'] = df_1['match_key'].apply(format_match_string)
     df_2['match_key'] = df_2['match_key'].apply(format_match_string)

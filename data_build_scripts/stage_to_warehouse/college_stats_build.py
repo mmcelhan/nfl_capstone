@@ -35,6 +35,11 @@ def main():
     espn_id_df = hlp.return_id_df()
     df = pd.merge(df, espn_id_df, left_on=['last_name', 'college', 'position_group'],
                   right_on=['last_name', 'college', 'position_group'], how='left')
+
+    master_df = hlp.return_fms_id_df()
+    df = pd.merge(df, master_df, left_on=['first_name', 'last_name', 'college', 'position_group'],
+                  right_on=['first_name', 'last_name', 'college', 'position_group'], how='left')
+
     df = df[data['column_order']]
 
     hlp.make_folder_if_not_exists(target_folder)

@@ -1,0 +1,23 @@
+{
+  "source": "data_mart",
+  "target": "data_mart",
+  "output_folder": "",
+  "output_file": "reporting_rb.csv",
+  "datamart_folder": "data_mart",
+  "dimension_players": {"folder":"data_mart", "file": "dimensions_players.csv"},
+  "facts_player_metrics": {"folder":"data_mart", "file": "facts_player_metrics.csv"},
+  "column_order":
+        ["fms_id", "espn_id", "full_name", "first_name", "last_name", "position",
+       "position_group", "section", "college", "draft_year",
+       "selection_number", "position_rank", "position_group_rank",
+       "section_rank", "drafting_team", "home_city", "home_state",
+       "home_country", "college_weight_pounds", "college_height_inches",
+        "forty", "vertical", "bench", "broad", "threecone",
+       "shuttle", "rushing_games",
+       "rushing_rec_td", "rushing_rec_yards", "rushing_receptions",
+       "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds",
+       "rushing_scrim_plays", "rushing_scrim_tds", "rushing_scrim_yds",
+       "rushing_seasons", "max_madden"
+        ]
+
+}

@@ -1,0 +1,44 @@
+{
+  "source": "data_warehouse",
+  "target": "data_mart",
+  "output_folder": "",
+  "output_file": "facts_player_metrics.csv",
+  "datamart_folder": "data_mart",
+  "dimension_players": {"folder":"data_mart", "file": "dimensions_players.csv"},
+  "college_stats": {"folder": "statistics_wh", "file": "college_stats.csv"},
+  "combine_stats": {"folder": "statistics_wh", "file": "combine_stats.csv"},
+  "draft": {"folder": "statistics_wh", "file": "draft.csv"},
+  "madden_ratings": {"folder": "statistics_wh", "file": "madden_ratings.csv"},
+  "college_players": {"folder": "players_wh", "file": "college_players.csv"},
+  "college_players_keep": ["espn_id", "home_city", "home_state", "home_country"],
+  "combine_stats_keep": ["fms_id", "weight", "height_inches"],
+  "madden_keep_pre": ["fms_id", "2016", "2017", "2018", "2019", "2020"],
+  "madden_keep_post": ["fms_id", "max_madden"],
+  "column_rename":
+  {
+    "id": "espn_id",
+    "weight": "college_weight_pounds",
+    "height_inches": "college_height_inches"
+  },
+  "column_order":
+        [
+          "fms_id", "max_madden", "forty", "vertical",
+       "bench", "broad", "threecone", "shuttle", "defense_ast_tackles",
+       "defense_fum_forced", "defense_fum_rec", "defense_fum_tds",
+       "defense_fum_yds", "defense_games", "defense_int", "defense_int_td",
+       "defense_int_yards", "defense_loss_tackles", "defense_pd",
+       "defense_sacks", "defense_seasons", "defense_solo_tackes",
+       "defense_tackles", "passing_attempts", "passing_comp_pct",
+       "passing_completions", "passing_games", "passing_pass_ints",
+       "passing_pass_tds", "passing_pass_yards", "passing_seasons",
+       "rushing_games", "rushing_rec_td", "rushing_rec_yards",
+       "rushing_receptions", "rushing_rush_att", "rushing_rush_td",
+       "rushing_rush_yds", "rushing_scrim_plays", "rushing_scrim_tds",
+       "rushing_scrim_yds", "rushing_seasons", "receiving_games",
+       "receiving_rec_td", "receiving_rec_yards", "receiving_receptions",
+       "receiving_rush_att", "receiving_rush_td", "receiving_rush_yds",
+       "receiving_scrim_plays", "receiving_scrim_tds", "receiving_scrim_yds",
+       "receiving_seasons"
+]
+
+}

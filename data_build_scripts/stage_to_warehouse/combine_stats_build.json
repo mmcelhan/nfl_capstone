@@ -12,6 +12,6 @@
     "pos": "position"
   },
   "column_order":
-        ["id" ,"full_name", "first_name", "last_name", "weight", "height_inches", "college", "draft_year",
+        ["fms_id", "espn_id" ,"full_name", "first_name", "last_name", "weight", "height_inches", "college", "draft_year",
           "position", "position_group", "section", "forty", "vertical", "bench", "broad", "threecone", "shuttle"]
 }

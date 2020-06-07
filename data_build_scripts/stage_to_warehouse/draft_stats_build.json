@@ -14,7 +14,7 @@
     "pick": "selection_number"
   },
   "column_order":
-        ["id" ,"full_name", "first_name", "last_name", "position", "position_group", "section", "college",
+        ["fms_id", "espn_id" ,"full_name", "first_name", "last_name", "position", "position_group", "section", "college",
           "draft_year", "selection_number", "position_rank", "position_group_rank", "section_rank", "drafting_team"]
 
 }

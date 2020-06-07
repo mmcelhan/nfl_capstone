@@ -21,20 +21,26 @@
     "Position": "position",
     "OVR": "madden_rating",
     "Overall": "madden_rating",
-    "ovr rating": "madden_rating"
+    "ovr rating": "madden_rating",
+    "2016_madden_rating":2016,
+    "2017_madden_rating":2017,
+    "2018_madden_rating":2018,
+    "2019_madden_rating":2019,
+    "2020_madden_rating": 2020
+
   },
   "year":
   {
-    "madden_2016.csv": 2016,
-    "madden_2017.csv": 2017,
-    "madden_2018.csv": 2018,
-    "madden_2019.csv": 2019,
-    "madden_2020.csv": 2020
+    "madden_2016.csv": "2016",
+    "madden_2017.csv": "2017",
+    "madden_2018.csv": "2018",
+    "madden_2019.csv": "2019",
+    "madden_2020.csv": "2020"
   },
   "column_order":
-        ["first_name", "last_name", "position", "position_group", "section", "2016_madden_rating", "2017_madden_rating"
-          ,"2018_madden_rating", "2019_madden_rating", "2020_madden_rating"],
-  "id_column_order":
-          ["id", "first_name", "last_name", "position", "position_group", "section", "2016_madden_rating", "2017_madden_rating"
-          ,"2018_madden_rating", "2019_madden_rating", "2020_madden_rating"]
+        ["first_name", "last_name", "position", "position_group", "section", 2016, 2017
+          ,2018, 2019, 2020],
+  "fms_id_column_order":
+          ["fms_id", "first_name", "last_name", "position", "position_group", "section", "2016", "2017"
+          ,"2018", "2019", "2020"]
 }

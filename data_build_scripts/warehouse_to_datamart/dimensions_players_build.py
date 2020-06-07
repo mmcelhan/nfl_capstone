@@ -21,28 +21,20 @@ def main():
     source = os.path.join(source_dir, data['draft']['folder'], data['draft']['file'])
 
     df = pd.read_csv(source)
-    print(len(df['id']))
     source = os.path.join(source_dir, data['college_players']['folder'], data['college_players']['file'])
 
     df_players = pd.read_csv(source)
     df_players = df_players[data['college_players_keep']]
+    df = pd.merge(df, df_players, left_on=['espn_id'], right_on=['espn_id'], how='left')  # inner join
 
-    print("before merge")
 
-    df = pd.merge(df, df_players, left_on=['id'], right_on=['id'], how='left')  # inner join
-
-    print(len(df["id"]))
-
-    print("after merge")
 
     source_dir = os.path.join(two_up, data['source'])  # should work in both mac and windows
     source = os.path.join(source_dir, data['draft']['folder'], data['combine_stats']['file'])
 
     df_combine = pd.read_csv(source)
     df_combine = df_combine[data['combine_stats_keep']]
-    #df = pd.merge(df, df_combine, left_on=['id'], right_on=['id'], how='left')
-    print("post combine merge")
-    print(len(df["id"]))
+    df = pd.merge(df, df_combine, left_on=['fms_id'], right_on=['fms_id'], how='left')
 
     df.rename(columns=data['column_rename'], inplace=True)
 

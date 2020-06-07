@@ -7,11 +7,12 @@
   "file": "raw_players_college.csv",
   "column_rename":
   {
-    "school": "college"
+    "school": "college",
+    "id": "espn_id"
   },
   "column_order":
 
-            ["id", "full_name", "first_name", "last_name", "position", "position_group", "section", "college",
+            ["espn_id", "full_name", "first_name", "last_name", "position", "position_group", "section", "college",
               "home_city", "home_state", "home_country"
 ]
 

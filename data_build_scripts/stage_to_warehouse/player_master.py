@@ -36,12 +36,10 @@ def main():
     df = pd.merge(df, espn_id_df, left_on=['last_name', 'college', 'position_group'],
                   right_on=['last_name', 'college', 'position_group'], how='left')
 
-    df.rename(columns={'id': 'espn_id'}, inplace=True)
     df = df.assign(fms_id=(df['first_name'] + '_' + df['last_name'] + '_'
                        + df['position_group'] + '_' + "draft_year").astype('category').cat.codes)
 
     df = df[data['keep_columns']]
-    print(df.columns)
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)
