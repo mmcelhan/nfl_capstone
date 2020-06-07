@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "daniel-van-den-berg-29Jx9qyTW14-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "daniel-van-den-berg-29Jx9qyTW14-unsplash-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "daniel-van-den-berg-29Jx9qyTW14-unsplash-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
