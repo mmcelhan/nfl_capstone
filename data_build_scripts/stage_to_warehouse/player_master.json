@@ -1,0 +1,18 @@
+{
+  "source": "data_staging",
+  "target": "data_warehouse",
+  "output_folder": "master_wh",
+  "output_file": "player_master.csv",
+  "folder":"statistics_stage",
+  "file": "combine_stats.csv",
+  "column_rename":
+  {
+    "year": "draft_year",
+    "player": "full_name",
+    "pos": "position"
+  },
+  "keep_columns":
+        ["fms_id", "espn_id", "full_name", "first_name", "last_name", "weight", "height_inches", "college", "draft_year",
+          "position", "position_group", "section"]
+
+}

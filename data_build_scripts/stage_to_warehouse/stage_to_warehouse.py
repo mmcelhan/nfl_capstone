@@ -4,6 +4,8 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 madden = 0
 
+import player_master
+
 import college_stats_build
 import combine_stats_build
 import college_players_build
