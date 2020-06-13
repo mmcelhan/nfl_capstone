@@ -2,6 +2,7 @@ import os
 import json
 import pandas as pd
 import csv
+from scipy.stats import zscore
 
 def make_folder_if_not_exists(path):
     """ creates a folder if it doesn't exist already """
@@ -45,4 +46,5 @@ def return_fms_id_df(keep_columns=['fms_id', 'first_name', 'last_name', 'college
     df = pd.read_csv(source)
     df = df[keep_columns]
     return df
+
 

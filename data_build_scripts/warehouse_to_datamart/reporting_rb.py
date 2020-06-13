@@ -29,6 +29,23 @@ def main():
     df = pd.merge(df, player_stats_df, on='fms_id', how='left')
     df = df.drop_duplicates(subset='fms_id', keep='last')
 
+    ### math transformations ###
+
+    df['hw_ratio'] = df['college_height_inches']/ df['college_weight_pounds']
+
+    ### apply z score ###
+
+    z_score_list = []  # to add te output df
+    for col in data['z_score_columns']:
+        col_zscore = col + '_zscore'
+        z_score_list.append(col_zscore)
+        df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
+
+    #print(z_score_list)
+
+    print(df.columns)
+    print(df)
+
 
     df = df[data['column_order']]
 
