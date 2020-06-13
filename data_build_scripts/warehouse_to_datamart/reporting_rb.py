@@ -1,11 +1,9 @@
 import json
 import os
 import pandas as pd
-import numpy as np
 import sys
 sys.path.append("..")
 sys.path.append("../../column_matching")
-import column_matching.column_match as cm
 import data_build_scripts.helpers as hlp
 
 
@@ -41,11 +39,7 @@ def main():
         z_score_list.append(col_zscore)
         df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
 
-    #print(z_score_list)
-
-    print(df.columns)
-    print(df)
-
+    #print(z_score_list)  # to get z score column names
 
     df = df[data['column_order']]
 
