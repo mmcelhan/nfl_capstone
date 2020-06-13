@@ -6,4 +6,5 @@ import dimensions_players_build
 import facts_player_metrics
 import reporting_rb
 import reporting_wr
+import reporting_cb
 

@@ -1,0 +1,42 @@
+{
+  "source": "data_mart",
+  "target": "data_mart",
+  "output_folder": "",
+  "output_file": "reporting_cb.csv",
+  "datamart_folder": "data_mart",
+  "dimension_players": {"folder":"data_mart", "file": "dimensions_players.csv"},
+  "facts_player_metrics": {"folder":"data_mart", "file": "facts_player_metrics.csv"},
+  "column_order":
+        ["fms_id", "espn_id", "full_name", "first_name", "last_name", "position",
+       "position_group", "section", "college", "draft_year",
+       "selection_number", "position_rank", "position_group_rank",
+       "section_rank", "drafting_team", "home_city", "home_state",
+       "home_country", "college_weight_pounds", "college_height_inches", "hw_ratio",
+        "forty", "vertical", "bench", "broad", "threecone",
+       "shuttle", "defense_ast_tackles", "defense_fum_forced",
+       "defense_fum_rec", "defense_fum_tds", "defense_fum_yds",
+       "defense_games", "defense_int", "defense_int_td", "defense_int_yards",
+       "defense_loss_tackles", "defense_pd", "defense_sacks",
+       "defense_seasons", "defense_solo_tackes", "defense_tackles", "max_madden","college_weight_pounds_zscore",
+       "college_height_inches_zscore", "hw_ratio_zscore", "forty_zscore",
+       "vertical_zscore", "bench_zscore", "broad_zscore", "threecone_zscore",
+       "shuttle_zscore", "defense_ast_tackles_zscore",
+       "defense_fum_forced_zscore", "defense_fum_rec_zscore",
+       "defense_fum_tds_zscore", "defense_fum_yds_zscore",
+       "defense_games_zscore", "defense_int_zscore", "defense_int_td_zscore",
+       "defense_int_yards_zscore", "defense_loss_tackles_zscore",
+       "defense_pd_zscore", "defense_sacks_zscore", "defense_seasons_zscore",
+       "defense_solo_tackes_zscore", "defense_tackles_zscore",
+       "max_madden_zscore"
+        ],
+  "z_score_columns":
+      ["college_weight_pounds", "college_height_inches", "hw_ratio",
+        "forty", "vertical", "bench", "broad", "threecone",
+       "shuttle", "defense_ast_tackles", "defense_fum_forced",
+       "defense_fum_rec", "defense_fum_tds", "defense_fum_yds",
+       "defense_games", "defense_int", "defense_int_td", "defense_int_yards",
+       "defense_loss_tackles", "defense_pd", "defense_sacks",
+       "defense_seasons", "defense_solo_tackes", "defense_tackles", "max_madden"
+        ]
+
+}

@@ -27,8 +27,6 @@ def main():
     df_players = df_players[data['college_players_keep']]
     df = pd.merge(df, df_players, left_on=['espn_id'], right_on=['espn_id'], how='left')  # inner join
 
-
-
     source_dir = os.path.join(two_up, data['source'])  # should work in both mac and windows
     source = os.path.join(source_dir, data['draft']['folder'], data['combine_stats']['file'])
 
@@ -38,6 +36,7 @@ def main():
 
     df.rename(columns=data['column_rename'], inplace=True)
 
+    df = df.drop_duplicates(subset='fms_id', keep='last')
     #df = df[data['column_order']]
 
     target_folder = os.path.join(target_dir, data['output_folder'])
