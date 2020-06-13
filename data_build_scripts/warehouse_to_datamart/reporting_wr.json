@@ -1,0 +1,37 @@
+{
+  "source": "data_mart",
+  "target": "data_mart",
+  "output_folder": "",
+  "output_file": "reporting_rb.csv",
+  "datamart_folder": "data_mart",
+  "dimension_players": {"folder":"data_mart", "file": "dimensions_players.csv"},
+  "facts_player_metrics": {"folder":"data_mart", "file": "facts_player_metrics.csv"},
+  "column_order":
+        ["fms_id", "espn_id", "full_name", "first_name", "last_name", "position",
+       "position_group", "section", "college", "draft_year",
+       "selection_number", "position_rank", "position_group_rank",
+       "section_rank", "drafting_team", "home_city", "home_state",
+       "home_country", "college_weight_pounds", "college_height_inches", "hw_ratio",
+        "forty", "vertical", "bench", "broad", "threecone",
+       "shuttle", "rushing_games",
+       "rushing_rec_td", "rushing_rec_yards", "rushing_receptions",
+       "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds",
+       "rushing_scrim_plays", "rushing_scrim_tds", "rushing_scrim_yds",
+       "rushing_seasons", "max_madden","college_weight_pounds_zscore", "college_height_inches_zscore",
+        "hw_ratio_zscore", "forty_zscore", "vertical_zscore", "bench_zscore", "broad_zscore", "threecone_zscore",
+        "shuttle_zscore", "rushing_games_zscore", "rushing_rec_td_zscore", "rushing_rec_yards_zscore",
+        "rushing_receptions_zscore", "rushing_rush_att_zscore", "rushing_rush_td_zscore", "rushing_rush_yds_zscore",
+        "rushing_scrim_plays_zscore", "rushing_scrim_tds_zscore", "rushing_scrim_yds_zscore", "rushing_seasons_zscore",
+        "max_madden_zscore"
+        ],
+  "z_score_columns":
+      ["college_weight_pounds", "college_height_inches", "hw_ratio",
+        "forty", "vertical", "bench", "broad", "threecone",
+       "shuttle", "rushing_games",
+       "rushing_rec_td", "rushing_rec_yards", "rushing_receptions",
+       "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds",
+       "rushing_scrim_plays", "rushing_scrim_tds", "rushing_scrim_yds",
+       "rushing_seasons", "max_madden"
+        ]
+
+}

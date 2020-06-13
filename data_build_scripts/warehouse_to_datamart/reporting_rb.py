@@ -31,7 +31,7 @@ def main():
 
     ### math transformations ###
 
-    df['hw_ratio'] = df['college_height_inches']/ df['college_weight_pounds']
+    df['hw_ratio'] = df['college_height_inches'] / df['college_weight_pounds']
 
     ### apply z score ###
 
