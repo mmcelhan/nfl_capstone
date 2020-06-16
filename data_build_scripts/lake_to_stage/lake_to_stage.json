@@ -10,6 +10,12 @@
     {"folder":"statistics", "file":"college_stats_annual.csv"},
     {"folder":"statistics", "file":"combine_stats.csv"},
     {"folder":"statistics", "file":"draft.csv"},
+    {"folder":"statistics", "file":"college_stats_annual.csv"},
+    {"folder":"statistics", "file":"collegetown-econ-output.csv"},
+    {"folder":"statistics", "file":"collegetown-weather-output.csv"},
+    {"folder":"statistics", "file":"hometown-weather-output.csv"},
     {"folder":"players", "file": "raw_players_college.csv"},
-    {"folder":"players", "file":"players.csv"}]
+    {"folder":"players", "file":"players.csv"}
+
+]
 }
