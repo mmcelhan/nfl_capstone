@@ -31,6 +31,13 @@ def main():
 
     df['hw_ratio'] = df['college_height_inches'] / df['college_weight_pounds']
 
+    print(df.columns)
+
+    for column in data['per_game_columns']:
+        new_name = str(column) + '_pg'
+
+        df[new_name] = df[column]/df['rushing_games']
+
     ### apply z score ###
 
     z_score_list = []  # to add te output df
@@ -38,6 +45,8 @@ def main():
         col_zscore = col + '_zscore'
         z_score_list.append(col_zscore)
         df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
+
+    print(df.columns)
 
     #print(z_score_list)  # to get z score column names
 

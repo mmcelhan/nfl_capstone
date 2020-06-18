@@ -22,8 +22,18 @@
         "shuttle_zscore", "rushing_games_zscore", "rushing_rec_td_zscore", "rushing_rec_yards_zscore",
         "rushing_receptions_zscore", "rushing_rush_att_zscore", "rushing_rush_td_zscore", "rushing_rush_yds_zscore",
         "rushing_scrim_plays_zscore", "rushing_scrim_tds_zscore", "rushing_scrim_yds_zscore", "rushing_seasons_zscore",
-        "max_madden_zscore"
+        "max_madden_zscore", "rushing_rec_td_pg_zscore",
+       "rushing_rec_yards_pg_zscore", "rushing_receptions_pg_zscore",
+       "rushing_rush_att_pg_zscore", "rushing_rush_td_pg_zscore",
+       "rushing_rush_yds_pg_zscore", "rushing_scrim_plays_pg_zscore",
+       "rushing_scrim_tds_pg_zscore", "rushing_scrim_yds_pg_zscore"
         ],
+  
+  "per_game_columns": 
+          ["rushing_rec_td", "rushing_rec_yards",
+       "rushing_receptions", "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds", "rushing_scrim_plays", "rushing_scrim_tds",
+       "rushing_scrim_yds"],
+  
   "z_score_columns":
       ["college_weight_pounds", "college_height_inches", "hw_ratio",
         "forty", "vertical", "bench", "broad", "threecone",
@@ -31,7 +41,9 @@
        "rushing_rec_td", "rushing_rec_yards", "rushing_receptions",
        "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds",
        "rushing_scrim_plays", "rushing_scrim_tds", "rushing_scrim_yds",
-       "rushing_seasons", "max_madden"
+       "rushing_seasons", "max_madden", "rushing_rec_td_pg", "rushing_rec_yards_pg", "rushing_receptions_pg",
+      "rushing_rush_att_pg", "rushing_rush_td_pg", "rushing_rush_yds_pg",
+        "rushing_scrim_plays_pg", "rushing_scrim_tds_pg", "rushing_scrim_yds_pg"
         ]
 
 }
