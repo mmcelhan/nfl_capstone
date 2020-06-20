@@ -17,6 +17,14 @@ def return_matching_dict():
     return data
 
 
+def write_matching_dict(d):
+    local_path = os.path.dirname(os.path.abspath(__file__))
+    with open(os.path.join(local_path, "matching.json"), "w") as fp:
+        json.dump(d, fp)
+    None  # end function
+
+
+
 def return_college_matching_dict():
     local_path = os.path.dirname(os.path.abspath(__file__))
     one_up = os.path.abspath(os.path.join(local_path, ".."))

@@ -41,7 +41,6 @@ def main():
         z_score_list.append(col_zscore)
         df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
 
-    #print(z_score_list)
 
 
 

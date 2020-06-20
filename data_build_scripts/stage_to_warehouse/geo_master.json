@@ -3,20 +3,28 @@
   "target": "data_warehouse",
   "output_folder": "master_wh",
   "output_file": "geo_master.csv",
-  "colleges":{"folder":"statistics_stage", "file": "college-town-weather-output.csv"},
-  "cities":{"folder":"statistics_stage", "file": "hometown-weather-output"},
+  "colleges":{"folder":"statistics_stage", "file": "collegetown-weather-output.csv"},
+  "hometowns":{"folder":"statistics_stage", "file": "hometown-weather-output.csv"},
   "college_keep": ["Geographic Location", "city_lat", "city_lon"],
+  "hometowns_keep": ["Geographic Location", "city_lat", "city_lon"],
   "college_df_rename":
   {
     "Geographic Location": "city_state",
     "city_lat": "latitude",
     "city_lon": "longitude"
   },
+  "hometown_df_rename":
+  {
+    "Geographic Location": "city_state",
+    "city_lat": "latitude",
+    "city_lon": "longitude"
+  },
+
 
   "column_rename":
   {
   },
   "keep_columns":
-        ["fms_city_id","city", "state", "country","latitude", "longitude"]
+        ["fms_city_id", "city_state", "city", "state", "country","latitude", "longitude"]
 
 }

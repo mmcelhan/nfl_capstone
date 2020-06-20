@@ -27,18 +27,18 @@ def return_matching_dictionary(right_df, left_df, key, threshold=80):
     left_df = left_df[['original_key', key]]
     matching_dict = left_df.set_index('original_key')[key].to_dict()
 
+    for k in list(matching_dict):
+        if matching_dict[k] == k:
+            del matching_dict[k]
+
     return matching_dict
 
 
 def golden_source_merge(df_list, key, threshold=80, limit=1):
     """
-    df_1 is the left table to join
-    df_2 is the right table to join
-    key1 is the key column of the left table
-    key2 is the key column of the right table
-    threshold is how close the matches should be to return a match, based on Levenshtein distance
-    limit is the amount of matches that will get returned, these are sorted high to low
+
     """
+
 
     # create null match columns
 
@@ -46,13 +46,18 @@ def golden_source_merge(df_list, key, threshold=80, limit=1):
 
     df_1 = df_list.pop(0)
     df_1 = df_1[key]  # drop all other columns
+
     df_1.drop_duplicates(subset=key, inplace=True)  # drop duplicates
 
     for df_2 in df_list:
-        df_1['match_key'] = ''
+
         df_2 = df_2[key]  # drop all other columns
-        df_2.drop_duplicates(subset=key, inplace=True)  # drop duplicates
+
+
+        df_1['match_key'] = ''
         df_2['match_key'] = ''
+        df_2.drop_duplicates(subset=key, inplace=True)  # drop duplicates
+
 
         # combines the list of column inputs into a single string for matching
         for value in key:
@@ -106,7 +111,7 @@ def golden_source_merge(df_list, key, threshold=80, limit=1):
 
         # drop the matching name columns since this is a left join
         df_1 = df_1[df_1.columns.drop(list(df_1.filter(regex='_y')))]
-        df_1 = df_1[df_1.columns.drop(['match_key', 'match', 'not_matched'])]
+        df_1 = df_1[key]
         df_1.reset_index(drop=True, inplace=True)
 
     return df_1, matching_dict

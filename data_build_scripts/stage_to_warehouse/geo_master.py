@@ -6,14 +6,14 @@ sys.path.append("..")
 sys.path.append("../../column_matching")
 import column_matching.column_match as cm
 import data_build_scripts.helpers as hlp
+import gold_source_mapping.gold_source_merging as gld
 
 
 def main():
 
     local_path = os.path.dirname(os.path.abspath(__file__))
-    f = open(os.path.join(local_path, "player_master.json"))
+    f = open(os.path.join(local_path, "geo_master.json"))
     data = json.load(f)
-    print(data)
     matching = hlp.return_matching_dict()
 
     two_up = os.path.abspath(os.path.join(local_path, "../.."))
@@ -24,29 +24,46 @@ def main():
     # pull in colleges
 
     source = os.path.join(source_dir, data['colleges']['folder'], data['colleges']['file'])
-    df = pd.read_csv(source)
+    college_cities_df = pd.read_csv(source)
 
-    df = df[data['college_keep']]
-    df.rename(columns=data["college_df_rename"], inplace=True)
-    print(df)
-    print(df.columns)
+    college_cities_df = college_cities_df[data['college_keep']]
+    college_cities_df.rename(columns=data["college_df_rename"], inplace=True)
 
-    """
-    df['first_name'] = df['player'].str.split(' ').str[0]
-    df['last_name'] = df['player'].str.split(' ').str[1]
-    df['position_group'] = df['pos'].map(matching['position_groups'])
-    df['section'] = df['position_group'].map(matching['section'])
-    df.rename(columns=data['column_rename'], inplace=True)
 
-    espn_id_df = hlp.return_id_df()
-    df = pd.merge(df, espn_id_df, left_on=['last_name', 'college', 'position_group'],
-                  right_on=['last_name', 'college', 'position_group'], how='left')
+    source = os.path.join(source_dir, data['hometowns']['folder'], data['hometowns']['file'])
+    hometown_df = pd.read_csv(source)
 
-    df = df.assign(fms_id=(df['first_name'] + '_' + df['last_name'] + '_'
-                       + df['position_group'] + '_' + "draft_year").astype('category').cat.codes)
+    hometown_df = hometown_df[data['hometowns_keep']]
+    hometown_df.rename(columns=data["hometown_df_rename"], inplace=True)
+
+    sources_list = [college_cities_df, hometown_df]
+
+    df, matching_dict = gld.golden_source_merge(sources_list, ['city_state'], 98)
+    hometown_df['city_state'] = hometown_df['city_state'].map(matching_dict).fillna(hometown_df['city_state'])
+    college_cities_df['city_state'] = college_cities_df['city_state'].map(matching_dict).fillna(college_cities_df['city_state'])
+
+    print(hometown_df)
+
+    df = df.merge(hometown_df, how='left', on='city_state')
+    df = df.merge(college_cities_df, how='left', on='city_state')
+    df['latitude'] = df['latitude_x'].combine_first(df['latitude_y'])
+    df['longitude'] = df['longitude_x'].combine_first(df['longitude_y'])
+
+    df['city'] = df['city_state'].apply(lambda x: x.split(',')[0])
+    df['state'] = df['city_state'].apply(lambda x: x.split(',')[1])
+    df = df.assign(fms_city_id=(df['city_state']).astype('category').cat.codes)
+    df['country'] = ""  # to be filled in later
 
     df = df[data['keep_columns']]
-    """
+
+    new_dict = {}
+    new_dict['cities'] = matching_dict
+
+
+
+    matching.update(new_dict)
+    hlp.write_matching_dict(matching)
+
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)
     target = os.path.join(target_folder, data['output_file'])
