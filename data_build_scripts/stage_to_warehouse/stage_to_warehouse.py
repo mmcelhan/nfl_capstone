@@ -14,8 +14,8 @@ import draft_stats_build
 
 if madden:
     from madden_build import main as madden_main
-    #madden_main()
-    from madden_build import add_espn_id
+    madden_main()
+    #from madden_build import add_espn_id
     from madden_build import add_fms_id
 
     #add_espn_id()
