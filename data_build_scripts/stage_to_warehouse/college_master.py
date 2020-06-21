@@ -50,7 +50,16 @@ def main():
         drop=True)
     college_econ_df['college'] = college_econ_df['college'].map(school_matching).fillna(college_econ_df['college'])
 
-    sources_list = [combine_df, college_weather_df, college_econ_df]
+    # pull in college funding data
+    source = os.path.join(source_dir, data['college_budget']['folder'], data['college_budget']['file'])
+    college_budget_df = pd.read_csv(source)
+    college_budget_df.rename(columns=data['college_budget_rename'], inplace=True)
+    college_budget_df = college_budget_df[data['college_budget_keep']].drop_duplicates(subset='college').reset_index(
+        drop=True)
+    college_budget_df['college'] = college_budget_df['college'].map(school_matching).fillna(college_budget_df['college'])
+
+
+    sources_list = [combine_df, college_weather_df, college_econ_df, college_budget_df]
 
     df, matching_dict = gld.golden_source_merge(sources_list, ['college'], 98)
 
@@ -61,13 +70,17 @@ def main():
     college_weather_df['college'] = college_weather_df['college'].map(matching_dict).fillna(college_weather_df['college'])
     college_econ_df['college'] = college_econ_df['college'].map(matching_dict).fillna(
         college_econ_df['college'])
-
+    college_budget_df['college'] = college_budget_df['college'].map(matching_dict).fillna(
+        college_budget_df['college'])
 
     df = df.merge(combine_df, how='left', on='college').drop_duplicates(subset='college').reset_index(
         drop=True)
     df = df.merge(college_weather_df, how='left', on='college').drop_duplicates(subset='college').reset_index(
         drop=True)
     df = df.merge(college_econ_df, how='left', on='college').drop_duplicates(subset='college').reset_index(
+        drop=True)
+
+    df = df.merge(college_budget_df, how='left', on='college').drop_duplicates(subset='college').reset_index(
         drop=True)
 
 

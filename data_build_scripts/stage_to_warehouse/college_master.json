@@ -7,10 +7,12 @@
   "college_weather":{"folder":"statistics_stage", "file": "collegetown-weather-output.csv"},
   "college_econ":{"folder":"statistics_stage", "file": "collegetown-econ-output.csv"},
   "college_stats":{"folder":"statistics_stage", "file": "college_stats_annual.csv"},
+  "college_budget":{"folder":"colleges_stage", "file": "CollegeFootballBudget.csv"},
   "combine_keep": ["college"],
   "college_weather_keep": ["college", "latitude", "longitude"],
   "college_econ_keep": ["college", "city_state", "county"],
   "college_stats_keep":["college"],
+  "college_budget_keep":["college"],
   "college_weather_rename":
   {
     "College": "college",
@@ -21,6 +23,10 @@
   {
     "College": "college",
     "Geographic Location": "city_state"
+  },
+  "college_budget_rename":
+  {
+        "Data":"college"
   },
   "keep_columns":
         ["fms_college_id", "college", "city_state", "city", "state", "county", "latitude", "longitude"]
