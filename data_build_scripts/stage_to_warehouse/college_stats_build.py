@@ -14,6 +14,8 @@ def main():
     f = open(os.path.join(local_path, "college_stats_build.json"))
     data = json.load(f)
 
+    school_matching = hlp.return_college_matching_dict()
+
     matching = hlp.return_matching_dict()
 
     two_up = os.path.abspath(os.path.join(local_path, "../.."))
@@ -39,6 +41,8 @@ def main():
     master_df = hlp.return_fms_id_df()
     df = pd.merge(df, master_df, left_on=['first_name', 'last_name', 'college', 'position_group'],
                   right_on=['first_name', 'last_name', 'college', 'position_group'], how='left')
+
+    df['college'] = df['college'].map(school_matching).fillna(df['college']).map(matching['college']).fillna(df['college'])
 
     df = df[data['column_order']]
 

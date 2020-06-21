@@ -10,6 +10,8 @@ import data_build_scripts.helpers as hlp
 
 def main():
 
+    school_matching = hlp.return_college_matching_dict()
+
     local_path = os.path.dirname(os.path.abspath(__file__))
     f = open(os.path.join(local_path, "combine_stats_build.json"))
     data = json.load(f)
@@ -41,6 +43,9 @@ def main():
                   right_on=['first_name', 'last_name', 'college', 'position_group'], how='left')
 
     df = df[data['column_order']]
+
+    df['college'] = df['college'].map(school_matching).fillna(df['college']).map(matching['college']).fillna(
+        df['college'])
 
 
     target_folder = os.path.join(target_dir, data['output_folder'])

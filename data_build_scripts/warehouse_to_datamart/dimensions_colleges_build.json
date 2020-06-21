@@ -1,0 +1,16 @@
+{
+  "source": "data_warehouse",
+  "target": "data_mart",
+  "output_folder": "",
+  "output_file": "dimensions_colleges.csv",
+  "colleges": {"folder": "master_wh", "file": "college_master.csv"},
+  "column_rename":
+  {
+  },
+  "column_order":
+        [
+          "fms_college_id", "college", "city_state", "city", "state", "county", "latitude", "longitude"
+
+]
+
+}
