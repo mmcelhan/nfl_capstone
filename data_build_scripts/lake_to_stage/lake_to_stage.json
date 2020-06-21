@@ -19,7 +19,8 @@
     {"folder":"statistics", "file":"collegetown-weather-output.csv"},
     {"folder":"statistics", "file":"hometown-weather-output.csv"},
     {"folder":"players", "file": "raw_players_college.csv"},
-    {"folder":"players", "file":"players.csv"}
+    {"folder":"players", "file":"players.csv"},
+    {"folder": "colleges", "file": "CollegeFootballBudget.csv"}
 
 ]
 }
