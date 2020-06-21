@@ -3,7 +3,11 @@
   "target": "data_warehouse",
   "output_folder": "statistics_wh",
   "output_file": "madden_ratings.csv",
-  "file_list": [{"folder":"statistics_stage", "file": "madden_2016.csv"},
+  "file_list": [
+    {"folder":"statistics_stage", "file": "madden_2013.csv"},
+    {"folder":"statistics_stage", "file": "madden_2014.csv"},
+    {"folder":"statistics_stage", "file": "madden_2015.csv"},
+    {"folder":"statistics_stage", "file": "madden_2016.csv"},
     {"folder":"statistics_stage", "file": "madden_2017.csv"},
     {"folder":"statistics_stage", "file": "madden_2018.csv"},
     {"folder":"statistics_stage", "file": "madden_2019.csv"},
@@ -22,6 +26,10 @@
     "OVR": "madden_rating",
     "Overall": "madden_rating",
     "ovr rating": "madden_rating",
+    "2012_madden_rating":2012,
+    "2013_madden_rating":2013,
+    "2014_madden_rating":2014,
+    "2015_madden_rating":2015,
     "2016_madden_rating":2016,
     "2017_madden_rating":2017,
     "2018_madden_rating":2018,
@@ -31,6 +39,9 @@
   },
   "year":
   {
+    "madden_2013.csv": "2013",
+    "madden_2014.csv": "2014",
+    "madden_2015.csv": "2015",
     "madden_2016.csv": "2016",
     "madden_2017.csv": "2017",
     "madden_2018.csv": "2018",
@@ -38,9 +49,12 @@
     "madden_2020.csv": "2020"
   },
   "column_order":
-        ["first_name", "last_name", "position", "position_group", "section", 2016, 2017
+        ["first_name", "last_name", "position", "position_group", "section", 2013, 2014, 2015, 2016, 2017
           ,2018, 2019, 2020],
+  "espn_id_column_order":
+          ["espn_id", "first_name", "last_name", "position", "position_group", "section", "2013","2014","2015",
+            "2016", "2017","2018", "2019", "2020"],
   "fms_id_column_order":
-          ["fms_id", "first_name", "last_name", "position", "position_group", "section", "2016", "2017"
-          ,"2018", "2019", "2020"]
+          ["fms_id", "first_name", "last_name", "position", "position_group", "section", "2013","2014","2015",
+            "2016", "2017","2018", "2019", "2020"]
 }

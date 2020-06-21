@@ -2,7 +2,11 @@
   "source": "data_lake",
   "target": "data_staging",
   "target_suffix": "_stage",
-"keep_files": [{"folder":"statistics", "file": "madden_2016.csv"},
+"keep_files": [
+    {"folder":"statistics", "file": "madden_2013.csv"},
+    {"folder":"statistics", "file": "madden_2014.csv"},
+    {"folder":"statistics", "file": "madden_2015.csv"},
+    {"folder":"statistics", "file": "madden_2016.csv"},
     {"folder":"statistics", "file": "madden_2017.csv"},
     {"folder":"statistics", "file": "madden_2018.csv"},
     {"folder":"statistics", "file": "madden_2019.csv"},

@@ -28,6 +28,8 @@ def main():
     for file in data['file_list']:
         source = os.path.join(source_dir, file['folder'], file['file'])
         temp_df = pd.read_csv(source)
+        print(file)
+        print(temp_df)
         temp_df.rename(columns=data['column_rename'], inplace=True)
         temp_df['year'] = data['year'][file['file']]  # add year
         temp_df['position_group'] = temp_df['position'].map(matching['position_groups'])
@@ -71,14 +73,16 @@ def add_espn_id():
     source = os.path.join(source_dir, data['output_folder'], data['output_file'])
 
     df = pd.read_csv(source)
-    espn_id_df = hlp.return_id_df(['first_name', 'last_name', 'position_group', 'id'])
+    espn_id_df = hlp.return_id_df(['first_name', 'last_name', 'position_group', 'espn_id'])
 
 
     print("fuzzy merging madden outputs")
     df = cm.fuzzy_merge(df, espn_id_df, ['first_name', 'last_name', 'position_group'],
                         ['first_name', 'last_name', 'position_group'], threshold=95, limit=1)
-
+    print(df.columns)
     df = df[data['id_column_order']]
+
+
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)
@@ -100,9 +104,11 @@ def add_fms_id():
     df = pd.read_csv(source)
     fms = hlp.return_fms_id_df(['first_name', 'last_name', 'position_group', 'fms_id'])
 
-    print("fuzzy merging madden outputs")
+    print("fuzzy merging madden outputs for fms id")
     df = cm.fuzzy_merge(df, fms, ['first_name', 'last_name', 'position_group'],
                         ['first_name', 'last_name', 'position_group'], threshold=95, limit=1)
+
+    print(df.columns)
 
     df = df[data['fms_id_column_order']]
 

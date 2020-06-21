@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-madden = 0
+madden = 1
 
 import player_master
 import college_master
@@ -17,7 +17,11 @@ if madden:
     #madden_main()
     from madden_build import add_espn_id
     from madden_build import add_fms_id
+
+    #add_espn_id()
     add_fms_id()
+
+
 
 
 

@@ -12,7 +12,7 @@
   "college_players": {"folder": "players_wh", "file": "college_players.csv"},
   "college_players_keep": ["espn_id", "home_city", "home_state", "home_country"],
   "combine_stats_keep": ["fms_id", "weight", "height_inches"],
-  "madden_keep_pre": ["fms_id", "2016", "2017", "2018", "2019", "2020"],
+  "madden_keep_pre": ["fms_id", "2013","2014","2015","2016", "2017", "2018", "2019", "2020"],
   "madden_keep_post": ["fms_id", "max_madden"],
   "column_rename":
   {
