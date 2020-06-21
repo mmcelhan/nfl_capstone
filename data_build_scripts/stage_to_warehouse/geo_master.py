@@ -42,7 +42,6 @@ def main():
     hometown_df['city_state'] = hometown_df['city_state'].map(matching_dict).fillna(hometown_df['city_state'])
     college_cities_df['city_state'] = college_cities_df['city_state'].map(matching_dict).fillna(college_cities_df['city_state'])
 
-    print(hometown_df)
 
     df = df.merge(hometown_df, how='left', on='city_state')
     df = df.merge(college_cities_df, how='left', on='city_state')

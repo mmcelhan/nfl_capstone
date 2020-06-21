@@ -1,0 +1,211 @@
+fms_college_id,college,city_state,city,state,county,latitude,longitude
+129,Ole Miss,"Oxford, MS",Oxford, MS, Oakland County,34.366412700000005,-89.5187664
+30,Clemson,"Clemson, SC",Clemson, SC, Pickens County,34.685074900000004,-82.83641109999999
+206,Wisconsin,"Madison, WI",Madison, WI, Dane County,43.074760999999995,-89.3837613
+71,Kansas State,"Manhattan, KS",Manhattan, KS, Riley County,39.1836082,-96.5716694
+17,Boise State,"Boise, ID",Boise, ID, Ada County,43.6166163,-116.20088600000001
+158,Stanford,"Stanford, CA",Stanford, CA, Santa Clara County,37.427467,-122.17024450000001
+123,Notre Dame,"Notre Dame, IN",Notre Dame, IN, Saint Joseph County,41.70456775,-86.23822026017265
+65,Iowa,"Iowa City, IA",Iowa City, IA, Johnson County,41.661256099999996,-91.5299106
+132,Penn State,"State College, PA",State College, PA, Centre County,40.794450399999995,-77.86163859999999
+196,Washington State,"Pullman, WA",Pullman, WA, Whitman County,46.7304268,-117.173895
+207,Wyoming,"Laramie, WY",Laramie, WY, Gloucester County,41.311367,-105.591101
+182,UMass,"Amherst, MA",Amherst, MA, Hampshire County,42.3685658,-72.505714
+20,Buffalo,"Amherst, NY",Amherst, NY, Erie County,42.9783924,-78.7997616
+172,Texas Tech,"Lubbock, TX",Lubbock, TX, Lubbock County,33.563520600000004,-101.879336
+9,Arkansas,"Fayetteville, AR",Fayetteville, AR, Washington County,36.0625843,-94.1574328
+43,Florida Atlantic,"Boca Raton, FL",Boca Raton, FL, Palm Beach County,26.3586885,-80.08309840000001
+161,TCU,"Fort Worth, TX",Fort Worth, TX, Tarrant County,32.753177,-97.3327459
+195,Washington,"Ellensburg, WA",Ellensburg, WA, Kittitas County,46.9970635,-120.5451223
+126,Oklahoma,"Norman, OK",Norman, OK,,35.2225717,-97.4394816
+73,Kentucky,"Lexington, KY",Lexington, KY, Fayette County,38.0464066,-84.4970393
+33,Colorado State,"Fort Collins, CO",Fort Collins, CO, Larimer County,40.5508527,-105.0668085
+175,Troy,"Troy, AL",Troy, AL, San Francisco City and County,31.808767800000002,-85.969951
+92,Minnesota,"Minneapolis, MN",Minneapolis, MN, Hennepin County,44.9772995,-93.2654692
+138,Rutgers,"Piscataway, NJ",Piscataway, NJ, Middlesex County,40.5462553,-74.46604079999999
+63,Indiana,"Bloomington, IN",Bloomington, IN, Monroe County,39.1670396,-86.5342881
+45,Florida State,"Tallahassee, FL",Tallahassee, FL, Leon County,30.4380832,-84.2809332
+148,South Carolina,"Columbia, SC",Columbia, SC, Richland County,34.000749299999995,-81.03433129999999
+84,Maryland,"College Park, MD",College Park, MD, Prince George's County,38.980666,-76.9369189
+181,UCLA,"Los Angeles, CA",Los Angeles, CA, Los Angeles County,34.0536909,-118.2427666
+184,USC,"Los Angeles, CA",Los Angeles, CA, Los Angeles County,34.0536909,-118.2427666
+42,Florida,"Gainesville, FL",Gainesville, FL, Alachua County,29.6519684,-82.3249846
+166,Texas,"Austin, TX",Austin, TX, Travis County,30.2711286,-97.7436995
+188,Utah,"Salt Lake City, UT",Salt Lake City, UT, Salt Lake County,40.759619799999996,-111.88679750000001
+89,Michigan,"Ann Arbor, MI",Ann Arbor, MI, Washtenaw County,42.268156899999994,-83.7312291
+18,Boston College,"Chestnut Hill, MA",Chestnut Hill, MA,,42.3306529,-71.1661647
+160,Syracuse,"Syracuse, NY",Syracuse, NY, Onondaga County,43.0481221,-76.1474244
+3,Alabama,"Tuscaloosa, AL",Tuscaloosa, AL, Jefferson County,33.2095614,-87.5675258
+120,Northwestern,"Evanston, IL",Evanston, IL, Cook County,42.0447388,-87.6930459
+173,Toledo,"Toledo, OH",Toledo, OH, Lucas County,41.678675399999996,-83.51272829999999
+49,Georgia,"Athens, GA",Athens, GA, Athens-Clarke County,33.9597677,-83.376398
+36,Duke,"Durham, NC",Durham, NC, Durham County,35.996653,-78.90180529999999
+70,Kansas,"Lawrence, KS",Lawrence, KS, Douglas County,38.9719384,-95.2359496
+12,Auburn,"Auburn, AL",Auburn, AL, Jefferson County,32.535699,-85.48677785023041
+86,Memphis,"Memphis, TN",Memphis, TN, Shelby County,35.1490215,-90.0516285
+111,North Carolina A&T,"Greensboro, NC",Greensboro, NC, Guilford County,36.0726355,-79.79197540000001
+202,West Virginia,"Morgantown, WV",Morgantown, WV, Monongalia County,39.629680900000004,-79.9559437
+66,Iowa State,"Ames, IA",Ames, IA, Story County,42.026770299999995,-93.6170554
+189,Utah State,"Logan, UT",Logan, UT, Cache County,41.7313447,-111.8348631
+167,Texas A&M,"College Station, TX",College Station, TX, Brazos County,30.595528899999998,-96.3071042
+94,Mississippi State,"Starkville, MS",Starkville, MS, Oktibbeha County,33.4503998,-88.8183872
+16,Baylor,"Waco, TX",Waco, TX, McLennan County,31.549333,-97.1466695
+74,LSU,"Baton Rouge, LA",Baton Rouge, LA, East Baton Rouge Parish,30.445959600000002,-91.18738
+41,Ferris St.,"Big Rapids, MI",Big Rapids, MI, Mecosta County,43.698078,-85.48365600000001
+130,Oregon,"Eugene, OR",Eugene, OR, Lane County,44.0505054,-123.09505060000001
+125,Ohio State,"Columbus, OH",Columbus, OH, Franklin County,39.9622601,-83.00070649999999
+95,Missouri,"Columbia, MO",Columbia, MO, Boone County,38.951883,-92.3337366
+58,Houston,"Houston, TX",Houston, TX, Harris County,29.7589382,-95.36769740000001
+116,Northern Arizona,"Flagstaff, AZ",Flagstaff, AZ, Coconino County,35.19875220000001,-111.6518229
+32,Colorado,"Boulder, CO",Boulder, CO,Boulder County,40.0149856,-105.2705456
+90,Michigan State,"East Lansing, MI",East Lansing, MI, Ingham County,42.735541600000005,-84.4852469
+113,North Carolina St.,"Raleigh, NC",Raleigh, NC, Wake County,35.7803977,-78.63909890000001
+87,Miami,"Miami, FL",Miami, FL, Miami-Dade County,25.7742658,-80.1936589
+194,Wake Forest,"Winston-Salem, NC",Winston-Salem, NC, Forsyth County,36.0998131,-80.2440518
+56,Hawaii,"Honolulu, HI",Honolulu, HI, Honolulu County,21.304547,-157.8556764
+6,Appalachian State,"Boone, NC",Boone, NC, Watauga County,36.216795,-81.6745517
+2,Akron,"Akron, OH",Akron, OH, Summit County,41.083064,-81.518485
+147,South Alabama,"Mobile, AL",Mobile, AL, Dearborn County,30.6943566,-88.04305409999999
+81,Louisville,"Louisville, KY",Louisville, KY, Jefferson County,38.254237599999996,-85.759407
+121,Northwestern St. (LA),"Natchitoches, LA",Natchitoches, LA, Natchitoches Parish,31.760673200000003,-93.08602090000001
+47,Fresno State,"Fresno, CA",Fresno, CA, Fresno County,36.7295295,-119.70886126075588
+190,Vanderbilt,"Nashville, TN",Nashville, TN, Davidson County,36.1622296,-86.7743531
+127,Oklahoma State,"Stillwater, OK",Stillwater, OK,,36.1156306,-97.0585717
+150,South Dakota State,"Brookings, SD",Brookings, SD,Brookings County,44.3763598,-96.7925213
+144,San Jose State,"San Jose, CA",San Jose, CA, Santa Clara County,37.3361905,-121.89058329999999
+192,Virginia,"Charlottesville, VA",Charlottesville, VA,,38.029306,-78.4766781
+143,San Diego State,"San Diego, CA",San Diego, CA, San Diego County,32.7174209,-117.16277140000001
+179,UC Davis,"Davis, CA",Davis, CA, Yolo County,38.545379,-121.74458349999999
+171,Texas State,"San Marcos, TX",San Marcos, TX, Hays County,29.882643599999998,-97.9405828
+110,North Carolina,"Chapel Hill, NC",Chapel Hill, NC, Orange County,35.9131542,-79.05578
+83,Marshall,"Huntington, WV",Huntington, WV, Cabell County,38.41924960000001,-82.445154
+118,Northern Illinois,"DeKalb, IL",DeKalb, IL,DeKalb County,41.89034470000001,-88.7713953
+39,Eastern Michigan,"Ypsilanti, MI",Ypsilanti, MI, Washtenaw County,42.24253,-83.6171426940706
+25,Charlotte,"Charlotte, NC",Charlotte, NC, Mecklenburg County,35.2272,-80.843083
+8,Arizona State,"Tempe, AZ",Tempe, AZ, Maricopa County,33.4255056,-111.9400125
+128,Old Dominion,"Norfolk, VA",Norfolk, VA,,36.888993299999996,-76.24816240000001
+133,Pittsburgh,"Pittsburgh, PA",Pittsburgh, PA, Allegheny County,40.4416941,-79.99008609999998
+162,Temple,"Philadelphia, PA",Philadelphia, PA, Philadelphia County,39.9527237,-75.16352619999999
+23,Central Michigan,"Mount Pleasant, MI",Mount Pleasant, MI, Isabella County,43.597646000000005,-84.7668495
+14,BYU,"Provo, UT",Provo, UT, Utah County,40.233843799999995,-111.6585337
+103,Nebraska,"Lincoln, NE",Lincoln, NE, Lancaster County,40.8088861,-96.70777509999999
+106,New Mexico State,"Las Cruces, NM",Las Cruces, NM, Doña Ana County,32.3140354,-106.7798078
+180,UCF,"Orlando, FL",Orlando, FL, Orange County,28.5421109,-81.3790304
+193,Virginia Tech,"Blacksburg, VA",Blacksburg, VA, Montgomery County,37.2296566,-80.4136767
+176,Tulane,"New Orleans, LA",New Orleans, LA, Orleans Parish,29.949932300000004,-90.0701156
+15,Ball State,"Muncie, IN",Muncie, IN, Delaware County,40.19368920000001,-85.3865271
+104,Nevada,"Reno, NV",Reno, NV, Washoe County,39.5261206,-119.81265810000001
+51,Georgia State,"Atlanta, GA",Atlanta, GA, Fulton County,33.749098700000005,-84.39018490000001
+205,Western Michigan,"Kalamazoo, MI",Kalamazoo, MI, Kalamazoo County,42.291707,-85.5872286
+139,SMU,"Dallas, TX",Dallas, TX, Dallas County,32.7762719,-96.7968559
+7,Arizona,"Tucson, AZ",Tucson, AZ, Pima County,32.2228765,-110.9748477
+153,Southern,"Baton Rouge, LA",Baton Rouge, LA, East Baton Rouge Parish,30.445959600000002,-91.18738
+68,Jacksonville State,"Jacksonville, AL",Jacksonville, AL, Calhoun County,33.8269995,-85.78319335989826
+37,East Carolina,"Greenville, NC",Greenville, NC, Pitt County,35.612660999999996,-77.3663538
+151,South Florida,"Tampa, FL",Tampa, FL, Hillsborough County,27.947759499999997,-82.458444
+135,Purdue,"West Lafayette, IN",West Lafayette, IN, Tippecanoe County,40.4258686,-86.9080655
+21,California,"Berkeley, CA",Berkeley, CA, Alameda County,37.8708393,-122.27286389999999
+10,Arkansas State,"Jonesboro, AR",Jonesboro, AR, Craighead County,35.8428646,-90.7034522
+204,Western Kentucky,"Bowling Green, KY",Bowling Green, KY, Warren County,36.990319899999996,-86.4436018
+163,Tennessee,"Knoxville, TN",Knoxville, TN, Knox County,35.960394799999996,-83.92102609999999
+155,Southern Mississippi,"Hattiesburg, MS",Hattiesburg, MS, Forrest County,31.327118900000002,-89.2903392
+186,UT San Antonio,"San Antonio, TX",San Antonio, TX, Bexar County,29.424600199999997,-98.4951405
+64,Indiana (PA),"Indiana, PA",Indiana, PA,Indiana County,40.6424116,-79.1262839
+91,Middle Tennessee,"Murfreesboro, TN",Murfreesboro, TN, Rutherford County,35.845999,-86.3920452
+131,Oregon State,"Corvallis, OR",Corvallis, OR, Benton County,44.5645659,-123.2620435
+187,UTEP,"El Paso, TX",El Paso, TX, El Paso County,31.7754152,-106.4646348
+209,Youngstown State,"Youngstown, OH",Youngstown, OH, Mahoning County,41.1035786,-80.6520161
+169,Texas Christian,"Fort Worth, TX",Fort Worth, TX, Tarrant County,32.753177,-97.3327459
+146,Shepherd,"Shepherdstown, WV",Shepherdstown, WV, Jefferson County,39.430099600000005,-77.804161
+124,Ohio,"Athens, OH",Athens, OH,Athens County,39.355589,-82.06104040000001
+80,Louisiana Tech,"Ruston, LA",Ruston, LA, Lincoln Parish,32.5232053,-92.637927
+61,Illinois,"Champaign, IL",Champaign, IL, Champaign County,40.116420500000004,-88.2433829
+78,Louisiana,"Lafayette, LA",Lafayette, LA, Lafayette Parish,30.2240897,-92.0198427
+164,Tennessee State,"Nashville, TN",Nashville, TN, Davidson County,36.1622296,-86.7743531
+101,NC State,"Raleigh, NC",Raleigh, NC, Wake County,35.7803977,-78.63909890000001
+1,Air Force,"Colorado Springs, CO",Colorado Springs, CO, El Paso County,38.8339578,-104.8253485
+44,Florida International,"Miami, FL",Miami, FL, Miami-Dade County,25.7742658,-80.1936589
+177,Tulsa,"Tulsa, OK",Tulsa, OK, Tulsa County,36.1556805,-95.9929113
+28,Cincinnati,"Cincinnati, OH",Cincinnati, OH, Hamilton County,39.1014537,-84.5124602
+34,Connecticut,"East Hartford, CT",East Hartford, CT, Hartford County,41.7823216,-72.61203459999999
+52,Georgia Tech,"Atlanta, GA",Atlanta, GA, Fulton County,33.749098700000005,-84.39018490000001
+99,Montana State,"Bozeman, MT",Bozeman, MT, Gallatin County,45.679429299999995,-111.04404740000001
+114,North Dakota State,"Fargo, ND",Fargo, ND, Cass County,46.877229,-96.78982099999999
+199,West Georgia,"Carrollton, GA",Carrollton, GA, Carroll County,33.580110299999994,-85.0766113
+141,Samford,"Homewood, AL",Homewood, AL, Jefferson County,33.4717732,-86.8008228
+38,Eastern Kentucky,"Richmond, KY",Richmond, KY, Madison County,37.747857200000006,-84.29465390000001
+19,Bowling Green,"Bowling Green, OH",Bowling Green, OH, Wood County,41.3747744,-83.65132290000001
+112,North Carolina Central,"Durham, NC",Durham, NC, Durham County,35.996653,-78.90180529999999
+183,UNLV,"Las Vegas, NV",Las Vegas, NV, Clark County,36.1672559,-115.1485163
+152,Southeastern Louisiana,"Hammond, LA",Hammond, LA, Lake County,41.5833658,-87.500043
+136,Rice,"Houston, TX",Houston, TX, Harris County,29.7589382,-95.36769740000001
+119,Northern Iowa,"Cedar Falls, IA",Cedar Falls, IA,,42.527412299999995,-92.4453179
+26,Chattanooga,"Chattanooga, TN",Chattanooga, TN, Hamilton County,35.0457219,-85.3094883
+102,Navy,"Annapolis, MD",Annapolis, MD, Anne Arundel County,38.9786401,-76.492786
+88,Miami (OH),"Miami, OH",Miami, OH,Miami County,40.058025799999996,-84.2236524
+174,Towson,"Towson, MD",Towson, MD, Baltimore County,39.4018552,-76.602388
+40,Eastern Washington,"Cheney, WA",Cheney, WA, Spokane County,47.4873895,-117.57576759999999
+72,Kent State,"Kent, OH",Kent, OH, Portage County,41.1536674,-81.357886
+4,Alabama State,"Montgomery, AL",Montgomery, AL, Clearfield County,32.3669656,-86.3006485
+85,McNeese,"Lake Charles, LA",Lake Charles, LA, Calcasieu Parish,30.226594899999995,-93.21737590000001
+97,Missouri Western,"St. Joseph, MO",St. Joseph, MO, Buchanan County,39.7686055,-94.8466322
+96,Missouri Southern,"Joplin, MO",Joplin, MO, Jasper County,37.084179999999996,-94.51323000000001
+165,Tennessee Tech,"Cookeville, TN",Cookeville, TN, Putnam County,36.1623886,-85.4997057
+53,Glenville State,"Glenville, WV",Glenville, WV, Gilmer County,38.9342573,-80.8376033
+185,UT Martin,"Martin, TN",Martin, TN, Weakley County,36.343396500000004,-88.850338
+137,Richmond,"Richmond, VA",Richmond, VA,,37.53850870000001,-77.43428
+149,South Carolina State,"Orangeburg, SC",Orangeburg, SC, Orangeburg County,33.4918203,-80.8556476
+109,North Alabama,"Florence, AL",Florence, AL, Bexar County,34.79981,-87.677251
+197,Wayne State (MI),"Detroit, MI",Detroit, MI, Wayne County,42.331550899999996,-83.04664029999999
+154,Southern Illinois,"Carbondale, IL",Carbondale, IL, Jackson County,37.7274692,-89.216655
+31,Coastal Carolina,"Conway, SC",Conway, SC, Horry County,33.8360035,-79.0478143
+75,Lafayette,"Lafayette, LA",Lafayette, LA, Lafayette Parish,30.2240897,-92.0198427
+55,Hampton,"Hampton, VA",Hampton, VA,,37.0300969,-76.34520570000001
+208,Yale,"New Haven, CT",New Haven, CT, Prince George's County,41.3082138,-72.92505179999999
+57,Hillsdale,"Hillsdale, MI",Hillsdale, MI,Hillsdale County,41.8779105,-84.59843959999999
+59,Idaho,"Moscow, ID",Moscow, ID, Latah County,46.7323875,-117.00016509999999
+22,California (PA),"California, PA",California, PA, Washington County,40.0657724,-79.8918436
+46,Fort Hays State,"Hays, KS",Hays, KS, Ellis County,38.8791783,-99.3267702
+35,Delaware,"Newark, DE",Newark, DE, New Castle County,39.6852191,-75.75082890000002
+108,Norfolk State,"Norfolk, VA",Norfolk, VA,,36.888993299999996,-76.24816240000001
+159,Stillman,"Tuscaloosa, AL",Tuscaloosa, AL, Jefferson County,33.2095614,-87.5675258
+0,Abilene Christian,"Abilene, TX",Abilene, TX, Taylor County,32.44645,-99.7475905
+200,West Liberty,"West Liberty, WV",West Liberty, WV, Ohio County,40.169794,-80.59368509999999
+105,New Mexico,"Albuquerque, NM",Albuquerque, NM, Bernalillo County,35.0841034,-106.6509851
+5,Alcorn State,"Lorman, MS",Lorman, MS, Jefferson County,31.8204396,-91.0501057
+77,Liberty,"Lynchburg, VA",Lynchburg, VA,,37.4137536,-79.1422464
+140,Sam Houston State,"Huntsville, TX",Huntsville, TX, Walker County,30.723526300000003,-95.55077709999999
+11,Army,"West Point, NY",West Point, NY, Suffolk County,40.8512481,-72.53598690000001
+79,Louisiana Monroe,"Monroe, LA",Monroe, LA,Monroe County,38.272231299999994,-90.1792484
+100,Morgan State,"Baltimore, MD",Baltimore, MD,,39.2847494,-76.62047463969989
+29,Clark Atlanta,"Atlanta, GA",Atlanta, GA, Fulton County,33.749098700000005,-84.39018490000001
+142,San Diego,"San Diego, CA",San Diego, CA, San Diego County,32.7174209,-117.16277140000001
+201,West Texas A&M,"Canyon, TX",Canyon, TX, Randall County,34.97983920000001,-101.9193395
+198,Weber State,"Ogden, UT",Ogden, UT, Weber County,41.2230048,-111.9738429
+76,Lane (TN),"Lane, TN",Lane, TN, Dyer County,36.194235799999994,-89.3622943
+98,Montana,"Missoula, MT",Missoula, MT, Missoula County,46.8701049,-113.9952672
+178,UAB,"Birmingham, AL",Birmingham, AL, Jefferson County,33.5206824,-86.80243259999999
+60,Idaho State,"Pocatello, ID",Pocatello, ID, Bannock County,42.86886129999999,-112.4401098
+170,Texas College,"Tyler, TX",Tyler, TX, Smith County,32.351260100000005,-95.3010624
+191,Villanova,"Villanova, PA",Villanova, PA, Delaware County,40.037332299999996,-75.34907690000001
+122,Northwestern State,"Natchitoches, LA",Natchitoches, LA, Natchitoches Parish,31.760673200000003,-93.08602090000001
+48,Furman,"Greenville, SC",Greenville, SC, Greenville County,34.851354,-82.3984882
+54,Grambling,"Grambling, LA",Grambling, LA, Lincoln Parish,32.527650300000005,-92.7140403
+157,Southern Utah,"Cedar City, UT",Cedar City, UT, Iron County,37.67742379999999,-113.0618277
+134,Portland State,"Portland, OR",Portland, OR, Multnomah County,45.5202471,-122.6741949
+117,Northern Colorado,"Greeley, CO",Greeley, CO,Greeley County,40.42331420000001,-104.7091322
+156,Southern Oregon,"Ashland, OR",Ashland, OR, Jackson County,42.1972487,-122.71539950000002
+107,Nicholls,"Thibodaux, LA",Thibodaux, LA, Lafourche Parish,29.795763300000004,-90.82287099999999
+115,North Texas,"Denton, TX",Denton, TX,Denton County,33.1838787,-97.1413417
+93,Minnesota-Morris,"Morris, MN",Morris, MN, Stevens County,45.586071999999994,-95.91394100000001
+82,Mars Hill,"Mars Hill, NC",Mars Hill, NC, Madison County,35.82637929999999,-82.5486848
+50,Georgia Southern,"Statesboro, GA",Statesboro, GA, Bulloch County,32.4490141,-81.78329120000001
+203,Western Carolina,"Cullowhee, NC",Cullowhee, NC, Jackson County,35.3137739,-83.1765814
+24,Central Missouri,"Warrensburg, MS",Warrensburg, MS, Johnson County,32.4034758,-88.80004840000001
+67,Jackson State,"Jacksonville, AL",Jacksonville, AL, Calhoun County,33.8269995,-85.78319335989826
+168,Texas A&M-Commerce,"Commerce, TX",Commerce, TX, Hunt County,33.2442615,-95.9006353
+69,James Madison,"Harrisonburg, VA",Harrisonburg, VA,,38.4493315,-78.8688833
+62,Illinois State,"Normal, IL",Normal, IL, McLean County,40.5117699,-88.99448149999999
+13,Azusa Pacific,"Azusa, CA",Azusa, CA, Los Angeles County,34.1338751,-117.90560459999999
+27,Cheyney,"Philadelphia, PA",Philadelphia, PA, Philadelphia County,39.9527237,-75.16352619999999
+145,Savannah State,"Savannah, GA",Savannah, GA, Chatham County,32.0809263,-81.09117679999999

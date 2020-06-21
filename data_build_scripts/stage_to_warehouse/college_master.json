@@ -1,0 +1,28 @@
+{
+  "source": "data_staging",
+  "target": "data_warehouse",
+  "output_folder": "master_wh",
+  "output_file": "college_master.csv",
+  "combine": {"folder":"statistics_stage", "file": "combine_stats.csv"},
+  "college_weather":{"folder":"statistics_stage", "file": "collegetown-weather-output.csv"},
+  "college_econ":{"folder":"statistics_stage", "file": "collegetown-econ-output.csv"},
+  "college_stats":{"folder":"statistics_stage", "file": "college_stats_annual.csv"},
+  "combine_keep": ["college"],
+  "college_weather_keep": ["college", "latitude", "longitude"],
+  "college_econ_keep": ["college", "city_state", "county"],
+  "college_stats_keep":["college"],
+  "college_weather_rename":
+  {
+    "College": "college",
+    "city_lat": "latitude",
+    "city_lon": "longitude"
+  },
+  "college_econ_rename":
+  {
+    "College": "college",
+    "Geographic Location": "city_state"
+  },
+  "keep_columns":
+        ["fms_college_id", "college", "city_state", "city", "state", "county", "latitude", "longitude"]
+
+}
