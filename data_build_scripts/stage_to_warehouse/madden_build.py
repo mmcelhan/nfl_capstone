@@ -28,8 +28,6 @@ def main():
     for file in data['file_list']:
         source = os.path.join(source_dir, file['folder'], file['file'])
         temp_df = pd.read_csv(source)
-        print(file)
-        print(temp_df)
         temp_df.rename(columns=data['column_rename'], inplace=True)
         temp_df['year'] = data['year'][file['file']]  # add year
         temp_df['position_group'] = temp_df['position'].map(matching['position_groups'])
