@@ -20,7 +20,7 @@
        "rushing_rec_td", "rushing_rec_yards", "rushing_receptions",
        "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds",
        "rushing_scrim_plays", "rushing_scrim_tds", "rushing_scrim_yds",
-       "rushing_seasons", "max_madden","college_weight_pounds_zscore", "college_height_inches_zscore",
+       "rushing_seasons", "college_weight_pounds_zscore", "college_height_inches_zscore",
         "hw_ratio_zscore", "forty_zscore", "vertical_zscore", "bench_zscore", "broad_zscore", "threecone_zscore",
         "shuttle_zscore", "rushing_games_zscore", "rushing_rec_td_zscore", "rushing_rec_yards_zscore",
         "rushing_receptions_zscore", "rushing_rush_att_zscore", "rushing_rush_td_zscore", "rushing_rush_yds_zscore",
@@ -30,7 +30,7 @@
        "rushing_rush_att_pg_zscore", "rushing_rush_td_pg_zscore",
        "rushing_rush_yds_pg_zscore", "rushing_scrim_plays_pg_zscore",
        "rushing_scrim_tds_pg_zscore", "rushing_scrim_yds_pg_zscore", "football_spending_zscore", "coaches_salaries_zscore",
-          "ticket_sales_zscore"
+          "ticket_sales_zscore","max_madden"
         ],
   
   "per_game_columns": 
