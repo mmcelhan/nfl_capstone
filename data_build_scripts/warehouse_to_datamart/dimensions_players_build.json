@@ -18,9 +18,12 @@
   },
   "column_order":
         [
-          "id", "espn_id", "full_name", "first_name", "last_name", "college", "position", "position_group", "section",
-          "draft_year", "selection", "drafting_team", "position_rank", "position_group_rank", "section_rank",
-          "home_city", "home_state", "home_state", "college_weight_pounds", "college_height_inches"
+          "fms_id", "espn_id","fms_college_id", "full_name", "first_name", "last_name", "position",
+       "position_group", "section", "college", "draft_year",
+       "selection_number", "position_rank", "position_group_rank",
+       "section_rank", "drafting_team", "home_city", "home_state",
+       "home_country", "college_weight_pounds", "college_height_inches"
+
 ]
 
 }

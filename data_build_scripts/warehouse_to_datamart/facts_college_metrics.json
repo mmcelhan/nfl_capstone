@@ -1,0 +1,19 @@
+{
+  "source": "data_warehouse",
+  "target": "data_mart",
+  "output_folder": "",
+  "output_file": "facts_college_metrics.csv",
+  "datamart_folder": "data_mart",
+  "dimension_colleges": {"folder":"data_mart", "file": "dimensions_colleges.csv"},
+  "college_budget": {"folder": "colleges_wh", "file": "college_budget.csv"},
+  "column_rename":
+  {
+
+  },
+  "z_score_columns": ["football_spending", "coaches_salaries", "ticket_sales"],
+  "column_order":
+        [
+
+]
+
+}

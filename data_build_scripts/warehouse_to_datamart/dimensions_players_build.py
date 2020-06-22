@@ -37,7 +37,14 @@ def main():
     df.rename(columns=data['column_rename'], inplace=True)
 
     df = df.drop_duplicates(subset='fms_id', keep='last')
-    #df = df[data['column_order']]
+
+    df_college_id = hlp.return_fms_college_id()
+
+
+    df = df.merge(df_college_id, on='college', how='left')
+
+
+    df = df[data['column_order']]
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)
