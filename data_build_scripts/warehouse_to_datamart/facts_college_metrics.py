@@ -31,7 +31,6 @@ def main():
 
     df.rename(columns=data['column_rename'], inplace=True)
 
-    print(df.columns)
     #df = df[data['column_order']]
 
     z_score_list = []  # to add te output df

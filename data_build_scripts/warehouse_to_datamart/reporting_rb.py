@@ -19,13 +19,25 @@ def main():
     df = pd.read_csv(source)
     df = df[df['position'].str.contains("RB")]
 
-    ###  player stats ###
+    ### player stats ###
 
     source = os.path.join(two_up, data['facts_player_metrics']['folder'], data['facts_player_metrics']['file'])
     player_stats_df = pd.read_csv(source)
 
     df = pd.merge(df, player_stats_df, on='fms_id', how='left')
     df = df.drop_duplicates(subset='fms_id', keep='last')
+
+    ### college stats ###
+
+
+    source = os.path.join(two_up, data['facts_college_metrics']['folder'], data['facts_college_metrics']['file'])
+    college_stats_df = pd.read_csv(source)
+
+    college_stats_df = college_stats_df[data['college_stats_keep_columns']]
+
+    df = pd.merge(df, college_stats_df, left_on='fms_college_id', right_on='fms_college_id', how='left')
+    df = df.drop_duplicates(subset='fms_id', keep='last')
+
 
     ### math transformations ###
 
@@ -44,7 +56,6 @@ def main():
         col_zscore = col + '_zscore'
         z_score_list.append(col_zscore)
         df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
-
 
     df = df[data['column_order']]
 

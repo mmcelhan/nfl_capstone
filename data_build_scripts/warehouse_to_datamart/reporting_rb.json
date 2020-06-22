@@ -6,6 +6,9 @@
   "datamart_folder": "data_mart",
   "dimension_players": {"folder":"data_mart", "file": "dimensions_players.csv"},
   "facts_player_metrics": {"folder":"data_mart", "file": "facts_player_metrics.csv"},
+  "facts_college_metrics": {"folder":"data_mart", "file": "facts_college_metrics.csv"},
+  "college_stats_keep_columns": ["fms_college_id","football_spending_zscore", "coaches_salaries_zscore", "ticket_sales_zscore"
+],
   "column_order":
         ["fms_id", "espn_id", "full_name", "first_name", "last_name", "position",
        "position_group", "section", "college", "draft_year",
@@ -26,7 +29,8 @@
        "rushing_rec_yards_pg_zscore", "rushing_receptions_pg_zscore",
        "rushing_rush_att_pg_zscore", "rushing_rush_td_pg_zscore",
        "rushing_rush_yds_pg_zscore", "rushing_scrim_plays_pg_zscore",
-       "rushing_scrim_tds_pg_zscore", "rushing_scrim_yds_pg_zscore"
+       "rushing_scrim_tds_pg_zscore", "rushing_scrim_yds_pg_zscore", "football_spending_zscore", "coaches_salaries_zscore",
+          "ticket_sales_zscore"
         ],
   
   "per_game_columns": 
