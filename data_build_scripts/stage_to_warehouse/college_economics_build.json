@@ -1,0 +1,23 @@
+{
+  "source": "data_staging",
+  "target": "data_warehouse",
+  "output_folder": "colleges_wh",
+  "output_file": "college_budget.csv",
+  "folder":"colleges_stage",
+  "file": "CollegeFootballBudget.csv",
+  "column_rename":
+  {
+    "Data": "college",
+    "Year": "year",
+    "Total Football Spending": "football_spending",
+    "Total Football Coaching Salaries": "coaches_salaries",
+    "Ticket Sales": "ticket_sales"
+  },
+  "column_keep": ["college", "football_spending", "coaches_salaries", "ticket_sales"],
+  "numerical_columns": ["football_spending", "coaches_salaries", "ticket_sales"],
+  "column_order":
+
+            ["fms_college_id", "college", "football_spending", "coaches_salaries", "ticket_sales"
+]
+
+}

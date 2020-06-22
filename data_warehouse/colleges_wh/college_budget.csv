@@ -1,0 +1,247 @@
+fms_college_id,college,football_spending,coaches_salaries,ticket_sales
+1,Air Force,8419826.0,3776311.0,4596433.5
+2,Akron,7582136.5,1610923.5,1171066.2
+3,Alabama,39355530.0,11051188.0,33548840.0
+4,Alabama A & M University,2447033.0,778114.44,407179.66
+5,Alabama State,2995791.8,928241.5,1046913.06
+6,Alcorn State,1860133.1,505358.78,416924.7
+7,American Athletic Conference Median,14509747.0,4554296.0,6877430.5
+8,Appalachian State,4996902.0,1363273.4,1989343.0
+9,Arizona,18165290.0,5561235.5,14057091.0
+10,Arizona State,24815812.0,5561994.5,11495876.0
+11,Arkansas,27523354.0,6958517.0,35803036.0
+12,Arkansas State,8446176.0,1659299.8,1287603.8
+13,Army,7672310.0,2458204.8,4706360.0
+14,Atlantic Coast Conference Median,19664330.0,5650024.5,18887252.0
+15,Auburn,35377944.0,9265990.0,28335246.0
+16,Austin Peay State University,2076394.8,543556.6,231443.42
+19,Ball State,6261753.5,1574665.1,938253.8
+21,Big 12 Conference Median,18231670.0,5478342.0,19738620.0
+22,Big East Conference Median,14537735.0,3954661.0,10513043.0
+23,Big Ten Conference Median,22353030.0,5509229.0,25143060.0
+24,Binghampton,,,347080.72
+25,Boise State,14044986.0,3874327.8,7060819.5
+27,Bowling Green,5460146.0,1585857.5,1590621.9
+28,Buffalo,6173271.0,1377505.5,1071946.9
+29,California,25921178.0,5449813.5,13865609.0
+31,California Polytechnic State University-San Luis Obispo,3084985.5,985451.7,599536.5
+32,California State University-Bakersfield,,,227915.67
+33,California State University-Fresno,9442817.0,3558249.2,8150775.0
+34,California State University-Fullerton,,,486061.72
+35,California State University-Long Beach,,,642355.1
+36,California State University-Northridge,,,78420.36
+37,California State University-Sacramento,3099052.5,993829.94,219359.22
+38,Central Connecticut State University,1933796.4,736897.8,70181.5
+39,Central Michigan,6477380.0,1753339.9,943463.6
+44,Chicago State University,,,7980.25
+45,Cincinnati,12430047.0,4484186.5,6649762.0
+46,Citadel Military College of South Carolina,3919280.0,1024937.0,1118963.0
+48,Clemson,26644244.0,7223852.0,22409336.0
+49,Cleveland State University,,,283140.44
+50,Coastal Carolina,5815194.5,1250019.0,526715.0
+51,College of Charleston,,,504709.7
+52,College of William and Mary,5229770.5,1054127.8,913129.6
+53,Colorado,17137506.0,5359146.0,13769866.0
+54,Colorado State,11607912.0,3239585.2,3706903.5
+55,Conference USA Median,8909231.0,2290689.0,3124996.8
+56,Connecticut,15504469.0,3886701.0,12187865.0
+57,Coppin State University,,,24407.572
+58,Delaware,5863573.5,1510913.5,2073956.1
+59,Delaware State University,3532613.0,933292.94,129395.93
+61,East Carolina,9978537.0,2991855.0,6542738.5
+62,East Tennessee State University,3861873.0,1092142.0,467633.84
+63,Eastern Illinois University,2762909.8,798914.2,145823.92
+64,Eastern Kentucky,3356417.0,848544.2,296719.22
+65,Eastern Michigan,7194057.0,1504703.8,358574.44
+66,Eastern Washington,3317465.5,800611.1,442007.44
+67,FBS Median,13362613.0,3855110.2,9162912.0
+68,FCS Median,3007822.8,832305.7,509471.94
+70,Florida,28016248.0,7920708.0,23576532.0
+71,Florida Agricultural and Mechanical University,2956526.5,939566.7,1575387.8
+72,Florida Atlantic,6175518.0,1755175.5,990068.4
+73,Florida Gulf Coast University,,,622547.56
+74,Florida International,8031707.0,1894322.4,661706.56
+75,Florida State,27183436.0,8015081.0,20378000.0
+79,George Mason University,,,703841.8
+80,Georgia,26289822.0,7367397.5,22925558.0
+81,Georgia Southern,4099314.0,1395987.8,1085009.1
+82,Georgia State,7125090.5,2153601.5,429709.28
+83,Georgia Tech,18297902.0,5157784.0,11777332.0
+85,Grambling,2588217.5,856177.1,1317386.9
+87,Hawaii,9988891.0,2374209.0,7353652.5
+89,Houston,10624559.0,3294167.2,3593901.8
+90,Idaho,5967646.0,1445543.0,703063.9
+91,Idaho State,3182724.5,707154.5,318022.06
+92,Illinois,16280752.0,4440749.0,16498826.0
+93,Illinois State,3226102.0,929505.0,1395659.5
+94,Independent Median,7950609.5,2101951.5,3872348.5
+97,Indiana State University,3151396.8,731632.1,558316.9
+98,Indiana University-Bloomington,17259606.0,4240151.5,14870011.0
+99,Indiana University-Purdue University-Indianapolis,,,50613.383
+100,Iowa,26471900.0,8093453.0,25190214.0
+101,Iowa State,15381896.0,4052824.2,13300634.0
+102,Jackson State,1911130.8,858048.2,1275678.2
+103,Jacksonville State,3912652.2,967439.44,593742.75
+104,James Madison,6757516.0,1319074.4,1845550.9
+105,Kansas,15552574.0,4521176.5,19883580.0
+106,Kansas State,14834565.0,5385442.0,15621205.0
+107,Kennesaw State University,3983862.2,1169796.2,283013.9
+108,Kent State,5186837.5,1208324.9,618229.8
+109,Kentucky,16299559.0,5418009.0,30307426.0
+111,Lafayette,6244161.0,2018278.6,2076901.9
+112,Lamar University,3894705.0,993971.8,537441.4
+115,Longwood University,,,16476.785
+117,Louisiana Monroe,3902667.8,948213.0,1026731.2
+118,Louisiana State University and Agricultural & Mechanical College,25924428.0,9369047.0,36556588.0
+119,Louisiana Tech,5711399.5,1659096.8,1490571.1
+120,Louisville,18181950.0,5728776.0,24418788.0
+122,Marshall,7822781.0,1980478.0,3497796.2
+123,Maryland,14713400.0,5043101.5,14109440.0
+124,McNeese,2686859.0,604006.44,1110217.9
+125,Memphis,11670603.0,3952760.5,9110970.0
+126,Miami,7016763.0,1662230.1,1357278.8
+128,Michigan,25991490.0,7902580.5,46611276.0
+129,Michigan State,26826400.0,6298069.0,25777656.0
+130,Mid-American Conference Median,6636601.0,1596838.6,1149589.4
+131,Middle Tennessee,8501372.0,1828591.4,1403744.8
+134,Mississippi State,14698288.0,5548683.5,11765224.0
+135,Mississippi Valley State University,1150102.1,381104.84,156358.64
+136,Missouri,16546317.0,6580147.0,20656440.0
+138,Missouri State University,2991445.0,842627.9,1697601.9
+140,Montana,5654865.0,1102925.6,5320785.0
+141,Montana State,6123978.0,1061591.5,2251668.2
+142,Morehead State University,1162884.8,504321.62,140940.78
+143,Morgan State,2634196.8,679245.1,164175.42
+144,Mountain West Conference Median,9077524.0,2839679.2,4942554.5
+145,Murray State University,2702217.8,696886.06,946579.6
+147,NFS Median,,,210138.86
+149,Nebraska,24130290.0,5962205.5,34729416.0
+151,New Jersey Institute of Technology,,,19166.9
+152,New Mexico,8003107.0,2344377.8,6940125.5
+153,New Mexico State,6669140.5,1434929.8,1750334.2
+154,Nicholls,1857444.0,556191.4,180626.64
+155,Norfolk State,2991547.2,774504.0,445233.28
+157,North Carolina,19184042.0,4568790.5,22261086.0
+158,North Carolina A&T,2894132.5,848312.94,1004827.0
+159,North Carolina Central,3307111.8,988216.6,490978.25
+161,North Carolina State University at Raleigh,17272876.0,4550453.5,19897064.0
+162,North Dakota State,4402154.5,1388717.8,3000850.5
+163,North Texas,9252267.0,1948214.2,1013180.7
+164,Northern Arizona,3240308.5,760146.0,308323.22
+165,Northern Colorado,2880060.5,630475.8,333808.28
+166,Northern Illinois,7933646.0,1500875.5,1382079.2
+167,Northern Iowa,3495658.0,1079402.5,1504445.6
+168,Northern Kentucky University,,,160102.0
+172,Northwestern State University of Louisiana,2762416.2,573888.8,306376.78
+174,Oakland University,,,151978.78
+175,Ohio,7272171.5,1683460.5,1064754.1
+176,Ohio State,36672156.0,9178333.0,53393284.0
+177,Oklahoma,27129870.0,9630886.0,38478496.0
+178,Oklahoma State,17586826.0,6177056.0,21117876.0
+179,Old Dominion,7945897.5,1676874.6,2645479.8
+180,Ole Miss,20315376.0,5539619.5,15879926.0
+181,Oregon,19840740.0,6104368.5,22205858.0
+182,Oregon State,13996232.0,4283541.0,10461377.0
+183,Pacific-12 Conference Median,19817680.0,5278208.5,14093285.0
+184,Penn State,26535980.0,5906773.5,36841532.0
+186,Portland State,3632785.2,845157.06,310248.34
+187,Prairie View A & M University,2460622.2,823529.1,459713.78
+188,Purdue,17215096.0,4346795.5,15304332.0
+189,Purdue University Fort Wayne,,,128722.64
+190,Radford University,,,52690.145
+193,Rutgers,21768324.0,4905926.0,9983185.0
+195,Sam Houston State,2946195.0,910039.7,412243.16
+198,San Diego State,11628594.0,3119000.2,5007078.0
+199,San Jose State,6779580.5,2125592.8,1048228.56
+200,Savannah State,1457901.4,402317.53,163586.31
+202,South Alabama,8835348.0,2002250.6,727280.1
+203,South Carolina,23986524.0,6295730.0,22665396.0
+204,South Carolina State,2818384.0,916114.3,783332.3
+205,South Dakota State,3049313.2,768358.6,1730560.5
+206,South Florida,11658043.0,3368766.2,5445577.0
+207,Southeast Missouri State University,2318092.8,685942.0,424544.0
+208,Southeastern Conference Median,25689008.0,7029597.5,27983354.0
+209,Southeastern Louisiana,2995222.0,731189.3,422274.34
+212,Southern Illinois University-Carbondale,3655764.5,755222.5,1563705.8
+213,Southern Illinois University-Edwardsville,,,105255.4
+214,Southern Mississippi,7185448.0,2078226.8,2834971.0
+216,Southern University and A & M College,2445624.8,764040.2,1867503.1
+217,Southern Utah,2180994.2,576684.5,166932.58
+219,Stephen F Austin State University,3101561.8,978471.7,308666.84
+221,Stony Brook University,3798456.5,955692.44,356932.16
+222,Sun Belt Conference Median,6168990.5,1663158.6,977099.3
+226,Tennessee,29918894.0,7003885.0,34635550.0
+227,Tennessee State,3579164.8,941334.06,756997.56
+229,Tennessee Technological University,2710890.8,569443.8,336771.94
+230,Texas,27308844.0,9755747.0,58306708.0
+231,Texas A & M University-Corpus Christi,,,268089.44
+232,Texas A&M,23239496.0,7619113.0,37743180.0
+236,Texas Southern University,2410420.2,803911.1,224971.92
+237,Texas State,5028741.0,1364551.6,735384.8
+238,Texas Tech,24246734.0,5095345.0,13098247.0
+239,The University of Tennessee at Chattanooga,3564328.8,975088.6,748236.0
+240,The University of Tennessee at Martin,2457115.5,594655.6,98258.29
+241,The University of Texas Rio Grande Valley,,,62124.355
+242,The University of Texas at Arlington,,,180310.14
+243,The University of Texas at El Paso,9904296.0,2021190.4,3337625.8
+244,The University of Texas at San Antonio,8033973.0,1822719.1,1142990.9
+245,Toledo,7193948.5,1731416.0,1856353.8
+246,Towson,3669101.8,968893.44,310067.94
+247,Troy,6103874.0,1866672.8,839300.0
+250,UAB,7347344.5,2129249.2,1415642.4
+251,UC Davis,3857752.2,931199.6,502475.66
+252,UCF,16232036.0,3803490.2,4631318.0
+253,UCLA,22248492.0,4814425.5,21163062.0
+255,UNLV,8046699.0,2091902.9,5616624.5
+260,"University at Albany, State University of New York",2437439.5,747660.06,299524.66
+261,University of Arkansas at Little Rock,,,579905.6
+262,University of Arkansas at Pine Bluff,1779315.8,613057.94,485846.66
+263,University of California-Irvine,,,331199.22
+264,University of California-Riverside,,,86223.36
+265,University of California-Santa Barbara,,,319080.34
+266,University of Central Arkansas,2977807.0,740776.5,466167.7
+267,University of Illinois at Chicago,,,383315.3
+268,University of Maryland Eastern Shore,,,35560.715
+269,University of Maryland-Baltimore County,,,62168.5
+270,University of Massachusetts Amherst,6405191.5,1080082.0,1443458.8
+271,University of Massachusetts-Lowell,,,623917.2
+272,University of Minnesota-Twin Cities,19330304.0,5136504.0,23250890.0
+273,University of Missouri-Kansas City,,,133048.42
+274,University of Nebraska at Omaha,,,2891829.5
+275,University of Nevada-Reno,6867839.5,1884958.1,3835532.2
+276,University of New Hampshire,4295815.0,966850.8,2126510.0
+277,University of New Orleans,,,83396.5
+278,University of North Carolina at Asheville,,,114538.79
+279,University of North Carolina at Charlotte,9581341.0,1787659.2,1051701.6
+280,University of North Carolina at Greensboro,,,177327.72
+281,University of North Carolina at Wilmington,,,465985.94
+282,University of North Dakota,3865497.2,920620.0,4305491.0
+283,University of North Florida,,,176483.4
+284,University of Rhode Island,4040497.0,876646.56,988353.5
+285,University of South Carolina Upstate,,,34978.273
+286,University of South Dakota,3210960.2,890200.3,504486.4
+287,University of Vermont,,,1595295.2
+288,University of Wisconsin-Green Bay,,,759324.44
+289,University of Wisconsin-Milwaukee,,,321099.84
+290,Utah,15815105.0,4644865.5,11928588.0
+291,Utah State,6575011.5,2016629.8,1949788.1
+292,Utah Valley University,,,55010.082
+295,Virginia,19954018.0,5577041.5,14381669.0
+296,Virginia Commonwealth University,,,1417211.4
+297,Virginia Military Institute,3205379.5,816549.94,252714.58
+298,Virginia Polytechnic Institute and State University,26570162.0,6503904.0,17971066.0
+301,Washington,27353322.0,6609933.0,23747798.0
+302,Washington State,12999941.0,3892753.0,6608446.0
+304,Weber State,2810456.0,809655.06,531618.94
+308,West Virginia,16997914.0,5323376.5,17691834.0
+309,Western Athletic Conference Median,5965263.5,1791080.8,2132123.2
+310,Western Carolina,2675842.8,814502.5,335161.06
+311,Western Illinois University,2865737.2,844249.9,147951.16
+312,Western Kentucky,6235121.0,1589538.2,1948591.5
+313,Western Michigan,6721972.5,2054354.2,1727727.2
+314,Wichita State University,,,4385140.5
+315,Winthrop University,,,176618.92
+316,Wisconsin,29061240.0,6059845.0,28858334.0
+317,Wright State University,,,321658.56
+318,Wyoming,7391883.5,2800493.8,3949705.8
+320,Youngstown State,3502317.5,1116242.2,581429.1

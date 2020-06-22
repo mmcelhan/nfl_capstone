@@ -10,7 +10,9 @@ import geo_master
 import college_stats_build
 import combine_stats_build
 import college_players_build
+import college_economics_build
 import draft_stats_build
+
 
 if madden:
     from madden_build import main as madden_main

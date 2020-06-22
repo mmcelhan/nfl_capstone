@@ -56,3 +56,13 @@ def return_fms_id_df(keep_columns=['fms_id', 'first_name', 'last_name', 'college
     return df
 
 
+def return_fms_college_id(keep_columns = ['fms_college_id', 'college']):
+    local_path = os.path.dirname(os.path.abspath(__file__))
+    one_up = os.path.abspath(os.path.join(local_path, ".."))
+    source = open(os.path.join(one_up, "data_warehouse", "master_wh", "college_master.csv"))
+    df = pd.read_csv(source)
+    df = df[keep_columns]
+    return df
+
+
+

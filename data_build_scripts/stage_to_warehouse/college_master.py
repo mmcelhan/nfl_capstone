@@ -67,11 +67,21 @@ def main():
 
     # remap names
     combine_df['college'] = combine_df['college'].map(matching_dict).fillna(combine_df['college'])
+    combine_df['college'] = combine_df['college'].map(matching['college']).fillna(combine_df['college'])
+
     college_weather_df['college'] = college_weather_df['college'].map(matching_dict).fillna(college_weather_df['college'])
+    college_weather_df['college'] = college_weather_df['college'].map(matching['college']).fillna(college_weather_df['college'])
+
     college_econ_df['college'] = college_econ_df['college'].map(matching_dict).fillna(
         college_econ_df['college'])
+    college_econ_df['college'] = college_econ_df['college'].map(matching['college']).fillna(
+        college_econ_df['college'])
+
     college_budget_df['college'] = college_budget_df['college'].map(matching_dict).fillna(
         college_budget_df['college'])
+    college_budget_df['college'] = college_budget_df['college'].map(matching['college']).fillna(
+        college_budget_df['college'])
+
 
     df = df.merge(combine_df, how='left', on='college').drop_duplicates(subset='college').reset_index(
         drop=True)
