@@ -13,6 +13,7 @@ import college_players_build
 import college_economics_build
 import draft_stats_build
 import weather_build
+import city_economics_build
 
 
 if madden:

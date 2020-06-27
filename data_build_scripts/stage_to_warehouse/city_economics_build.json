@@ -1,0 +1,13 @@
+{
+  "source": "data_staging",
+  "target": "data_warehouse",
+  "output_folder": "statistics_wh",
+  "output_file": "city_economics.csv",
+  "homewtown_econ": {"folder": "statistics_stage", "file": "hometown-econ-output.csv"},
+  "collegetown_econ": {"folder": "statistics_stage", "file": "collegetown-econ-output.csv"},
+  "column_rename":
+  {
+    "Geographic Location": "city_state"
+  },
+  "column_keep": ["fms_city_id", "city_state", "county", "state", "poverty_pct", "med_income"]
+}
