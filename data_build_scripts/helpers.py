@@ -65,4 +65,10 @@ def return_fms_college_id(keep_columns = ['fms_college_id', 'college']):
     return df
 
 
-
+def return_fms_city_id(keep_columns = ['fms_city_id', 'city_state']):
+    local_path = os.path.dirname(os.path.abspath(__file__))
+    one_up = os.path.abspath(os.path.join(local_path, ".."))
+    source = open(os.path.join(one_up, "data_warehouse", "master_wh", "geo_master.csv"))
+    df = pd.read_csv(source)
+    df = df[keep_columns]
+    return df

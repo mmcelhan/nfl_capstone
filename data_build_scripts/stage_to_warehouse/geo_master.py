@@ -63,6 +63,10 @@ def main():
     matching.update(new_dict)
     hlp.write_matching_dict(matching)
 
+    # drop duplicates
+
+    df.drop_duplicates(subset='fms_city_id', keep='last', inplace=True)
+
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)
     target = os.path.join(target_folder, data['output_file'])

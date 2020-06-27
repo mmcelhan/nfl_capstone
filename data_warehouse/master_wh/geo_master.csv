@@ -3,11 +3,9 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 669,"Colorado Springs, CO",Colorado Springs, CO,,38.8339578,-104.8253485
 24,"Akron, OH",Akron, OH,,41.083064,-81.518485
 3310,"Tuscaloosa, AL",Tuscaloosa, AL,,33.2095614,-87.5675258
-3310,"Tuscaloosa, AL",Tuscaloosa, AL,,33.2095614,-87.5675258
 2195,"Montgomery, AL",Montgomery, AL,,32.3669656,-86.3006485
 292,"Birmingham, AL",Birmingham, AL,,33.5206824,-86.80243259999999
 1907,"Lorman, MS",Lorman, MS,,31.8204396,-91.0501057
-330,"Boone, NC",Boone, NC,,36.216795,-81.6745517
 330,"Boone, NC",Boone, NC,,36.216795,-81.6745517
 3303,"Tucson, AZ",Tucson, AZ,,32.2228765,-110.9748477
 3243,"Tempe, AZ",Tempe, AZ,,33.4255056,-111.9400125
@@ -17,19 +15,14 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 150,"Auburn, AL",Auburn, AL,,32.535699,-85.48677785023041
 173,"Azusa, CA",Azusa, CA,,34.1338751,-117.90560459999999
 2260,"Muncie, IN",Muncie, IN,,40.19368920000001,-85.3865271
-2260,"Muncie, IN",Muncie, IN,,40.19368920000001,-85.3865271
 3388,"Waco, TX",Waco, TX,,31.549333,-97.1466695
-323,"Boise, ID",Boise, ID,,43.6166163,-116.20088600000001
 323,"Boise, ID",Boise, ID,,43.6166163,-116.20088600000001
 581,"Chestnut Hill, MA",Chestnut Hill, MA,,42.3306529,-71.1661647
 347,"Bowling Green, OH",Bowling Green, OH,,41.3747744,-83.65132290000001
-347,"Bowling Green, OH",Bowling Green, OH,,41.3747744,-83.65132290000001
-2715,"Provo, UT",Provo, UT,,40.233843799999995,-111.6585337
 2715,"Provo, UT",Provo, UT,,40.233843799999995,-111.6585337
 75,"Amherst, NY",Amherst, NY,,42.9783924,-78.7997616
 270,"Berkeley, CA",Berkeley, CA,,37.8708393,-122.27286389999999
 455,"California, PA",California, PA,,40.0657724,-79.8918436
-800,"Davis, CA",Davis, CA,,38.545379,-121.74458349999999
 800,"Davis, CA",Davis, CA,,38.545379,-121.74458349999999
 2488,"Orlando, FL",Orlando, FL,,28.5421109,-81.3790304
 2245,"Mount Pleasant, MI",Mount Pleasant, MI,,43.597646000000005,-84.7668495
@@ -38,19 +31,14 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 559,"Charlotte, NC",Charlotte, NC,,35.2272,-80.843083
 567,"Chattanooga, TN",Chattanooga, TN,,35.0457219,-85.3094883
 2609,"Philadelphia, PA",Philadelphia, PA,,39.9527237,-75.16352619999999
-2609,"Philadelphia, PA",Philadelphia, PA,,39.9527237,-75.16352619999999
 601,"Cincinnati, OH",Cincinnati, OH,,39.1014537,-84.5124602
-142,"Atlanta, GA",Atlanta, GA,,33.749098700000005,-84.39018490000001
-142,"Atlanta, GA",Atlanta, GA,,33.749098700000005,-84.39018490000001
 142,"Atlanta, GA",Atlanta, GA,,33.749098700000005,-84.39018490000001
 627,"Clemson, SC",Clemson, SC,,34.685074900000004,-82.83641109999999
 699,"Conway, SC",Conway, SC,,33.8360035,-79.0478143
 338,"Boulder, CO",Boulder, CO,,40.0149856,-105.2705456
 1068,"Fort Collins, CO",Fort Collins, CO,,40.5508527,-105.0668085
-1068,"Fort Collins, CO",Fort Collins, CO,,40.5508527,-105.0668085
 891,"East Hartford, CT",East Hartford, CT,,41.7823216,-72.61203459999999
 2335,"Newark, DE",Newark, DE,,39.6852191,-75.75082890000002
-882,"Durham, NC",Durham, NC,,35.996653,-78.90180529999999
 882,"Durham, NC",Durham, NC,,35.996653,-78.90180529999999
 1267,"Greenville, NC",Greenville, NC,,35.612660999999996,-77.3663538
 2790,"Richmond, KY",Richmond, KY,,37.747857200000006,-84.29465390000001
@@ -60,12 +48,8 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 1136,"Gainesville, FL",Gainesville, FL,,29.6519684,-82.3249846
 319,"Boca Raton, FL",Boca Raton, FL,,26.3586885,-80.08309840000001
 2116,"Miami, FL",Miami, FL,,25.7742658,-80.1936589
-2116,"Miami, FL",Miami, FL,,25.7742658,-80.1936589
-2116,"Miami, FL",Miami, FL,,25.7742658,-80.1936589
-3226,"Tallahassee, FL",Tallahassee, FL,,30.4380832,-84.2809332
 3226,"Tallahassee, FL",Tallahassee, FL,,30.4380832,-84.2809332
 1368,"Hays, KS",Hays, KS,,38.8791783,-99.3267702
-1119,"Fresno, CA",Fresno, CA,,36.7295295,-119.70886126075588
 1119,"Fresno, CA",Fresno, CA,,36.7295295,-119.70886126075588
 1268,"Greenville, SC",Greenville, SC,,34.851354,-82.3984882
 138,"Athens, GA",Athens, GA,,33.9597677,-83.376398
@@ -76,7 +60,6 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 1452,"Honolulu, HI",Honolulu, HI,,21.304547,-157.8556764
 1414,"Hillsdale, MI",Hillsdale, MI,,41.8779105,-84.59843959999999
 1465,"Houston, TX",Houston, TX,,29.7589382,-95.36769740000001
-1465,"Houston, TX",Houston, TX,,29.7589382,-95.36769740000001
 2231,"Moscow, ID",Moscow, ID,,46.7323875,-117.00016509999999
 2658,"Pocatello, ID",Pocatello, ID,,42.86886129999999,-112.4401098
 542,"Champaign, IL",Champaign, IL,,40.116420500000004,-88.2433829
@@ -85,23 +68,15 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 1512,"Indiana, PA",Indiana, PA,,40.6424116,-79.1262839
 1527,"Iowa City, IA",Iowa City, IA,,41.661256099999996,-91.5299106
 72,"Ames, IA",Ames, IA,,42.026770299999995,-93.6170554
-72,"Ames, IA",Ames, IA,,42.026770299999995,-93.6170554
-1551,"Jacksonville, AL",Jacksonville, AL,,33.8269995,-85.78319335989826
-1551,"Jacksonville, AL",Jacksonville, AL,,33.8269995,-85.78319335989826
 1551,"Jacksonville, AL",Jacksonville, AL,,33.8269995,-85.78319335989826
 1344,"Harrisonburg, VA",Harrisonburg, VA,,38.4493315,-78.8688833
 1793,"Lawrence, KS",Lawrence, KS,,38.9719384,-95.2359496
-1993,"Manhattan, KS",Manhattan, KS,,39.1836082,-96.5716694
 1993,"Manhattan, KS",Manhattan, KS,,39.1836082,-96.5716694
 1639,"Kent, OH",Kent, OH,,41.1536674,-81.357886
 1835,"Lexington, KY",Lexington, KY,,38.0464066,-84.4970393
 1761,"Lane, TN",Lane, TN,,36.194235799999994,-89.3622943
 1944,"Lynchburg, VA",Lynchburg, VA,,37.4137536,-79.1422464
 1712,"Lafayette, LA",Lafayette, LA,,30.2240897,-92.0198427
-1712,"Lafayette, LA",Lafayette, LA,,30.2240897,-92.0198427
-208,"Baton Rouge, LA",Baton Rouge, LA,,30.445959600000002,-91.18738
-208,"Baton Rouge, LA",Baton Rouge, LA,,30.445959600000002,-91.18738
-208,"Baton Rouge, LA",Baton Rouge, LA,,30.445959600000002,-91.18738
 208,"Baton Rouge, LA",Baton Rouge, LA,,30.445959600000002,-91.18738
 2871,"Ruston, LA",Ruston, LA,,32.5232053,-92.637927
 2184,"Monroe, LA",Monroe, LA,,38.272231299999994,-90.1792484
@@ -115,19 +90,15 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 2117,"Miami, OH",Miami, OH,,40.058025799999996,-84.2236524
 94,"Ann Arbor, MI",Ann Arbor, MI,,42.268156899999994,-83.7312291
 895,"East Lansing, MI",East Lansing, MI,,42.735541600000005,-84.4852469
-895,"East Lansing, MI",East Lansing, MI,,42.735541600000005,-84.4852469
-2266,"Murfreesboro, TN",Murfreesboro, TN,,35.845999,-86.3920452
 2266,"Murfreesboro, TN",Murfreesboro, TN,,35.845999,-86.3920452
 2160,"Minneapolis, MN",Minneapolis, MN,,44.9772995,-93.2654692
 2225,"Morris, MN",Morris, MN,,45.586071999999994,-95.91394100000001
 2504,"Oxford, MS",Oxford, MS,,34.366412700000005,-89.5187664
 3151,"Starkville, MS",Starkville, MS,,33.4503998,-88.8183872
-3151,"Starkville, MS",Starkville, MS,,33.4503998,-88.8183872
 674,"Columbia, MO",Columbia, MO,,38.951883,-92.3337366
 1596,"Joplin, MO",Joplin, MO,,37.084179999999996,-94.51323000000001
 3141,"St. Joseph, MO",St. Joseph, MO,,39.7686055,-94.8466322
 2170,"Missoula, MT",Missoula, MT,,46.8701049,-113.9952672
-353,"Bozeman, MT",Bozeman, MT,,45.679429299999995,-111.04404740000001
 353,"Bozeman, MT",Bozeman, MT,,45.679429299999995,-111.04404740000001
 187,"Baltimore, MD",Baltimore, MD,,39.2847494,-76.62047463969989
 96,"Annapolis, MD",Annapolis, MD,,38.9786401,-76.492786
@@ -135,16 +106,12 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 2770,"Reno, NV",Reno, NV,,39.5261206,-119.81265810000001
 36,"Albuquerque, NM",Albuquerque, NM,,35.0841034,-106.6509851
 1780,"Las Cruces, NM",Las Cruces, NM,,32.3140354,-106.7798078
-1780,"Las Cruces, NM",Las Cruces, NM,,32.3140354,-106.7798078
 3259,"Thibodaux, LA",Thibodaux, LA,,29.795763300000004,-90.82287099999999
-2373,"Norfolk, VA",Norfolk, VA,,36.888993299999996,-76.24816240000001
 2373,"Norfolk, VA",Norfolk, VA,,36.888993299999996,-76.24816240000001
 1040,"Florence, AL",Florence, AL,,34.79981,-87.677251
 547,"Chapel Hill, NC",Chapel Hill, NC,,35.9131542,-79.05578
 1260,"Greensboro, NC",Greensboro, NC,,36.0726355,-79.79197540000001
 2737,"Raleigh, NC",Raleigh, NC,,35.7803977,-78.63909890000001
-2737,"Raleigh, NC",Raleigh, NC,,35.7803977,-78.63909890000001
-1008,"Fargo, ND",Fargo, ND,,46.877229,-96.78982099999999
 1008,"Fargo, ND",Fargo, ND,,46.877229,-96.78982099999999
 828,"Denton, TX",Denton, TX,,33.1838787,-97.1413417
 1033,"Flagstaff, AZ",Flagstaff, AZ,,35.19875220000001,-111.6518229
@@ -153,16 +120,12 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 521,"Cedar Falls, IA",Cedar Falls, IA,,42.527412299999995,-92.4453179
 985,"Evanston, IL",Evanston, IL,,42.0447388,-87.6930459
 2292,"Natchitoches, LA",Natchitoches, LA,,31.760673200000003,-93.08602090000001
-2292,"Natchitoches, LA",Natchitoches, LA,,31.760673200000003,-93.08602090000001
 2417,"Notre Dame, IN",Notre Dame, IN,,41.70456775,-86.23822026017265
 139,"Athens, OH",Athens, OH,,39.355589,-82.06104040000001
 683,"Columbus, OH",Columbus, OH,,39.9622601,-83.00070649999999
-683,"Columbus, OH",Columbus, OH,,39.9622601,-83.00070649999999
 2375,"Norman, OK",Norman, OK,,35.2225717,-97.4394816
 3165,"Stillwater, OK",Stillwater, OK,,36.1156306,-97.0585717
-3165,"Stillwater, OK",Stillwater, OK,,36.1156306,-97.0585717
 978,"Eugene, OR",Eugene, OR,,44.0505054,-123.09505060000001
-723,"Corvallis, OR",Corvallis, OR,,44.5645659,-123.2620435
 723,"Corvallis, OR",Corvallis, OR,,44.5645659,-123.2620435
 3152,"State College, PA",State College, PA,,40.794450399999995,-77.86163859999999
 3333,"University Park, PA",University Park, PA,,40.808749299999995,-77.8585662
@@ -174,14 +137,9 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 1493,"Huntsville, TX",Huntsville, TX,,30.723526300000003,-95.55077709999999
 1448,"Homewood, AL",Homewood, AL,,33.4717732,-86.8008228
 2921,"San Diego, CA",San Diego, CA,,32.7174209,-117.16277140000001
-2921,"San Diego, CA",San Diego, CA,,32.7174209,-117.16277140000001
-2921,"San Diego, CA",San Diego, CA,,32.7174209,-117.16277140000001
-2925,"San Jose, CA",San Jose, CA,,37.3361905,-121.89058329999999
-2925,"San Jose, CA",San Jose, CA,,37.3361905,-121.89058329999999
 2925,"San Jose, CA",San Jose, CA,,37.3361905,-121.89058329999999
 2970,"Savannah, GA",Savannah, GA,,32.0809263,-81.09117679999999
 3028,"Shepherdstown, WV",Shepherdstown, WV,,39.430099600000005,-77.804161
-777,"Dallas, TX",Dallas, TX,,32.7762719,-96.7968559
 777,"Dallas, TX",Dallas, TX,,32.7762719,-96.7968559
 2174,"Mobile, AL",Mobile, AL,,30.6943566,-88.04305409999999
 676,"Columbia, SC",Columbia, SC,,34.000749299999995,-81.03433129999999
@@ -190,8 +148,6 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 3230,"Tampa, FL",Tampa, FL,,27.947759499999997,-82.458444
 1322,"Hammond, LA",Hammond, LA,,41.5833658,-87.500043
 1911,"Los Angeles, CA",Los Angeles, CA,,34.0536909,-118.2427666
-1911,"Los Angeles, CA",Los Angeles, CA,,34.0536909,-118.2427666
-1911,"Los Angeles, CA",Los Angeles, CA,,34.0536909,-118.2427666
 484,"Carbondale, IL",Carbondale, IL,,37.7274692,-89.216655
 1358,"Hattiesburg, MS",Hattiesburg, MS,,31.327118900000002,-89.2903392
 131,"Ashland, OR",Ashland, OR,,42.1972487,-122.71539950000002
@@ -199,9 +155,7 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 3148,"Stanford, CA",Stanford, CA,,37.427467,-122.17024450000001
 3221,"Syracuse, NY",Syracuse, NY,,43.0481221,-76.1474244
 1092,"Fort Worth, TX",Fort Worth, TX,,32.753177,-97.3327459
-1092,"Fort Worth, TX",Fort Worth, TX,,32.753177,-97.3327459
 1675,"Knoxville, TN",Knoxville, TN,,35.960394799999996,-83.92102609999999
-2289,"Nashville, TN",Nashville, TN,,36.1622296,-86.7743531
 2289,"Nashville, TN",Nashville, TN,,36.1622296,-86.7743531
 701,"Cookeville, TN",Cookeville, TN,,36.1623886,-85.4997057
 2037,"Martin, TN",Martin, TN,,36.343396500000004,-88.850338
@@ -209,7 +163,6 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 662,"College Station, TX",College Station, TX,,30.595528899999998,-96.3071042
 688,"Commerce, TX",Commerce, TX,,33.2442615,-95.9006353
 3317,"Tyler, TX",Tyler, TX,,32.351260100000005,-95.3010624
-2932,"San Marcos, TX",San Marcos, TX,,29.882643599999998,-97.9405828
 2932,"San Marcos, TX",San Marcos, TX,,29.882643599999998,-97.9405828
 1933,"Lubbock, TX",Lubbock, TX,,33.563520600000004,-101.879336
 922,"El Paso, TX",El Paso, TX,,31.7754152,-106.4646348
@@ -222,13 +175,11 @@ fms_city_id,city_state,city,state,country,latitude,longitude
 1781,"Las Vegas, NV",Las Vegas, NV,,36.1672559,-115.1485163
 2912,"Salt Lake City, UT",Salt Lake City, UT,,40.759619799999996,-111.88679750000001
 1880,"Logan, UT",Logan, UT,,41.7313447,-111.8348631
-1880,"Logan, UT",Logan, UT,,41.7313447,-111.8348631
 3376,"Villanova, PA",Villanova, PA,,40.037332299999996,-75.34907690000001
 560,"Charlottesville, VA",Charlottesville, VA,,38.029306,-78.4766781
 299,"Blacksburg, VA",Blacksburg, VA,,37.2296566,-80.4136767
 3583,"Winston-Salem, NC",Winston-Salem, NC,,36.0998131,-80.2440518
 2988,"Seattle, WA",Seattle, WA,,47.6038321,-122.3300624
-2721,"Pullman, WA",Pullman, WA,,46.7304268,-117.173895
 2721,"Pullman, WA",Pullman, WA,,46.7304268,-117.173895
 836,"Detroit, MI",Detroit, MI,,42.331550899999996,-83.04664029999999
 2450,"Ogden, UT",Ogden, UT,,41.2230048,-111.9738429

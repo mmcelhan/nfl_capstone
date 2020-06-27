@@ -37,7 +37,7 @@ def main():
     df['college'] = df['college'].map(school_matching).fillna(df['college'])
     df['college'] = df['college'].map(matching['college']).fillna(df['college'])
 
-    # get mean values for certain columns
+
     #df = df.groupby('college').mean().reset_index()
 
     master_college_df = hlp.return_fms_college_id()

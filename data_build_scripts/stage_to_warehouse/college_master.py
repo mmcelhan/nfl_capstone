@@ -98,6 +98,12 @@ def main():
     df['state'] = df['city_state'].apply(lambda x: x.split(',')[1]if isinstance(x, str) else "")
     df = df.assign(fms_college_id=(df['college']).astype('category').cat.codes)
 
+
+    geo_df = hlp.return_fms_city_id()
+
+    df = df.merge(geo_df, on=['city_state'], how='left')
+
+
     df = df[data['keep_columns']]
 
     new_dict = {}
@@ -107,6 +113,10 @@ def main():
 
     matching.update(new_dict)
     hlp.write_matching_dict(matching)
+
+    # drop duplicates
+
+    df.drop_duplicates(subset='fms_college_id', keep='last', inplace=True)
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)

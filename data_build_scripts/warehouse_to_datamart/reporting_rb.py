@@ -60,8 +60,6 @@ def main():
         z_score_list.append(col_zscore)
         df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
 
-    print(df.columns)
-
     df = df[data['column_order']]
 
     target_folder = os.path.join(target_dir, data['output_folder'])

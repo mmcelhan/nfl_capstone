@@ -1,0 +1,16 @@
+{
+  "source": "data_staging",
+  "target": "data_warehouse",
+  "output_folder": "statistics_wh",
+  "output_file": "weather.csv",
+  "homewtown_weather": {"folder": "statistics_stage", "file": "hometown-weather-output.csv"},
+  "collegetown_weather": {"folder": "statistics_stage", "file": "collegetown-weather-output.csv"},
+  "column_rename":
+  {
+    "Geographic Location": "city_state"
+  },
+  "column_keep": ["fms_city_id", "city_state", "ann_rain_inch", "ann_snow_inch", "min_jan", "min_feb",
+    "min_mar", "min_apr", "min_may", "min_jun", "min_jul", "min_aug", "min_sep", "min_oct", "min_nov",
+    "min_dec", "max_jan", "max_feb", "max_mar", "max_apr", "max_may", "max_jun", "max_jul", "max_aug",
+    "max_sep", "max_oct", "max_nov", "max_dec"]
+}
