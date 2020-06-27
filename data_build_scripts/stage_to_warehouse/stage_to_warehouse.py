@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-madden = 1
+madden = 0
 
 import player_master
 import college_master

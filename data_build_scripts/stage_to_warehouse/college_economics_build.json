@@ -13,11 +13,11 @@
     "Total Football Coaching Salaries": "coaches_salaries",
     "Ticket Sales": "ticket_sales"
   },
-  "column_keep": ["college", "football_spending", "coaches_salaries", "ticket_sales"],
+  "column_keep": ["college", "year", "football_spending", "coaches_salaries", "ticket_sales"],
   "numerical_columns": ["football_spending", "coaches_salaries", "ticket_sales"],
   "column_order":
 
-            ["fms_college_id", "college", "football_spending", "coaches_salaries", "ticket_sales"
+            ["fms_college_id", "college", "year", "football_spending", "coaches_salaries", "ticket_sales"
 ]
 
 }

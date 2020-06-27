@@ -7,7 +7,7 @@
   "dimension_players": {"folder":"data_mart", "file": "dimensions_players.csv"},
   "facts_player_metrics": {"folder":"data_mart", "file": "facts_player_metrics.csv"},
   "facts_college_metrics": {"folder":"data_mart", "file": "facts_college_metrics.csv"},
-  "college_stats_keep_columns": ["fms_college_id","football_spending_zscore", "coaches_salaries_zscore", "ticket_sales_zscore"
+  "college_stats_keep_columns": ["fms_college_id","football_spending", "coaches_salaries", "ticket_sales"
 ],
   "column_order":
         ["fms_id", "espn_id", "full_name", "first_name", "last_name", "position",
@@ -29,8 +29,8 @@
        "rushing_rec_yards_pg_zscore", "rushing_receptions_pg_zscore",
        "rushing_rush_att_pg_zscore", "rushing_rush_td_pg_zscore",
        "rushing_rush_yds_pg_zscore", "rushing_scrim_plays_pg_zscore",
-       "rushing_scrim_tds_pg_zscore", "rushing_scrim_yds_pg_zscore", "football_spending_zscore", "coaches_salaries_zscore",
-          "ticket_sales_zscore","max_madden"
+       "rushing_scrim_tds_pg_zscore", "rushing_scrim_yds_pg_zscore","football_spending_zscore",
+          "coaches_salaries_zscore", "ticket_sales_zscore", "max_madden"
         ],
   
   "per_game_columns": 
@@ -47,7 +47,8 @@
        "rushing_scrim_plays", "rushing_scrim_tds", "rushing_scrim_yds",
        "rushing_seasons", "max_madden", "rushing_rec_td_pg", "rushing_rec_yards_pg", "rushing_receptions_pg",
       "rushing_rush_att_pg", "rushing_rush_td_pg", "rushing_rush_yds_pg",
-        "rushing_scrim_plays_pg", "rushing_scrim_tds_pg", "rushing_scrim_yds_pg"
+        "rushing_scrim_plays_pg", "rushing_scrim_tds_pg", "rushing_scrim_yds_pg",
+        "football_spending", "coaches_salaries", "ticket_sales"
         ]
 
 }

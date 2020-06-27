@@ -29,11 +29,14 @@ def main():
 
     ### college stats ###
 
+    ### commenting out for now until we land on what metrics we want
+
 
     source = os.path.join(two_up, data['facts_college_metrics']['folder'], data['facts_college_metrics']['file'])
     college_stats_df = pd.read_csv(source)
-
     college_stats_df = college_stats_df[data['college_stats_keep_columns']]
+    college_stats_df = college_stats_df.groupby('fms_college_id').mean().reset_index()
+
 
     df = pd.merge(df, college_stats_df, left_on='fms_college_id', right_on='fms_college_id', how='left')
     df = df.drop_duplicates(subset='fms_id', keep='last')
@@ -46,16 +49,18 @@ def main():
 
     for column in data['per_game_columns']:
         new_name = str(column) + '_pg'
-
         df[new_name] = df[column]/df['rushing_games']
 
     ### apply z score ###
+
 
     z_score_list = []  # to add te output df
     for col in data['z_score_columns']:
         col_zscore = col + '_zscore'
         z_score_list.append(col_zscore)
         df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
+
+    print(df.columns)
 
     df = df[data['column_order']]
 

@@ -33,12 +33,13 @@ def main():
 
     #df = df[data['column_order']]
 
+    """
     z_score_list = []  # to add te output df
     for col in data['z_score_columns']:
         col_zscore = col + '_zscore'
         z_score_list.append(col_zscore)
         df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
-
+    """
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)
