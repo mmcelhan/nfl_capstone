@@ -29,10 +29,7 @@ def main():
     df = df[data['column_keep']]
 
     for column in data['numerical_columns']:
-        df[column] = df[column].str.replace(',', '')
-        df[column] = df[column].str.replace('$', '')
-        df[column] = pd.to_numeric(df[column], errors='coerce')
-        df[column] = df[column].astype("Float32")
+        df[column] = df[column].apply(hlp.currency_to_float)  # convert currency to float, remove $ and ,
 
     df['college'] = df['college'].map(school_matching).fillna(df['college'])
     df['college'] = df['college'].map(matching['college']).fillna(df['college'])
@@ -45,8 +42,6 @@ def main():
     df = df.merge(master_college_df, on='college', how='left')
 
     df = df[data['column_order']]
-
-
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)

@@ -8,6 +8,17 @@ sys.path.append("../../column_matching")
 import column_matching.column_match as cm
 import data_build_scripts.helpers as hlp
 
+def moving_average(l, window=3):
+    l = [a for a in l if pd.notnull(a)]
+    l = l[-window:]
+    l = [float(a) for a in l]
+    print(l)
+    moving_avg = sum(l)/len(l)
+    return moving_avg
+
+def test_roll(data):
+    return data.rolling(window=3, min_periods=1, axis=0).mean()
+
 
 def main():
 
@@ -34,6 +45,10 @@ def main():
     madden_df = madden_df.drop_duplicates(subset='fms_id', keep='last')
 
     madden_df['max_madden'] = np.nanmax(madden_df[madden_df.columns.difference(['fms_id'])].values, axis=1)
+    # madden_df['max_madden'] = madden_df.apply(moving_average(list(madden_df.columns.difference(['fms_id']))))
+    # madden_df['max_madden'] = madden_df.apply(lambda row: moving_average(madden_df.columns.difference(['fms_id'])))
+    #madden_df['max_madden'] = madden_df.apply(test_roll, axis=1)
+
     madden_df = madden_df[data['madden_keep_post']]
 
     df = pd.merge(df, madden_df, left_on=['fms_id'], right_on=['fms_id'], how='left')
@@ -60,8 +75,6 @@ def main():
     df_college_stats = df_college_stats.drop_duplicates(subset='fms_id', keep='last')
 
     df = pd.merge(df, df_college_stats, on='fms_id', how='left')  # left join
-
-    #print(len(df['fms_id']))
 
     df.rename(columns=data['column_rename'], inplace=True)
 

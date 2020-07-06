@@ -9,5 +9,6 @@
   {
     "Geographic Location": "city_state"
   },
+  "numerical_columns": ["poverty_pct", "med_income"],
   "column_keep": ["fms_city_id", "city_state", "county", "state", "poverty_pct", "med_income"]
 }

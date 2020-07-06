@@ -34,6 +34,9 @@ def main():
 
     df = df.merge(city_df, on='city_state', how='left')
 
+    for column in data['numerical_columns']:
+        df[column] = df[column].apply(hlp.currency_to_float)  # convert currency to float, remove $ and ,
+
     df = df[data['column_keep']]
 
     df.drop_duplicates(subset='fms_city_id', keep='last', inplace=True)

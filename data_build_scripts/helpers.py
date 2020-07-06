@@ -23,6 +23,13 @@ def write_matching_dict(d):
         json.dump(d, fp)
     None  # end function
 
+def currency_to_float(f):
+    f = str(f)
+    f = f.replace(',', '')
+    f = f.replace('$', '')
+    f = pd.to_numeric(f, errors='coerce')
+    f = f.astype("Float32")
+    return f
 
 
 def return_college_matching_dict():
