@@ -24,7 +24,7 @@
     {"folder": "statistics", "file": "hometown-econ-output.csv"},
     {"folder":"players", "file": "raw_players_college.csv"},
     {"folder":"players", "file":"players.csv"},
-    {"folder": "colleges", "file": "CollegeFootballBudget.csv"}
-
+    {"folder": "colleges", "file": "CollegeFootballBudget.csv"},
+    {"folder": "colleges", "file": "college_conferences.csv"}
 ]
 }

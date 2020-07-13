@@ -21,8 +21,7 @@
     "height_inches": "college_height_inches"
   },
   "column_order":
-        [
-          "fms_id", "max_madden", "forty", "vertical",
+        ["fms_id", "forty", "vertical",
        "bench", "broad", "threecone", "shuttle", "defense_ast_tackles",
        "defense_fum_forced", "defense_fum_rec", "defense_fum_tds",
        "defense_fum_yds", "defense_games", "defense_int", "defense_int_td",
@@ -38,7 +37,7 @@
        "receiving_rec_td", "receiving_rec_yards", "receiving_receptions",
        "receiving_rush_att", "receiving_rush_td", "receiving_rush_yds",
        "receiving_scrim_plays", "receiving_scrim_tds", "receiving_scrim_yds",
-       "receiving_seasons"
-]
+       "receiving_seasons", "max_madden"
+        ]
 
 }

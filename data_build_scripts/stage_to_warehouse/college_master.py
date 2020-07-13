@@ -58,8 +58,15 @@ def main():
         drop=True)
     college_budget_df['college'] = college_budget_df['college'].map(school_matching).fillna(college_budget_df['college'])
 
+    # pull in conferences
 
-    sources_list = [combine_df, college_weather_df, college_econ_df, college_budget_df]
+    source = os.path.join(source_dir, data['conferences']['folder'], data['conferences']['file'])
+    college_conference_df = pd.read_csv(source)
+    college_conference_df = college_conference_df.drop_duplicates(subset='college').reset_index(
+        drop=True)
+    college_conference_df['college'] = college_conference_df['college'].map(school_matching).fillna(college_conference_df['college'])
+
+    sources_list = [combine_df, college_weather_df, college_econ_df, college_budget_df, college_conference_df]
 
     df, matching_dict = gld.golden_source_merge(sources_list, ['college'], 98)
 
@@ -82,6 +89,11 @@ def main():
     college_budget_df['college'] = college_budget_df['college'].map(matching['college']).fillna(
         college_budget_df['college'])
 
+    college_conference_df['college'] = college_conference_df['college'].map(matching_dict).fillna(
+        college_conference_df['college'])
+    college_conference_df['college'] = college_conference_df['college'].map(matching['college']).fillna(
+        college_conference_df['college'])
+
 
     df = df.merge(combine_df, how='left', on='college').drop_duplicates(subset='college').reset_index(
         drop=True)
@@ -91,6 +103,9 @@ def main():
         drop=True)
 
     df = df.merge(college_budget_df, how='left', on='college').drop_duplicates(subset='college').reset_index(
+        drop=True)
+
+    df = df.merge(college_conference_df, how='left', on='college').drop_duplicates(subset='college').reset_index(
         drop=True)
 
 
@@ -108,7 +123,6 @@ def main():
 
     new_dict = {}
     new_dict['college'] = matching_dict
-
 
 
     matching.update(new_dict)

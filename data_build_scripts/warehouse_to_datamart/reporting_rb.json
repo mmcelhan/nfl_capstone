@@ -11,9 +11,10 @@
   "facts_cities_metrics": {"folder":"data_mart", "file": "facts_cities_metrics.csv"},
   "dimension_colleges_keep_columns" : ["fms_college_id", "fms_city_id"],
   "college_stats_keep_columns": ["fms_college_id", "football_spending", "coaches_salaries", "ticket_sales"],
+  "conference_keep_columns": ["fms_college_id", "conference"],
   "column_order":
         ["fms_id", "espn_id", "fms_college_id", "fms_city_id", "full_name", "first_name", "last_name", "position",
-       "position_group", "section", "college", "draft_year",
+       "position_group", "section", "college","conference", "draft_year",
        "selection_number", "position_rank", "position_group_rank",
        "section_rank", "drafting_team", "home_city", "home_state",
        "home_country", "college_weight_pounds", "college_height_inches", "hw_ratio",
@@ -37,13 +38,25 @@
        "min_mar", "min_apr", "min_may", "min_jun", "min_jul", "min_aug",
        "min_sep", "min_oct", "min_nov", "min_dec", "max_jan", "max_feb",
        "max_mar", "max_apr", "max_may", "max_jun", "max_jul", "max_aug",
-       "max_sep", "max_oct", "max_nov", "max_dec","max_madden"
+       "max_sep", "max_oct", "max_nov", "max_dec","rushing_rush_td_pg_cf_scaled_zscore",
+          "rushing_rush_yds_pg_cf_scaled_zscore", "rushing_scrim_plays_pg_cf_scaled_zscore",
+        "rushing_scrim_tds_pg_cf_scaled_zscore", "rushing_scrim_yds_pg_cf_scaled_zscore","max_madden"
         ],
   
   "per_game_columns": 
           ["rushing_rec_td", "rushing_rec_yards",
        "rushing_receptions", "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds", "rushing_scrim_plays", "rushing_scrim_tds",
        "rushing_scrim_yds"],
+
+  "conference_scale": {
+    "sec": 1,
+    "acc": 0.9,
+    "big_10": 0.95,
+    "pac_12": 0.9,
+    "big_12": 0.85,
+    "mountain_west": 0.8,
+    "": 0.7
+  },
   
   "z_score_columns":
       ["college_weight_pounds", "college_height_inches", "hw_ratio",
@@ -55,7 +68,9 @@
        "rushing_seasons", "max_madden", "rushing_rec_td_pg", "rushing_rec_yards_pg", "rushing_receptions_pg",
       "rushing_rush_att_pg", "rushing_rush_td_pg", "rushing_rush_yds_pg",
         "rushing_scrim_plays_pg", "rushing_scrim_tds_pg", "rushing_scrim_yds_pg",
-        "football_spending", "coaches_salaries", "ticket_sales"
+        "football_spending", "coaches_salaries", "ticket_sales", "rushing_rush_td_pg_cf_scaled",
+        "rushing_rush_yds_pg_cf_scaled", "rushing_scrim_plays_pg_cf_scaled", "rushing_scrim_tds_pg_cf_scaled",
+        "rushing_scrim_yds_pg_cf_scaled"
         ]
 
 }

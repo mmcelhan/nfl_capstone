@@ -24,14 +24,11 @@ def main():
     source = os.path.join(two_up, data['dimension_colleges']['folder'], data['dimension_colleges']['file'])
     college_city_df = pd.read_csv(source)
     college_city_df = college_city_df[data['dimension_colleges_keep_columns']]
-    print(college_city_df)
 
     ### merge dimension players and dimension colleges ###
 
     df = pd.merge(df, college_city_df, on='fms_college_id', how='left')
     df = df.drop_duplicates(subset='fms_id', keep='last')
-
-    print(df)
 
     ### player stats ###
 
@@ -62,16 +59,30 @@ def main():
     df = df.drop_duplicates(subset='fms_id', keep='last')
 
 
+    ### add conference ###
+
+    source = os.path.join(two_up, data['dimension_colleges']['folder'], data['dimension_colleges']['file'])
+    conference_df = pd.read_csv(source)
+    conference_df = conference_df[data['conference_keep_columns']]
+
+    df = pd.merge(df, conference_df, left_on='fms_college_id', right_on='fms_college_id', how='left')
+    df = df.drop_duplicates(subset='fms_id', keep='last')
 
 
     ### math transformations ###
 
     df['hw_ratio'] = df['college_height_inches'] / df['college_weight_pounds']
+    df['conference_scale'] = df['conference'].map(data['conference_scale'])
+    df['conference_scale'] = df['conference_scale'].fillna(0.7)
+    df['conference_scale'] = df['conference_scale'].astype(float)  # convert to float
+
 
 
     for column in data['per_game_columns']:
         new_name = str(column) + '_pg'
         df[new_name] = df[column]/df['rushing_games']
+        scaled_name = new_name + "_cf_scaled"
+        df[scaled_name] = df[new_name] * df['conference_scale']
 
     ### apply z score ###
 
@@ -81,6 +92,7 @@ def main():
         col_zscore = col + '_zscore'
         z_score_list.append(col_zscore)
         df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
+
 
 
     df = df[data['column_order']]

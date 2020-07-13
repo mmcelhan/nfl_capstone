@@ -31,7 +31,6 @@ def main():
     source = os.path.join(two_up, data['dimension_players']['folder'], data['dimension_players']['file'])
     df = pd.read_csv(source)
     df = df['fms_id']
-    #print(len(df))
 
     ###  madden stats ###
 
@@ -45,14 +44,10 @@ def main():
     madden_df = madden_df.drop_duplicates(subset='fms_id', keep='last')
 
     madden_df['max_madden'] = np.nanmax(madden_df[madden_df.columns.difference(['fms_id'])].values, axis=1)
-    # madden_df['max_madden'] = madden_df.apply(moving_average(list(madden_df.columns.difference(['fms_id']))))
-    # madden_df['max_madden'] = madden_df.apply(lambda row: moving_average(madden_df.columns.difference(['fms_id'])))
-    #madden_df['max_madden'] = madden_df.apply(test_roll, axis=1)
 
     madden_df = madden_df[data['madden_keep_post']]
 
     df = pd.merge(df, madden_df, left_on=['fms_id'], right_on=['fms_id'], how='left')
-    #print(len(df['fms_id']))
 
     ### combine stats ###
 
@@ -62,7 +57,6 @@ def main():
     # drop duplicates, need to fix this later
     combine_df = combine_df.drop_duplicates(subset='fms_id', keep='last')
     df = pd.merge(df, combine_df, left_on=['fms_id'], right_on=['fms_id'], how='left')
-    #print(len(df['fms_id']))
 
 
     ### college stats ###
@@ -73,12 +67,13 @@ def main():
 
     # drop duplicates, need to fix this later
     df_college_stats = df_college_stats.drop_duplicates(subset='fms_id', keep='last')
-
     df = pd.merge(df, df_college_stats, on='fms_id', how='left')  # left join
 
-    df.rename(columns=data['column_rename'], inplace=True)
 
+
+    df.rename(columns=data['column_rename'], inplace=True)
     df = df[data['column_order']]
+
 
     target_folder = os.path.join(target_dir, data['output_folder'])
     hlp.make_folder_if_not_exists(target_folder)

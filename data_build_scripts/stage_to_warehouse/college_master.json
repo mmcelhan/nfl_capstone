@@ -8,6 +8,7 @@
   "college_econ":{"folder":"statistics_stage", "file": "collegetown-econ-output.csv"},
   "college_stats":{"folder":"statistics_stage", "file": "college_stats_annual.csv"},
   "college_budget":{"folder":"colleges_stage", "file": "CollegeFootballBudget.csv"},
+  "conferences":{"folder":"colleges_stage", "file": "college_conferences.csv"},
   "geo_master": {"folder": "master_wh","file": "geo_master.csv"},
   "combine_keep": ["college"],
   "college_weather_keep": ["college", "latitude", "longitude"],
@@ -31,6 +32,6 @@
         "Data":"college"
   },
   "keep_columns":
-        ["fms_college_id", "fms_city_id", "college", "city_state", "city", "state", "county", "latitude", "longitude"]
+        ["fms_college_id", "fms_city_id", "college", "conference", "city_state", "city", "state", "county", "latitude", "longitude"]
 
 }
