@@ -13,11 +13,25 @@ def main():
     f = open(os.path.join(local_path, "reporting_rb.json"))
     data = json.load(f)
     two_up = os.path.abspath(os.path.join(local_path, "../.."))
+    target_dir = os.path.join(two_up, data['target'])
 
     source = os.path.join(two_up, data['dimension_players']['folder'], data['dimension_players']['file'])
-    target_dir = os.path.join(two_up, data['target'])
     df = pd.read_csv(source)
     df = df[df['position'].str.contains("RB")]
+
+    ### get city IDs for colleges
+
+    source = os.path.join(two_up, data['dimension_colleges']['folder'], data['dimension_colleges']['file'])
+    college_city_df = pd.read_csv(source)
+    college_city_df = college_city_df[data['dimension_colleges_keep_columns']]
+    print(college_city_df)
+
+    ### merge dimension players and dimension colleges ###
+
+    df = pd.merge(df, college_city_df, on='fms_college_id', how='left')
+    df = df.drop_duplicates(subset='fms_id', keep='last')
+
+    print(df)
 
     ### player stats ###
 
@@ -29,9 +43,6 @@ def main():
 
     ### college stats ###
 
-    ### commenting out for now until we land on what metrics we want
-
-
     source = os.path.join(two_up, data['facts_college_metrics']['folder'], data['facts_college_metrics']['file'])
     college_stats_df = pd.read_csv(source)
     college_stats_df = college_stats_df[data['college_stats_keep_columns']]
@@ -40,6 +51,17 @@ def main():
 
     df = pd.merge(df, college_stats_df, left_on='fms_college_id', right_on='fms_college_id', how='left')
     df = df.drop_duplicates(subset='fms_id', keep='last')
+
+
+    ### city stats ###
+
+    source = os.path.join(two_up, data['facts_cities_metrics']['folder'], data['facts_cities_metrics']['file'])
+    city_stats_df = pd.read_csv(source)
+
+    df = pd.merge(df, city_stats_df, left_on='fms_city_id', right_on='fms_city_id', how='left')
+    df = df.drop_duplicates(subset='fms_id', keep='last')
+
+
 
 
     ### math transformations ###
@@ -59,6 +81,7 @@ def main():
         col_zscore = col + '_zscore'
         z_score_list.append(col_zscore)
         df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
+
 
     df = df[data['column_order']]
 
