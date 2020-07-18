@@ -79,3 +79,20 @@ def return_fms_city_id(keep_columns = ['fms_city_id', 'city_state']):
     df = pd.read_csv(source)
     df = df[keep_columns]
     return df
+
+
+def write_representative_statistics(attribute, mean=0, stdev=0, min=0, max=0):
+    local_path = os.path.dirname(os.path.abspath(__file__))
+    one_up = os.path.abspath(os.path.join(local_path, ".."))
+    path = os.path.join(one_up, "data_mart", "representative_statistics.csv")
+    if not os.path.exists(path):
+        index = ["mean", "stden", "min", "max"]
+        df = pd.DataFrame(index=index)
+        df.to_csv(path)
+    else:
+        source = open(os.path.join(one_up, "data_mart", "representative_statistics.csv"))
+        df = pd.read_csv(source)
+        df[attribute] = [mean, stdev, min, max]
+        df.to_csv(path, index=False)
+
+

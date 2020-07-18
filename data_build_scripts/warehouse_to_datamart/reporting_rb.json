@@ -23,24 +23,28 @@
        "rushing_rec_td", "rushing_rec_yards", "rushing_receptions",
        "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds",
        "rushing_scrim_plays", "rushing_scrim_tds", "rushing_scrim_yds",
-       "rushing_seasons", "college_weight_pounds_zscore", "college_height_inches_zscore",
-        "hw_ratio_zscore", "forty_zscore", "vertical_zscore", "bench_zscore", "broad_zscore", "threecone_zscore",
-        "shuttle_zscore", "rushing_games_zscore", "rushing_rec_td_zscore", "rushing_rec_yards_zscore",
-        "rushing_receptions_zscore", "rushing_rush_att_zscore", "rushing_rush_td_zscore", "rushing_rush_yds_zscore",
-        "rushing_scrim_plays_zscore", "rushing_scrim_tds_zscore", "rushing_scrim_yds_zscore", "rushing_seasons_zscore",
-        "max_madden_zscore", "rushing_rec_td_pg_zscore",
-       "rushing_rec_yards_pg_zscore", "rushing_receptions_pg_zscore",
-       "rushing_rush_att_pg_zscore", "rushing_rush_td_pg_zscore",
-       "rushing_rush_yds_pg_zscore", "rushing_scrim_plays_pg_zscore",
-       "rushing_scrim_tds_pg_zscore", "rushing_scrim_yds_pg_zscore","football_spending_zscore",
-          "coaches_salaries_zscore", "ticket_sales_zscore", "ann_rain_inch", "ann_snow_inch",
-       "min_jan", "min_feb",
-       "min_mar", "min_apr", "min_may", "min_jun", "min_jul", "min_aug",
-       "min_sep", "min_oct", "min_nov", "min_dec", "max_jan", "max_feb",
-       "max_mar", "max_apr", "max_may", "max_jun", "max_jul", "max_aug",
-       "max_sep", "max_oct", "max_nov", "max_dec","rushing_rush_td_pg_cf_scaled_zscore",
-          "rushing_rush_yds_pg_cf_scaled_zscore", "rushing_scrim_plays_pg_cf_scaled_zscore",
-        "rushing_scrim_tds_pg_cf_scaled_zscore", "rushing_scrim_yds_pg_cf_scaled_zscore","max_madden"
+       "rushing_seasons", "rb_college_weight_pounds_zscore", "rb_college_height_inches_zscore",
+        "rb_hw_ratio_zscore", "rb_forty_zscore", "rb_vertical_zscore", "rb_bench_zscore", "rb_broad_zscore",
+          "rb_threecone_zscore",
+        "rb_shuttle_zscore", "rb_rushing_games_zscore", "rb_rushing_rec_td_zscore", "rb_rushing_rec_yards_zscore",
+        "rb_rushing_receptions_zscore", "rb_rushing_rush_att_zscore", "rb_rushing_rush_td_zscore",
+          "rb_rushing_rush_yds_zscore",
+        "rb_rushing_scrim_plays_zscore", "rb_rushing_scrim_tds_zscore", "rb_rushing_scrim_yds_zscore",
+          "rb_rushing_seasons_zscore",
+        "rb_max_madden_zscore", "rb_rushing_rec_td_pg_zscore",
+       "rb_rushing_rec_yards_pg_zscore", "rb_rushing_receptions_pg_zscore",
+       "rb_rushing_rush_att_pg_zscore", "rb_rushing_rush_td_pg_zscore",
+       "rb_rushing_rush_yds_pg_zscore", "rb_rushing_scrim_plays_pg_zscore",
+       "rb_rushing_scrim_tds_pg_zscore", "rb_rushing_scrim_yds_pg_zscore","rb_football_spending_zscore",
+          "rb_coaches_salaries_zscore", "rb_ticket_sales_zscore", "rb_ann_rain_inch_zscore", "rb_ann_snow_inch_zscore",
+       "rb_min_jan_zscore", "rb_min_feb_zscore",
+       "rb_min_mar_zscore", "rb_min_apr_zscore", "rb_min_may_zscore", "rb_min_jun_zscore", "rb_min_jul_zscore",
+          "rb_min_aug_zscore", "rb_min_sep_zscore", "rb_min_oct_zscore", "rb_min_nov_zscore", "rb_min_dec_zscore",
+          "rb_max_jan_zscore", "rb_max_feb_zscore",
+       "rb_max_mar_zscore", "rb_max_apr_zscore", "rb_max_may_zscore", "rb_max_jun_zscore", "rb_max_jul_zscore",
+          "rb_max_aug_zscore", "rb_rushing_rush_td_pg_cf_scaled_zscore",
+          "rb_rushing_rush_yds_pg_cf_scaled_zscore", "rb_rushing_scrim_plays_pg_cf_scaled_zscore",
+        "rb_rushing_scrim_tds_pg_cf_scaled_zscore", "rb_rushing_scrim_yds_pg_cf_scaled_zscore","max_madden"
         ],
   
   "per_game_columns": 
@@ -70,7 +74,11 @@
         "rushing_scrim_plays_pg", "rushing_scrim_tds_pg", "rushing_scrim_yds_pg",
         "football_spending", "coaches_salaries", "ticket_sales", "rushing_rush_td_pg_cf_scaled",
         "rushing_rush_yds_pg_cf_scaled", "rushing_scrim_plays_pg_cf_scaled", "rushing_scrim_tds_pg_cf_scaled",
-        "rushing_scrim_yds_pg_cf_scaled"
-        ]
+        "rushing_scrim_yds_pg_cf_scaled", "ann_rain_inch", "ann_snow_inch",
+       "min_jan", "min_feb",
+       "min_mar", "min_apr", "min_may", "min_jun", "min_jul", "min_aug",
+       "min_sep", "min_oct", "min_nov", "min_dec", "max_jan", "max_feb",
+       "max_mar", "max_apr", "max_may", "max_jun", "max_jul", "max_aug"
+      ]
 
 }

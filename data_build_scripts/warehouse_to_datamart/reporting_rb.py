@@ -8,7 +8,7 @@ import data_build_scripts.helpers as hlp
 
 
 def main():
-
+    prefix = "rb_"
     local_path = os.path.dirname(os.path.abspath(__file__))
     f = open(os.path.join(local_path, "reporting_rb.json"))
     data = json.load(f)
@@ -89,10 +89,14 @@ def main():
 
     z_score_list = []  # to add te output df
     for col in data['z_score_columns']:
-        col_zscore = col + '_zscore'
+        col_zscore = prefix + col + '_zscore'
         z_score_list.append(col_zscore)
-        df[col_zscore] = (df[col] - df[col].mean())/df[col].std(ddof=0)
-
+        mean = df[col].mean()
+        stdev = df[col].std(ddof=0)
+        min = df[col].min()
+        max = df[col].max()
+        df[col_zscore] = (df[col] - mean) / stdev
+        hlp.write_representative_statistics(col_zscore, mean, stdev, min, max)
 
 
     df = df[data['column_order']]
