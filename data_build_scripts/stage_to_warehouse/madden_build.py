@@ -77,7 +77,6 @@ def add_espn_id():
     print("fuzzy merging madden outputs")
     df = cm.fuzzy_merge(df, espn_id_df, ['first_name', 'last_name', 'position_group'],
                         ['first_name', 'last_name', 'position_group'], threshold=95, limit=1)
-    print(df.columns)
     df = df[data['id_column_order']]
 
 
@@ -106,7 +105,6 @@ def add_fms_id():
     df = cm.fuzzy_merge(df, fms, ['first_name', 'last_name', 'position_group'],
                         ['first_name', 'last_name', 'position_group'], threshold=95, limit=1)
 
-    print(df.columns)
 
     df = df[data['fms_id_column_order']]
 

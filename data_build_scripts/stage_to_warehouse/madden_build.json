@@ -14,7 +14,8 @@
     {"folder":"statistics_stage", "file": "madden_2017.csv"},
     {"folder":"statistics_stage", "file": "madden_2018.csv"},
     {"folder":"statistics_stage", "file": "madden_2019.csv"},
-    {"folder":"statistics_stage", "file": "madden_2020.csv"}
+    {"folder":"statistics_stage", "file": "madden_2020.csv"},
+    {"folder":"statistics_stage", "file": "madden_2021.csv"}
             ],
   "columns":
           ["first_name","last_name","position","position_group","madden_rating","year"],
@@ -39,7 +40,8 @@
     "2017_madden_rating":2017,
     "2018_madden_rating":2018,
     "2019_madden_rating":2019,
-    "2020_madden_rating": 2020
+    "2020_madden_rating": 2020,
+    "2021_madden_rating": 2021
 
   },
   "year":
@@ -54,15 +56,16 @@
     "madden_2017.csv": "2017",
     "madden_2018.csv": "2018",
     "madden_2019.csv": "2019",
-    "madden_2020.csv": "2020"
+    "madden_2020.csv": "2020",
+    "madden_2021.csv": "2021"
   },
   "column_order":
         ["first_name", "last_name", "position", "position_group", "section", 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017
-          ,2018, 2019, 2020],
+          ,2018, 2019, 2020, 2021],
   "espn_id_column_order":
           ["espn_id", "first_name", "last_name", "position", "position_group", "section", "2013","2014","2015",
-            "2016", "2017","2018", "2019", "2020"],
+            "2016", "2017","2018", "2019", "2020", "2021"],
   "fms_id_column_order":
           ["fms_id", "first_name", "last_name", "position", "position_group", "section", "2010", "2011","2012","2013","2014","2015",
-            "2016", "2017","2018", "2019", "2020"]
+            "2016", "2017","2018", "2019", "2020","2021"]
 }
