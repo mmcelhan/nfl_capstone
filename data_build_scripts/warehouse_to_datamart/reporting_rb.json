@@ -42,6 +42,8 @@
           "rb_min_aug_zscore", "rb_min_sep_zscore", "rb_min_oct_zscore", "rb_min_nov_zscore", "rb_min_dec_zscore",
           "rb_max_jan_zscore", "rb_max_feb_zscore",
        "rb_max_mar_zscore", "rb_max_apr_zscore", "rb_max_may_zscore", "rb_max_jun_zscore", "rb_max_jul_zscore",
+          "rb_max_aug_zscore", "rb_max_sep_zscore", "rb_max_oct_zscore", "rb_max_nov_zscore",
+          "rb_max_dec_zscore",
           "rb_max_aug_zscore", "rb_rushing_rush_td_pg_cf_scaled_zscore",
           "rb_rushing_rush_yds_pg_cf_scaled_zscore", "rb_rushing_scrim_plays_pg_cf_scaled_zscore",
         "rb_rushing_scrim_tds_pg_cf_scaled_zscore", "rb_rushing_scrim_yds_pg_cf_scaled_zscore","max_madden"
@@ -78,7 +80,7 @@
        "min_jan", "min_feb",
        "min_mar", "min_apr", "min_may", "min_jun", "min_jul", "min_aug",
        "min_sep", "min_oct", "min_nov", "min_dec", "max_jan", "max_feb",
-       "max_mar", "max_apr", "max_may", "max_jun", "max_jul", "max_aug"
+       "max_mar", "max_apr", "max_may", "max_jun", "max_jul", "max_aug", "max_sep", "max_oct", "max_nov", "max_dec"
       ]
 
 }
