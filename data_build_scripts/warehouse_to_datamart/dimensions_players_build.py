@@ -21,11 +21,16 @@ def main():
     source = os.path.join(source_dir, data['draft']['folder'], data['draft']['file'])
 
     df = pd.read_csv(source)
+
+    ### Read college players in, including hometown ###
+
     source = os.path.join(source_dir, data['college_players']['folder'], data['college_players']['file'])
 
     df_players = pd.read_csv(source)
     df_players = df_players[data['college_players_keep']]
     df = pd.merge(df, df_players, left_on=['espn_id'], right_on=['espn_id'], how='left')  # inner join
+
+    #df = df.drop_duplicates(subset='espn_id', keep='first')
 
     source_dir = os.path.join(two_up, data['source'])  # should work in both mac and windows
     source = os.path.join(source_dir, data['draft']['folder'], data['combine_stats']['file'])
@@ -39,7 +44,6 @@ def main():
     df = df.drop_duplicates(subset='fms_id', keep='last')
 
     df_college_id = hlp.return_fms_college_id()
-
 
     df = df.merge(df_college_id, on='college', how='left')
 

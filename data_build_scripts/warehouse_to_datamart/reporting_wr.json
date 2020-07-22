@@ -5,7 +5,13 @@
   "output_file": "reporting_wr.csv",
   "datamart_folder": "data_mart",
   "dimension_players": {"folder":"data_mart", "file": "dimensions_players.csv"},
+  "dimension_colleges": {"folder":"data_mart", "file": "dimensions_colleges.csv"},
   "facts_player_metrics": {"folder":"data_mart", "file": "facts_player_metrics.csv"},
+  "facts_college_metrics": {"folder":"data_mart", "file": "facts_college_metrics.csv"},
+  "facts_cities_metrics": {"folder":"data_mart", "file": "facts_cities_metrics.csv"},
+  "dimension_colleges_keep_columns" : ["fms_college_id", "fms_city_id"],
+  "college_stats_keep_columns": ["fms_college_id", "football_spending", "coaches_salaries", "ticket_sales"],
+  "conference_keep_columns": ["fms_college_id", "conference"],
   "column_order":
         ["fms_id", "espn_id", "full_name", "first_name", "last_name", "position",
        "position_group", "section", "college", "draft_year",
@@ -13,23 +19,51 @@
        "section_rank", "drafting_team", "home_city", "home_state",
        "home_country", "college_weight_pounds", "college_height_inches", "hw_ratio",
         "forty", "vertical", "bench", "broad", "threecone",
-       "shuttle", "receiving_games", "receiving_rec_td",
-       "receiving_rec_yards", "receiving_receptions", "receiving_rush_att",
-       "receiving_rush_td", "receiving_rush_yds", "receiving_scrim_plays",
-       "receiving_scrim_tds", "receiving_scrim_yds", "receiving_seasons", "max_madden","college_weight_pounds_zscore", "college_height_inches_zscore",
-        "hw_ratio_zscore", "forty_zscore", "vertical_zscore", "bench_zscore", "broad_zscore", "threecone_zscore",
-        "shuttle_zscore", "receiving_games_zscore", "receiving_rec_td_zscore", "receiving_rec_yards_zscore", 
-          "receiving_receptions_zscore", "receiving_rush_att_zscore", "receiving_rush_td_zscore", 
-          "receiving_rush_yds_zscore", "receiving_scrim_plays_zscore", "receiving_scrim_tds_zscore", 
-          "receiving_scrim_yds_zscore", "receiving_seasons_zscore", "max_madden_zscore"]
+       "shuttle", "receiving_games", "receiving_rec_td", "receiving_rec_yards", "receiving_receptions", "receiving_scrim_plays",
+        "receiving_rec_td_pg", "receiving_rec_yards_pg", "receiving_receptions_pg", "receiving_scrim_plays_pg",
+        "receiving_rec_td_pg_cf_scaled", "receiving_rec_yards_pg_cf_scaled", "receiving_receptions_pg_cf_scaled",
+        "receiving_scrim_plays_pg_cf_scaled",
+          "wr_college_weight_pounds_zscore", "wr_college_height_inches_zscore", "wr_hw_ratio_zscore",
+        "wr_forty_zscore", "wr_vertical_zscore", "wr_bench_zscore", "wr_broad_zscore", "wr_threecone_zscore",
+       "wr_shuttle_zscore", "wr_receiving_rec_td_zscore", "wr_receiving_rec_yards_zscore",
+          "wr_receiving_receptions_zscore", "wr_receiving_scrim_plays_zscore",
+        "wr_receiving_rec_td_pg_zscore", "wr_receiving_rec_yards_pg_zscore", "wr_receiving_receptions_pg_zscore",
+          "wr_receiving_scrim_plays_pg_zscore", "wr_football_spending_zscore", "wr_coaches_salaries_zscore",
+          "wr_ticket_sales_zscore",  "wr_ann_rain_inch_zscore", "wr_ann_snow_inch_zscore",
+       "wr_min_jan_zscore", "wr_min_feb_zscore", "wr_min_mar_zscore", "wr_min_apr_zscore", "wr_min_may_zscore",
+          "wr_min_jun_zscore", "wr_min_jul_zscore", "wr_min_aug_zscore",
+       "wr_min_sep_zscore", "wr_min_oct_zscore", "wr_min_nov_zscore", "wr_min_dec_zscore", "wr_max_jan_zscore",
+          "wr_max_feb_zscore","wr_max_mar_zscore", "wr_max_apr_zscore", "wr_max_may_zscore", "wr_max_jun_zscore",
+          "wr_max_jul_zscore", "wr_max_aug_zscore", "wr_max_sep_zscore", "wr_max_oct_zscore", "wr_max_nov_zscore",
+          "wr_max_dec_zscore", "wr_receiving_rec_td_pg_cf_scaled_zscore",
+          "wr_receiving_rec_yards_pg_cf_scaled_zscore", "wr_receiving_receptions_pg_cf_scaled_zscore",
+        "wr_receiving_scrim_plays_pg_cf_scaled_zscore", "wr_max_madden_zscore","max_madden"]
 ,
+    "per_game_columns":
+          ["receiving_rec_td", "receiving_rec_yards", "receiving_receptions", "receiving_scrim_plays"],
+
+  "conference_scale": {
+    "sec": 1,
+    "acc": 0.9,
+    "big_10": 0.95,
+    "pac_12": 0.9,
+    "big_12": 0.85,
+    "mountain_west": 0.8,
+    "": 0.7
+  },
+
+
   "z_score_columns":
       ["college_weight_pounds", "college_height_inches", "hw_ratio",
         "forty", "vertical", "bench", "broad", "threecone",
-       "shuttle", "receiving_games", "receiving_rec_td",
-       "receiving_rec_yards", "receiving_receptions", "receiving_rush_att",
-       "receiving_rush_td", "receiving_rush_yds", "receiving_scrim_plays",
-       "receiving_scrim_tds", "receiving_scrim_yds", "receiving_seasons", "max_madden"
+       "shuttle", "receiving_rec_td", "receiving_rec_yards", "receiving_receptions", "receiving_scrim_plays",
+        "receiving_rec_td_pg", "receiving_rec_yards_pg", "receiving_receptions_pg", "receiving_scrim_plays_pg",
+        "receiving_rec_td_pg_cf_scaled", "receiving_rec_yards_pg_cf_scaled", "receiving_receptions_pg_cf_scaled",
+        "receiving_scrim_plays_pg_cf_scaled", "football_spending", "coaches_salaries", "ticket_sales",  "ann_rain_inch", "ann_snow_inch",
+       "min_jan", "min_feb",
+       "min_mar", "min_apr", "min_may", "min_jun", "min_jul", "min_aug",
+       "min_sep", "min_oct", "min_nov", "min_dec", "max_jan", "max_feb",
+       "max_mar", "max_apr", "max_may", "max_jun", "max_jul", "max_aug", "max_sep", "max_oct", "max_nov", "max_dec", "max_madden"
         ]
 
 }
