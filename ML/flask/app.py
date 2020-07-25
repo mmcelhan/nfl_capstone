@@ -33,7 +33,7 @@ def get_result(mtype='rb', params=[4.55, 0.66, 214.57, 50.41, 492.14, 40.94, 72.
     classification.  Defaults are mean params. Input parameters:
     mtype = which position
     params = non-normalized input params.  Sequence expected in list:
-    rb_forty, rb_rushing_scrim_tds_pg_cf_scaledrb_college_weight_pounds,
+    rb_forty, rb_rushing_scrim_tds_pg_cf_scaled, rb_college_weight_pounds,
     rb_rushing_receptions, rb_rushing_rush_att, rb_ann_rain_inch,
     rb_rushing_scrim_yds_pg_cf_scaled, rb_rushing_rush_td_pg_cf_scaled,
     rb_bench, rb_rushing_games, rb_vertical, rb_threecone, rb_broad,
@@ -66,14 +66,30 @@ def default_response():
     return "This is the default response!\n"
 
 
-@app.route("/query/<string:props>")
-def query_app(props):
+@app.route("/query/")
+# Note: currently coded for Running Backs.  New URLs for others.
+# Test with mean: http://127.0.0.1:5000/query/4.55-0.66-214.57-50.41-492.14-40.94-72.77-0.60-19.43-37.80-34.36-7.06-118.01-12.74-70.55
+# Test with star: http://127.0.0.1:5000/query/4.47-1-200-140-600-80-90-1-50-90-90-15-200-15-120
+def query_app():
     """Show the model result for given properties"""
     """Order expected: ..."""
     posts = []
-    for p in props.split():
-        posts.extend(p)
-    # To update: pass params
-    val = get_result()
+    posts.append(float(request.args.get('rb_forty')))
+    posts.append(float(request.args.get('rb_rushing_scrim_tds_pg_cf_scaled')))
+    posts.append(float(request.args.get('rb_college_weight_pounds')))
+    posts.append(float(request.args.get('rb_rushing_receptions')))
+    posts.append(float(request.args.get('rb_rushing_rush_att')))
+    posts.append(float(request.args.get('rb_ann_rain_inch')))
+    posts.append(float(request.args.get('rb_rushing_scrim_yds_pg_cf_scaled')))
+    posts.append(float(request.args.get('rb_rushing_rush_td_pg_cf_scaled')))
+    posts.append(float(request.args.get('rb_bench')))
+    posts.append(float(request.args.get('rb_rushing_games')))
+    posts.append(float(request.args.get('rb_vertical')))
+    posts.append(float(request.args.get('rb_threecone')))
+    posts.append(float(request.args.get('rb_broad')))
+    posts.append(float(request.args.get('rb_rushing_scrim_plays_pg_cf_scaled')))
+    posts.append(float(request.args.get('rb_college_height_inches')))
+
+    val = get_result(mtype='rb', params=posts)
     # Research this part at https://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates
     return render_template('/query/index.html', posts=posts)
