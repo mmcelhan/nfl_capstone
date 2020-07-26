@@ -23,7 +23,7 @@
        "rushing_rec_td", "rushing_rec_yards", "rushing_receptions",
        "rushing_rush_att", "rushing_rush_td", "rushing_rush_yds",
        "rushing_scrim_plays", "rushing_scrim_tds", "rushing_scrim_yds",
-       "rushing_seasons", "rb_college_weight_pounds_zscore", "rb_college_height_inches_zscore",
+       "rushing_seasons", "rb_college_weight_pounds_zscore", "rb_college_height_inches_zscore", "rb_college_weight_pounds_zscore",
         "rb_hw_ratio_zscore", "rb_forty_zscore", "rb_vertical_zscore", "rb_bench_zscore", "rb_broad_zscore",
           "rb_threecone_zscore",
         "rb_shuttle_zscore", "rb_rushing_games_zscore", "rb_rushing_rec_td_zscore", "rb_rushing_rec_yards_zscore",
