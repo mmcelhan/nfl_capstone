@@ -1,0 +1,20 @@
+To build: (reference page at https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-flask.html)
+
+Crude steps:
+virtualenv virt
+source virt/bin/activate
+pip install flask==1.0.2
+pip freeze
+python install sklearn
+pip install joblib
+pip install pandas
+pip freeze > requirements.txt
+python application.py
+vim .ebignore
+# Add virt to this
+eb init -p python-3.7 nas-flask --region us-west-1
+eb init
+# I cheated and used the web to make the environment
+zip ../myapp.zip -r * .[^.]*
+
+# upload the zip file to EBS
