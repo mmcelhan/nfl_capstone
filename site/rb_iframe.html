@@ -1,66 +1,373 @@
-<form action="http://127.0.0.1:5000/query/rb/" method="GET">
+<form action="http://nfl-autoscout.us-west-1.elasticbeanstalk.com/query/rb/" target="_blank" method="GET">
+  <label for="college">Select a college:</label>
+    <select name="college" id="college">
+      <option value="Abilene Christian">Abilene Christian</option>
+      <option value="Air Force">Air Force</option>
+      <option value="Akron">Akron</option>
+      <option value="Alabama">Alabama</option>
+      <option value="Alabama A & M University">Alabama A & M University</option>
+      <option value="Alabama State">Alabama State</option>
+      <option value="Alcorn State">Alcorn State</option>
+      <option value="Appalachian State">Appalachian State</option>
+      <option value="Arizona">Arizona</option>
+      <option value="Arizona State">Arizona State</option>
+      <option value="Arkansas">Arkansas</option>
+      <option value="Arkansas State">Arkansas State</option>
+      <option value="Army">Army</option>
+      <option value="Auburn">Auburn</option>
+      <option value="Austin Peay State University">Austin Peay State University</option>
+      <option value="Azusa Pacific">Azusa Pacific</option>
+      <option value="Ball State">Ball State</option>
+      <option value="Baylor">Baylor</option>
+      <option value="Binghampton">Binghampton</option>
+      <option value="Boise State">Boise State</option>
+      <option value="Boston College">Boston College</option>
+      <option value="Bowling Green">Bowling Green</option>
+      <option value="Buffalo">Buffalo</option>
+      <option value="BYU">BYU</option>
+      <option value="California">California</option>
+      <option value="California (PA)">California (PA)</option>
+      <option value="California Polytechnic State University-San Luis Obispo">California Polytechnic State University-San Luis Obispo</option>
+      <option value="California State University-Bakersfield">California State University-Bakersfield</option>
+      <option value="California State University-Fresno">California State University-Fresno</option>
+      <option value="California State University-Fullerton">California State University-Fullerton</option>
+      <option value="California State University-Long Beach">California State University-Long Beach</option>
+      <option value="California State University-Northridge">California State University-Northridge</option>
+      <option value="California State University-Sacramento">California State University-Sacramento</option>
+      <option value="Central Connecticut State University">Central Connecticut State University</option>
+      <option value="Central Michigan">Central Michigan</option>
+      <option value="Central Missouri">Central Missouri</option>
+      <option value="Charlotte">Charlotte</option>
+      <option value="Chattanooga">Chattanooga</option>
+      <option value="Cheyney">Cheyney</option>
+      <option value="Chicago State University">Chicago State University</option>
+      <option value="Cincinnati">Cincinnati</option>
+      <option value="Citadel Military College of South Carolina">Citadel Military College of South Carolina</option>
+      <option value="Clark Atlanta">Clark Atlanta</option>
+      <option value="Clemson">Clemson</option>
+      <option value="Cleveland State University">Cleveland State University</option>
+      <option value="Coastal Carolina">Coastal Carolina</option>
+      <option value="College of Charleston">College of Charleston</option>
+      <option value="College of William and Mary">College of William and Mary</option>
+      <option value="Colorado">Colorado</option>
+      <option value="Colorado State">Colorado State</option>
+      <option value="Connecticut">Connecticut</option>
+      <option value="Coppin State University">Coppin State University</option>
+      <option value="Delaware">Delaware</option>
+      <option value="Delaware State University">Delaware State University</option>
+      <option value="Duke">Duke</option>
+      <option value="East Carolina">East Carolina</option>
+      <option value="East Tennessee State University">East Tennessee State University</option>
+      <option value="Eastern Illinois University">Eastern Illinois University</option>
+      <option value="Eastern Kentucky">Eastern Kentucky</option>
+      <option value="Eastern Michigan">Eastern Michigan</option>
+      <option value="Eastern Washington">Eastern Washington</option>
+      <option value="Ferris St.">Ferris St.</option>
+      <option value="Florida">Florida</option>
+      <option value="Florida Agricultural and Mechanical University">Florida Agricultural and Mechanical University</option>
+      <option value="Florida Atlantic">Florida Atlantic</option>
+      <option value="Florida Gulf Coast University">Florida Gulf Coast University</option>
+      <option value="Florida International">Florida International</option>
+      <option value="Florida State">Florida State</option>
+      <option value="Fort Hays State">Fort Hays State</option>
+      <option value="Fresno State">Fresno State</option>
+      <option value="Furman">Furman</option>
+      <option value="George Mason University">George Mason University</option>
+      <option value="Georgia">Georgia</option>
+      <option value="Georgia Southern">Georgia Southern</option>
+      <option value="Georgia State">Georgia State</option>
+      <option value="Georgia Tech">Georgia Tech</option>
+      <option value="Glenville State">Glenville State</option>
+      <option value="Grambling">Grambling</option>
+      <option value="Hampton">Hampton</option>
+      <option value="Hawaii">Hawaii</option>
+      <option value="Hillsdale">Hillsdale</option>
+      <option value="Houston">Houston</option>
+      <option value="Idaho">Idaho</option>
+      <option value="Idaho State">Idaho State</option>
+      <option value="Illinois">Illinois</option>
+      <option value="Illinois State">Illinois State</option>
+      <option value="Indiana">Indiana</option>
+      <option value="Indiana (PA)">Indiana (PA)</option>
+      <option value="Indiana State University">Indiana State University</option>
+      <option value="Indiana University-Bloomington">Indiana University-Bloomington</option>
+      <option value="Indiana University-Purdue University-Indianapolis">Indiana University-Purdue University-Indianapolis</option>
+      <option value="Iowa">Iowa</option>
+      <option value="Iowa State">Iowa State</option>
+      <option value="Jackson State">Jackson State</option>
+      <option value="Jacksonville State">Jacksonville State</option>
+      <option value="James Madison">James Madison</option>
+      <option value="Kansas">Kansas</option>
+      <option value="Kansas State">Kansas State</option>
+      <option value="Kennesaw State University">Kennesaw State University</option>
+      <option value="Kent State">Kent State</option>
+      <option value="Kentucky">Kentucky</option>
+      <option value="Lafayette">Lafayette</option>
+      <option value="Lamar University">Lamar University</option>
+      <option value="Lane (TN)">Lane (TN)</option>
+      <option value="Liberty">Liberty</option>
+      <option value="Longwood University">Longwood University</option>
+      <option value="Louisiana">Louisiana</option>
+      <option value="Louisiana Monroe">Louisiana Monroe</option>
+      <option value="Louisiana State University and Agricultural & Mechanical College">Louisiana State University and Agricultural & Mechanical College</option>
+      <option value="Louisiana Tech">Louisiana Tech</option>
+      <option value="Louisville">Louisville</option>
+      <option value="LSU">LSU</option>
+      <option value="Mars Hill">Mars Hill</option>
+      <option value="Marshall">Marshall</option>
+      <option value="Maryland">Maryland</option>
+      <option value="McNeese">McNeese</option>
+      <option value="Memphis">Memphis</option>
+      <option value="Miami">Miami</option>
+      <option value="Miami (OH)">Miami (OH)</option>
+      <option value="Michigan">Michigan</option>
+      <option value="Michigan State">Michigan State</option>
+      <option value="Middle Tennessee">Middle Tennessee</option>
+      <option value="Minnesota">Minnesota</option>
+      <option value="Minnesota-Morris">Minnesota-Morris</option>
+      <option value="Mississippi State">Mississippi State</option>
+      <option value="Mississippi Valley State University">Mississippi Valley State University</option>
+      <option value="Missouri">Missouri</option>
+      <option value="Missouri Southern">Missouri Southern</option>
+      <option value="Missouri State University">Missouri State University</option>
+      <option value="Missouri Western">Missouri Western</option>
+      <option value="Montana">Montana</option>
+      <option value="Montana State">Montana State</option>
+      <option value="Morehead State University">Morehead State University</option>
+      <option value="Morgan State">Morgan State</option>
+      <option value="Murray State University">Murray State University</option>
+      <option value="Navy">Navy</option>
+      <option value="NC State">NC State</option>
+      <option value="Nebraska">Nebraska</option>
+      <option value="Nevada">Nevada</option>
+      <option value="New Jersey Institute of Technology">New Jersey Institute of Technology</option>
+      <option value="New Mexico">New Mexico</option>
+      <option value="New Mexico State">New Mexico State</option>
+      <option value="Nicholls">Nicholls</option>
+      <option value="Norfolk State">Norfolk State</option>
+      <option value="North Alabama">North Alabama</option>
+      <option value="North Carolina">North Carolina</option>
+      <option value="North Carolina A&T">North Carolina A&T</option>
+      <option value="North Carolina Central">North Carolina Central</option>
+      <option value="North Carolina St.">North Carolina St.</option>
+      <option value="North Carolina State University at Raleigh">North Carolina State University at Raleigh</option>
+      <option value="North Dakota State">North Dakota State</option>
+      <option value="North Texas">North Texas</option>
+      <option value="Northern Arizona">Northern Arizona</option>
+      <option value="Northern Colorado">Northern Colorado</option>
+      <option value="Northern Illinois">Northern Illinois</option>
+      <option value="Northern Iowa">Northern Iowa</option>
+      <option value="Northern Kentucky University">Northern Kentucky University</option>
+      <option value="Northwestern">Northwestern</option>
+      <option value="Northwestern St. (LA)">Northwestern St. (LA)</option>
+      <option value="Northwestern State">Northwestern State</option>
+      <option value="Northwestern State University of Louisiana">Northwestern State University of Louisiana</option>
+      <option value="Notre Dame">Notre Dame</option>
+      <option value="Oakland University">Oakland University</option>
+      <option value="Ohio">Ohio</option>
+      <option value="Ohio State">Ohio State</option>
+      <option value="Oklahoma">Oklahoma</option>
+      <option value="Oklahoma State">Oklahoma State</option>
+      <option value="Old Dominion">Old Dominion</option>
+      <option value="Ole Miss">Ole Miss</option>
+      <option value="Oregon">Oregon</option>
+      <option value="Oregon State">Oregon State</option>
+      <option value="Penn State">Penn State</option>
+      <option value="Pittsburgh">Pittsburgh</option>
+      <option value="Portland State">Portland State</option>
+      <option value="Prairie View A & M University">Prairie View A & M University</option>
+      <option value="Purdue">Purdue</option>
+      <option value="Purdue University Fort Wayne">Purdue University Fort Wayne</option>
+      <option value="Radford University">Radford University</option>
+      <option value="Rice">Rice</option>
+      <option value="Richmond">Richmond</option>
+      <option value="Rutgers">Rutgers</option>
+      <option value="Sam Houston State">Sam Houston State</option>
+      <option value="Samford">Samford</option>
+      <option value="San Diego">San Diego</option>
+      <option value="San Diego State">San Diego State</option>
+      <option value="San Jose State">San Jose State</option>
+      <option value="Savannah State">Savannah State</option>
+      <option value="Shepherd">Shepherd</option>
+      <option value="SMU">SMU</option>
+      <option value="South Alabama">South Alabama</option>
+      <option value="South Carolina">South Carolina</option>
+      <option value="South Carolina State">South Carolina State</option>
+      <option value="South Dakota State">South Dakota State</option>
+      <option value="South Florida">South Florida</option>
+      <option value="Southeast Missouri State University">Southeast Missouri State University</option>
+      <option value="Southeastern Louisiana">Southeastern Louisiana</option>
+      <option value="Southern">Southern</option>
+      <option value="Southern Illinois">Southern Illinois</option>
+      <option value="Southern Illinois University-Carbondale">Southern Illinois University-Carbondale</option>
+      <option value="Southern Illinois University-Edwardsville">Southern Illinois University-Edwardsville</option>
+      <option value="Southern Mississippi">Southern Mississippi</option>
+      <option value="Southern Oregon">Southern Oregon</option>
+      <option value="Southern University and A & M College">Southern University and A & M College</option>
+      <option value="Southern Utah">Southern Utah</option>
+      <option value="Stanford">Stanford</option>
+      <option value="Stephen F Austin State University">Stephen F Austin State University</option>
+      <option value="Stillman">Stillman</option>
+      <option value="Stony Brook University">Stony Brook University</option>
+      <option value="Syracuse">Syracuse</option>
+      <option value="TCU">TCU</option>
+      <option value="Temple">Temple</option>
+      <option value="Tennessee">Tennessee</option>
+      <option value="Tennessee State">Tennessee State</option>
+      <option value="Tennessee Tech">Tennessee Tech</option>
+      <option value="Tennessee Technological University">Tennessee Technological University</option>
+      <option value="Texas">Texas</option>
+      <option value="Texas A & M University-Corpus Christi">Texas A & M University-Corpus Christi</option>
+      <option value="Texas A&M">Texas A&M</option>
+      <option value="Texas A&M-Commerce">Texas A&M-Commerce</option>
+      <option value="Texas Christian">Texas Christian</option>
+      <option value="Texas College">Texas College</option>
+      <option value="Texas Southern University">Texas Southern University</option>
+      <option value="Texas State">Texas State</option>
+      <option value="Texas Tech">Texas Tech</option>
+      <option value="The University of Tennessee at Chattanooga">The University of Tennessee at Chattanooga</option>
+      <option value="The University of Tennessee at Martin">The University of Tennessee at Martin</option>
+      <option value="The University of Texas at Arlington">The University of Texas at Arlington</option>
+      <option value="The University of Texas at El Paso">The University of Texas at El Paso</option>
+      <option value="The University of Texas at San Antonio">The University of Texas at San Antonio</option>
+      <option value="The University of Texas Rio Grande Valley">The University of Texas Rio Grande Valley</option>
+      <option value="Toledo">Toledo</option>
+      <option value="Towson">Towson</option>
+      <option value="Troy">Troy</option>
+      <option value="Tulane">Tulane</option>
+      <option value="Tulsa">Tulsa</option>
+      <option value="UAB">UAB</option>
+      <option value="UC Davis">UC Davis</option>
+      <option value="UCF">UCF</option>
+      <option value="UCLA">UCLA</option>
+      <option value="UMass">UMass</option>
+      <option value="University at Albany, State University of New York">University at Albany, State University of New York</option>
+      <option value="University of Arkansas at Little Rock">University of Arkansas at Little Rock</option>
+      <option value="University of Arkansas at Pine Bluff">University of Arkansas at Pine Bluff</option>
+      <option value="University of California-Irvine">University of California-Irvine</option>
+      <option value="University of California-Riverside">University of California-Riverside</option>
+      <option value="University of California-Santa Barbara">University of California-Santa Barbara</option>
+      <option value="University of Central Arkansas">University of Central Arkansas</option>
+      <option value="University of Illinois at Chicago">University of Illinois at Chicago</option>
+      <option value="University of Maryland Eastern Shore">University of Maryland Eastern Shore</option>
+      <option value="University of Maryland-Baltimore County">University of Maryland-Baltimore County</option>
+      <option value="University of Massachusetts Amherst">University of Massachusetts Amherst</option>
+      <option value="University of Massachusetts-Lowell">University of Massachusetts-Lowell</option>
+      <option value="University of Minnesota-Twin Cities">University of Minnesota-Twin Cities</option>
+      <option value="University of Missouri-Kansas City">University of Missouri-Kansas City</option>
+      <option value="University of Nebraska at Omaha">University of Nebraska at Omaha</option>
+      <option value="University of Nevada-Reno">University of Nevada-Reno</option>
+      <option value="University of New Hampshire">University of New Hampshire</option>
+      <option value="University of New Orleans">University of New Orleans</option>
+      <option value="University of North Carolina at Asheville">University of North Carolina at Asheville</option>
+      <option value="University of North Carolina at Charlotte">University of North Carolina at Charlotte</option>
+      <option value="University of North Carolina at Greensboro">University of North Carolina at Greensboro</option>
+      <option value="University of North Carolina at Wilmington">University of North Carolina at Wilmington</option>
+      <option value="University of North Dakota">University of North Dakota</option>
+      <option value="University of North Florida">University of North Florida</option>
+      <option value="University of Rhode Island">University of Rhode Island</option>
+      <option value="University of South Carolina Upstate">University of South Carolina Upstate</option>
+      <option value="University of South Dakota">University of South Dakota</option>
+      <option value="University of Vermont">University of Vermont</option>
+      <option value="University of Wisconsin-Green Bay">University of Wisconsin-Green Bay</option>
+      <option value="University of Wisconsin-Milwaukee">University of Wisconsin-Milwaukee</option>
+      <option value="UNLV">UNLV</option>
+      <option value="USC">USC</option>
+      <option value="UT Martin">UT Martin</option>
+      <option value="UT San Antonio">UT San Antonio</option>
+      <option value="Utah">Utah</option>
+      <option value="Utah State">Utah State</option>
+      <option value="Utah Valley University">Utah Valley University</option>
+      <option value="UTEP">UTEP</option>
+      <option value="Vanderbilt">Vanderbilt</option>
+      <option value="Villanova">Villanova</option>
+      <option value="Virginia">Virginia</option>
+      <option value="Virginia Commonwealth University">Virginia Commonwealth University</option>
+      <option value="Virginia Military Institute">Virginia Military Institute</option>
+      <option value="Virginia Polytechnic Institute and State University">Virginia Polytechnic Institute and State University</option>
+      <option value="Virginia Tech">Virginia Tech</option>
+      <option value="Wake Forest">Wake Forest</option>
+      <option value="Washington">Washington</option>
+      <option value="Washington State">Washington State</option>
+      <option value="Wayne State (MI)">Wayne State (MI)</option>
+      <option value="Weber State">Weber State</option>
+      <option value="West Georgia">West Georgia</option>
+      <option value="West Liberty">West Liberty</option>
+      <option value="West Texas A&M">West Texas A&M</option>
+      <option value="West Virginia">West Virginia</option>
+      <option value="Western Carolina">Western Carolina</option>
+      <option value="Western Illinois University">Western Illinois University</option>
+      <option value="Western Kentucky">Western Kentucky</option>
+      <option value="Western Michigan">Western Michigan</option>
+      <option value="Wichita State University">Wichita State University</option>
+      <option value="Winthrop University">Winthrop University</option>
+      <option value="Wisconsin">Wisconsin</option>
+      <option value="Wright State University">Wright State University</option>
+      <option value="Wyoming">Wyoming</option>
+      <option value="Yale">Yale</option>
+      <option value="Youngstown State">Youngstown State</option>
+    </select>
   <div>
-    <label for="number">rb_forty</label>
-    <input type="number" id="rb_forty" name="rb_forty" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Forty Yard Dash Time (seconds)</label>
+    <input type="number" id="rb_forty" name="rb_forty" value="4.55" min="4.24" step="0.01" max="4.93">
   </div>
   <div>
-    <label for="number">rb_rushing_scrim_tds_pg_cf_scaled</label>
-    <input type="number" id="rb_rushing_scrim_tds_pg_cf_scaled" name="rb_rushing_scrim_tds_pg_cf_scaled" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Average Touchdowns Per Game</label>
+    <input type="number" id="rb_rushing_scrim_tds_pg_cf_scaled" name="rb_rushing_scrim_tds_pg_cf_scaled" value="0.66" min="0" step="0.01" max="1.77">
   </div>
   <div>
-    <label for="number">rb_college_weight_pounds</label>
-    <input type="number" id="rb_college_weight_pounds" name="rb_college_weight_pounds" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Weight (pounds)</label>
+    <input type="number" id="rb_college_weight_pounds" name="rb_college_weight_pounds" value="214" min="168" step="1" max="267">
   </div>
   <div>
-    <label for="number">rb_rushing_receptions</label>
-    <input type="number" id="rb_rushing_receptions" name="rb_rushing_receptions" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Career Receptions</label>
+    <input type="number" id="rb_rushing_receptions" name="rb_rushing_receptions" value="50.41" min="0" step="0.01" max="303">
   </div>
   <div>
-    <label for="number">rb_rushing_rush_att</label>
-    <input type="number" id="rb_rushing_rush_att" name="rb_rushing_rush_att" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Career Rushing Attempts</label>
+    <input type="number" id="rb_rushing_rush_att" name="rb_rushing_rush_att" value="492.14" min="0" step="0.01" max="1220">
+  </div>
+  <!--<div>
+    <label for="number">College Location Annual Rainfall (inches)</label>
+    <input type="number" id="rb_ann_rain_inch" name="rb_ann_rain_inch" value="40.94" min="4.72" step="0.01" max="122.63">
+  </div>-->
+  <div>
+    <label for="number">Average Total Scrimmage Yards</label>
+    <input type="number" id="rb_rushing_scrim_yds_pg_cf_scaled" name="rb_rushing_scrim_yds_pg_cf_scaled" value="72.77" min="0.15" step="0.01" max="150.16">
   </div>
   <div>
-    <label for="number">rb_ann_rain_inch</label>
-    <input type="number" id="rb_ann_rain_inch" name="rb_ann_rain_inch" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Average Rushing Touchdowns Per Game</label>
+    <input type="number" id="rb_rushing_rush_td_pg_cf_scaled" name="rb_rushing_rush_td_pg_cf_scaled" value="0.60" min="0" step="0.01" max="1.77">
   </div>
   <div>
-    <label for="number">rb_rushing_scrim_yds_pg_cf_scaled</label>
-    <input type="number" id="rb_rushing_scrim_yds_pg_cf_scaled" name="rb_rushing_scrim_yds_pg_cf_scaled" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Total Bench Press Repetitions of 225 lbs</label>
+    <input type="number" id="rb_bench" name="rb_bench" value="19" min="5" step="1" max="34">
   </div>
   <div>
-    <label for="number">rb_rushing_rush_td_pg_cf_scaled</label>
-    <input type="number" id="rb_rushing_rush_td_pg_cf_scaled" name="rb_rushing_rush_td_pg_cf_scaled" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Total Games Played</label>
+    <input type="number" id="rb_rushing_games" name="rb_rushing_games" value="37" min="0" step="1" max="54">
   </div>
   <div>
-    <label for="number">rb_bench</label>
-    <input type="number" id="rb_bench" name="rb_bench" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Vertical Leap (inches)</label>
+    <input type="number" id="rb_vertical" name="rb_vertical" value="34.36" min="25.5" step="0.01" max="43">
   </div>
   <div>
-    <label for="number">rb_rushing_games</label>
-    <input type="number" id="rb_rushing_games" name="rb_rushing_games" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Three Cone Time (seconds)</label>
+    <input type="number" id="rb_threecone" name="rb_threecone" value="7.06" min="6.5" step="0.01" max="7.68">
   </div>
   <div>
-    <label for="number">rb_vertical</label>
-    <input type="number" id="rb_vertical" name="rb_vertical" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Broad Jump (inches)</label>
+    <input type="number" id="rb_broad" name="rb_broad" value="118" min="103" step="1" max="137">
   </div>
   <div>
-    <label for="number">rb_threecone</label>
-    <input type="number" id="rb_threecone" name="rb_threecone" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Average Scrimmage Plays Per Game</label>
+    <input type="number" id="rb_rushing_scrim_plays_pg_cf_scaled" name="rb_rushing_scrim_plays_pg_cf_scaled" value="12.74" min="0.07" step="0.01" max="27.75">
   </div>
   <div>
-    <label for="number">rb_broad</label>
-    <input type="number" id="rb_broad" name="rb_broad" value="1" min="0" step="0.01" max="1000000">
-  </div>
-  <div>
-    <label for="number">rb_rushing_scrim_plays_pg_cf_scaled</label>
-    <input type="number" id="rb_rushing_scrim_plays_pg_cf_scaled" name="rb_rushing_scrim_plays_pg_cf_scaled" value="1" min="0" step="0.01" max="1000000">
-  </div>
-  <div>
-    <label for="number">rb_college_height_inches</label>
-    <input type="number" id="rb_college_height_inches" name="rb_college_height_inches" value="1" min="0" step="0.01" max="1000000">
+    <label for="number">Height (inches)</label>
+    <input type="number" id="rb_college_height_inches" name="rb_college_height_inches" value="70" min="66" step="1" max="76">
   </div>
   <div>
     <button>Submit</button>
   </div>
 </form>
-

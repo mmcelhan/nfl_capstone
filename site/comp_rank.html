@@ -6,15 +6,78 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Page Title</title>
 <link href="css/singlePageTemplate.css" rel="stylesheet" type="text/css">
+<style>
+
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
+
+}
+
+	body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 24px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+	
+</style>
 <script>var __adobewebfontsappname__="dreamweaver"</script>
-<script src="http://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
+<script src="https://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-<script src="sorttable.js" type="text/javascript"></script>
 </head>
 <body>
 <!-- Main Container -->
@@ -28,14 +91,46 @@
       </ul>
     </nav>
   </header>
+	
+	<div class="tab">
+  <button class="tablinks" onclick="openVis(event, 'RB')">Running Backs</button>
+  <button class="tablinks" onclick="openVis(event, 'WR')">Wide Receivers</button>
+  <button class="tablinks" onclick="openVis(event, 'CB')">Corner Backs</button>
+</div>
+
+<!-- Tab content -->
+<div id="RB" class="tabcontent">
+  <a href="https://groups.ischool.berkeley.edu/NFL-Auto-Scout/extras/d3-sample/" target="_blank"><img src="images/d3-rb.png" alt="Rank of Running Backs, click for live sample" style="width: 75vw; min-width: 330px;"></a>
+</div>
+
+<div id="WR" class="tabcontent">
+  <img src="images/d3-wr.png" alt="Rank of Wide Receivers" style="width: 75vw; min-width: 330px;">
+</div>
+
+<div id="CB" class="tabcontent">
+  <img src="images/d3-cb.png" alt="Rank of Corner Backs" style="width: 75vw; min-width: 330px;">
+</div>
   <section class="About" id="Running Back">
-	  <p>The following visualizations illustrate our model performance, in context of NFL draft order and the EA Madden score.</p>
-    <h2>Running Back</h2>
-	  <img src="images/rank_rb.png" style="width: 55vw; min-width: 330px;">
-	 <h2>Wide Receiver</h2>
-	  <img src="images/rank_wr.png" style="width: 55vw; min-width: 330px;">
+
   </section>
 </div>
+	
+
+<script>
+function openVis(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
 
 </body>
 </html>
