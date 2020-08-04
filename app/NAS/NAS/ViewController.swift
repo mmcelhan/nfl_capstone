@@ -27,8 +27,8 @@ class ViewController: UIViewController{
         present(vc, animated: true)
     }
     
-    @IBAction func criteria_tapped(){
-        let vc = SFSafariViewController(url:URL(string:"https://groups.ischool.berkeley.edu/NFL-Auto-Scout/criteria.html")!)
+    @IBAction func vis_tapped(){
+        let vc = SFSafariViewController(url:URL(string:"https://groups.ischool.berkeley.edu/NFL-Auto-Scout/data_vis.html")!)
         vc.preferredBarTintColor = UIColor .black
         present(vc, animated: true)
     }
